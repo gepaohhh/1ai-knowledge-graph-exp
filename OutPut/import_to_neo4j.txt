@@ -1,0 +1,69 @@
+# ============================================
+# Neo4j 数据导入命令
+# ============================================
+
+# 方法 1: 使用 neo4j-admin 导入工具（推荐）
+# ------------------------------------------
+# 1. 将生成的 CSV 文件放到 Neo4j 的 import 目录下
+#    例如：D:\neo4j\import\
+#    或者你的 Neo4j 安装目录下的 import 文件夹
+
+# 2. 停止 Neo4j 服务（如果正在运行）
+#    neo4j stop
+
+# 3. 使用 neo4j-admin 导入工具
+# Windows PowerShell:
+neo4j-admin database import full `
+  --nodes=nodes.csv `
+  --relationships=relationships.csv
+
+neo4j-admin database import full --nodes="E:/Neo4j/neo4j-community-5.26.12/import/nodes5.csv"  --relationships="E:/Neo4j/neo4j-community-5.26.12/import/relationships5.csv"
+
+neo4j-admin database import full --nodes="E:/Neo4j/neo4j-community-5.26.12/import/nodes6.csv"  --relationships="E:/Neo4j/neo4j-community-5.26.12/import/relationships6.csv"
+
+# 4. 启动 Neo4j
+#    neo4j start
+
+
+# ============================================
+# 方法 2: 在 Neo4j Browser 中使用 LOAD CSV（适合已有数据库）
+# ============================================
+
+# 导入节点
+LOAD CSV WITH HEADERS FROM 'file:///nodes.csv' AS row
+CREATE (:Entity {id: row.`:ID`, name: row.name})
+
+# 创建索引以便快速查找
+CREATE INDEX FOR (e:Entity) ON (e.id)
+
+# 导入关系
+LOAD CSV WITH HEADERS FROM 'file:///relationships.csv' AS row
+MATCH (a:Entity {id: row.`:START_ID`})
+MATCH (b:Entity {id: row.`:END_ID`})
+CALL apoc.create.relationship(a, row.`:TYPE`, {relation: row.relation}, b) YIELD rel
+RETURN count(rel)
+
+# 或者使用 Cypher 原生语法（需要先创建关系类型）
+# 注意：Neo4j 不支持动态关系类型，需要使用 APOC 过程
+
+# ============================================
+# 查询示例
+# ============================================
+
+# 查看所有节点
+MATCH (n) RETURN n LIMIT 100
+
+# 查看特定实体的关系
+MATCH (n:Entity {name: "大清河河水系"})-[r]-(m)
+RETURN n, r, m
+
+# 统计节点数量
+MATCH (n) RETURN count(n)
+
+# 统计关系类型
+MATCH ()-[r]->() 
+RETURN type(r) as relationship_type, count(*) as count
+ORDER BY count DESC
+
+# ============================================
+    

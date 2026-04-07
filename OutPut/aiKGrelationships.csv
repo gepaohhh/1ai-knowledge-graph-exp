@@ -1,0 +1,329 @@
+﻿:START_ID,:END_ID,:TYPE,relation
+8,70,COVERS_AREA,covers area
+70,89,FORMED_BY,formed by
+70,56,FORMED_BY,formed by
+70,112,FORMED_BY,formed by
+70,133,FORMED_BY,formed by
+70,153,FORMED_BY,formed by
+70,76,FORMED_BY,formed by
+70,25,FORMED_BY,formed by
+70,13,FORMED_BY,formed by
+70,23,FORMED_BY,formed by
+70,24,FORMED_BY,formed by
+89,70,USES_BENCHMARK,uses benchmark
+112,151,USES_BENCHMARK,uses benchmark
+133,70,USES_BENCHMARK,uses benchmark
+153,151,USES_BENCHMARK,uses benchmark
+76,70,USES_BENCHMARK,uses benchmark
+89,1,HAS_DESIGN_STANDARD,has design standard
+112,11,HAS_DESIGN_STANDARD,has design standard
+133,11,HAS_DESIGN_STANDARD,has design standard
+153,1,HAS_DESIGN_STANDARD,has design standard
+76,1,HAS_DESIGN_STANDARD,has design standard
+133,2,HAS_CHECK_STANDARD,has check standard
+76,7,HAS_CHECK_STANDARD,has check standard
+112,4,HAS_STORAGE_CAPACITY,has storage capacity
+133,16,STATUS_IS,status is
+76,19,STATUS_IS,status is
+25,119,CONNECTS_JUNSHAN,connects junshan
+25,6,FOLLOWS_DESIGN_STANDARD,follows design standard
+23,15,IS_TYPE_OF,is type of
+23,15,INCLUDES_COMPONENT,includes component
+23,17,INCLUDES_COMPONENT,includes component
+87,15,INCLUDES_COMPONENT,includes component
+14,70,IS_LOCATED_IN,is located in
+22,36,UNIT_IS,unit is
+20,36,UNIT_IS,unit is
+21,36,UNIT_IS,unit is
+18,125,UNIT_IS,unit is
+81,80,MEASURED_AT,measured at
+136,75,ENSURES_SAFETY_FOR,ensures safety for
+136,147,ENSURES_SAFETY_FOR,ensures safety for
+136,37,ENSURES_SAFETY_FOR,ensures safety for
+136,33,INVOLVES_INFRASTRUCTURE_LIKE,involves infrastructure like
+136,32,INVOLVES_INFRASTRUCTURE_LIKE,involves infrastructure like
+136,34,INVOLVES_INFRASTRUCTURE_LIKE,involves infrastructure like
+136,86,INVOLVES_INFRASTRUCTURE_LIKE,involves infrastructure like
+136,35,INVOLVES_INFRASTRUCTURE_LIKE,involves infrastructure like
+136,69,INVOLVES_INFRASTRUCTURE_LIKE,involves infrastructure like
+136,95,INVOLVES_INFRASTRUCTURE_LIKE,involves infrastructure like
+136,51,INVOLVES_INFRASTRUCTURE_LIKE,involves infrastructure like
+136,49,INVOLVES_INFRASTRUCTURE_LIKE,involves infrastructure like
+143,89,INCLUDES_RESERVOIRS_LIKE,includes reservoirs like
+143,56,INCLUDES_RESERVOIRS_LIKE,includes reservoirs like
+143,112,INCLUDES_RESERVOIRS_LIKE,includes reservoirs like
+143,133,INCLUDES_RESERVOIRS_LIKE,includes reservoirs like
+143,153,INCLUDES_RESERVOIRS_LIKE,includes reservoirs like
+143,76,INCLUDES_RESERVOIRS_LIKE,includes reservoirs like
+137,39,DIVERTS_WATER_TO,diverts water to
+137,26,DIVERTS_WATER_TO,diverts water to
+137,82,DIVERTS_WATER_TO,diverts water to
+137,139,DIVERTS_WATER_TO,diverts water to
+137,59,DIVERTS_WATER_TO,diverts water to
+137,77,DIVERTS_WATER_TO,diverts water to
+108,46,HAS_LIMIT_AT,has limit at
+108,144,HAS_LIMIT_AT,has limit at
+108,27,HAS_LIMIT_AT,has limit at
+140,87,HAS_LIMIT_AT,has limit at
+140,114,HAS_LIMIT_AT,has limit at
+120,91,CONTROLS_WATER_LEVEL,controls water level
+87,140,LOCATED_ON,located on
+87,12,OPERATED_WHEN_LEVEL,operated when level
+87,82,DIVERTS_TO,diverts to
+48,82,OPENED_TO_DIVERT,opened to divert
+50,44,HAS_LIMIT_AT,has limit at
+50,39,DIVERTS_TO,diverts to
+118,28,HAS_LIMIT_AT,has limit at
+84,74,DIVERTS_TO,diverts to
+110,73,CONNECTED_TO,connected to
+85,120,CONTROLS_FLOW_FROM,controls flow from
+26,141,RECEIVES_WATER_FROM,receives water from
+26,99,CONNECTED_TO,connected to
+139,142,RECEIVES_WATER_FROM,receives water from
+82,113,RECEIVES_WATER_FROM,receives water from
+77,43,UTILIZES_WATER_FROM,utilizes water from
+98,138,PROPOSES_OPINION_ON,proposes opinion on
+62,138,DECIDES_ON,decides on
+123,63,ISSUES_INSTRUCTIONS_BASED,issues instructions based
+79,123,IMPLEMENTS_ORDERS_FROM,implements orders from
+92,123,IMPLEMENTS_ORDERS_FROM,implements orders from
+147,121,ORGANIZES_IMPLEMENTATION_OF,organizes implementation of
+37,40,DECIDES_ON,decides on
+37,109,DECIDES_ON,decides on
+122,72,SUBMITS_SUGGESTION_FOR,submits suggestion for
+78,127,RESPONSIBLE_FOR,responsible for
+67,135,导致,导致
+134,103,按照,按照
+31,93,包含字段,包含字段
+31,126,包含字段,包含字段
+71,151,基准为,基准为
+101,70,基准为,基准为
+90,60,关联地点,关联地点
+45,66,关联站点,关联站点
+61,149,属于,属于
+70,134,REFERENCE_FOR,reference for
+67,134,LEADS_TO_ERROR,leads to error
+134,102,CONTROLLED_BY,controlled by
+134,68,CONTROLLED_BY,controlled by
+94,64,MANAGED_BY,managed by
+104,106,CONTAINS_RIVER,contains river
+131,104,LOCATED_ON,located on
+38,53,LOCATED_ON,located on
+152,53,LOCATED_ON,located on
+52,54,LOCATED_ON,located on
+58,105,LOCATED_ON,located on
+132,105,LOCATED_ON,located on
+115,105,LOCATED_ON,located on
+149,61,USES_BENCHMARK,uses benchmark
+149,151,USES_BENCHMARK,uses benchmark
+96,125,IS_UNIT_OF,is unit of
+30,55,适用标准,适用标准
+100,129,位于,位于
+100,151,参考基准,参考基准
+32,128,邻近,邻近
+150,125,下泄流量,下泄流量
+150,10,符合标准,符合标准
+124,97,连接至,连接至
+146,5,超过,超过
+42,130,触发于,触发于
+145,144,位于,位于
+41,47,保护,保护
+41,39,流入,流入
+70,88,作为,作为
+151,88,作为,作为
+61,88,作为,作为
+108,144,流经,流经
+71,83,提及于,提及于
+140,83,提及于,提及于
+65,3,HAS_ELEVATION,has elevation
+65,61,USES_DATUM,uses datum
+148,107,RELATED_TO,related to
+111,29,LOCATED_ABOVE,located above
+116,57,CONNECTED_TO,connected to
+61,151,BASED_ON,based on
+117,9,HAS_WIDTH,has width
+70,109,INVOLVES,involves
+26,40,RELATED_TO,related to
+70,128,PROTECTED_BY,protected by
+70,125,MEASURED_IN,measured in
+26,10,FLOOD_STANDARD,flood standard
+70,150,INCLUDES_RESERVOIR,includes reservoir
+108,70,FLOWS_INTO,flows into
+145,26,DIVERTS_TO,diverts to
+25,108,CONVEYS_FROM,conveys from
+70,58,REGULATED_BY,regulated by
+100,105,CONNECTED_TO,connected to
+26,132,CONTROLLED_BY,controlled by
+109,10,符合标准,符合标准
+150,128,影响设施,影响设施
+40,125,采用单位,采用单位
+95,108,跨越,跨越
+109,27,涉及,涉及
+128,46,保护,保护
+69,105,跨越,跨越
+128,58,邻近,邻近
+40,115,涉及,涉及
+108,125,测量单位,测量单位
+145,10,符合标准,符合标准
+108,105,FLOWS_INTO,flows into
+145,105,CONNECTS_TO,connects to
+27,105,LOCATED_ON,located on
+8,89,COVERS_AREA_VIA,covers area via
+8,134,COVERS_AREA_VIA,covers area via
+8,13,COVERS_AREA_VIA,covers area via
+8,56,COVERS_AREA_VIA,covers area via
+8,25,COVERS_AREA_VIA,covers area via
+8,133,COVERS_AREA_VIA,covers area via
+8,76,COVERS_AREA_VIA,covers area via
+8,23,COVERS_AREA_VIA,covers area via
+8,88,COVERS_AREA_VIA,covers area via
+8,112,COVERS_AREA_VIA,covers area via
+8,153,COVERS_AREA_VIA,covers area via
+8,24,COVERS_AREA_VIA,covers area via
+70,1,FORMED_BY_VIA,formed by via
+70,103,REFERENCE_FOR_VIA,reference for via
+70,102,REFERENCE_FOR_VIA,reference for via
+70,68,REFERENCE_FOR_VIA,reference for via
+70,6,FORMED_BY_VIA,formed by via
+70,119,FORMED_BY_VIA,formed by via
+70,2,FORMED_BY_VIA,formed by via
+70,16,FORMED_BY_VIA,formed by via
+70,11,FORMED_BY_VIA,formed by via
+70,19,FORMED_BY_VIA,formed by via
+70,7,FORMED_BY_VIA,formed by via
+70,15,FORMED_BY_VIA,formed by via
+70,17,FORMED_BY_VIA,formed by via
+70,151,FORMED_BY_VIA,formed by via
+70,4,FORMED_BY_VIA,formed by via
+89,134,USES_BENCHMARK_VIA,uses benchmark via
+89,13,USES_BENCHMARK_VIA,uses benchmark via
+89,56,USES_BENCHMARK_VIA,uses benchmark via
+89,25,USES_BENCHMARK_VIA,uses benchmark via
+89,133,USES_BENCHMARK_VIA,uses benchmark via
+89,76,USES_BENCHMARK_VIA,uses benchmark via
+89,23,USES_BENCHMARK_VIA,uses benchmark via
+89,88,USES_BENCHMARK_VIA,uses benchmark via
+89,112,USES_BENCHMARK_VIA,uses benchmark via
+89,153,USES_BENCHMARK_VIA,uses benchmark via
+89,24,USES_BENCHMARK_VIA,uses benchmark via
+112,88,USES_BENCHMARK_VIA,uses benchmark via
+133,89,USES_BENCHMARK_VIA,uses benchmark via
+133,134,USES_BENCHMARK_VIA,uses benchmark via
+133,13,USES_BENCHMARK_VIA,uses benchmark via
+133,56,USES_BENCHMARK_VIA,uses benchmark via
+133,25,USES_BENCHMARK_VIA,uses benchmark via
+133,76,USES_BENCHMARK_VIA,uses benchmark via
+133,23,USES_BENCHMARK_VIA,uses benchmark via
+133,88,USES_BENCHMARK_VIA,uses benchmark via
+133,112,USES_BENCHMARK_VIA,uses benchmark via
+133,153,USES_BENCHMARK_VIA,uses benchmark via
+133,24,USES_BENCHMARK_VIA,uses benchmark via
+153,88,USES_BENCHMARK_VIA,uses benchmark via
+76,89,USES_BENCHMARK_VIA,uses benchmark via
+76,134,USES_BENCHMARK_VIA,uses benchmark via
+76,13,USES_BENCHMARK_VIA,uses benchmark via
+76,56,USES_BENCHMARK_VIA,uses benchmark via
+76,25,USES_BENCHMARK_VIA,uses benchmark via
+76,133,USES_BENCHMARK_VIA,uses benchmark via
+76,23,USES_BENCHMARK_VIA,uses benchmark via
+76,88,USES_BENCHMARK_VIA,uses benchmark via
+76,112,USES_BENCHMARK_VIA,uses benchmark via
+76,153,USES_BENCHMARK_VIA,uses benchmark via
+76,24,USES_BENCHMARK_VIA,uses benchmark via
+87,113,DIVERTS_TO_VIA,diverts to via
+87,114,LOCATED_ON_VIA,located on via
+87,83,LOCATED_ON_VIA,located on via
+14,89,IS_LOCATED_IN,is located in
+14,134,IS_LOCATED_IN,is located in
+14,13,IS_LOCATED_IN,is located in
+14,56,IS_LOCATED_IN,is located in
+14,25,IS_LOCATED_IN,is located in
+14,133,IS_LOCATED_IN,is located in
+14,76,IS_LOCATED_IN,is located in
+14,23,IS_LOCATED_IN,is located in
+14,88,IS_LOCATED_IN,is located in
+14,112,IS_LOCATED_IN,is located in
+14,153,IS_LOCATED_IN,is located in
+14,24,IS_LOCATED_IN,is located in
+136,40,ENSURES_SAFETY_FOR,ensures safety for
+136,109,ENSURES_SAFETY_FOR,ensures safety for
+136,121,ENSURES_SAFETY_FOR,ensures safety for
+136,128,INVOLVES_INFRASTRUCTURE_LIKE,involves infrastructure like
+143,1,INCLUDES_RESERVOIRS_LIKE,includes reservoirs like
+143,70,INCLUDES_RESERVOIRS_LIKE,includes reservoirs like
+143,2,INCLUDES_RESERVOIRS_LIKE,includes reservoirs like
+143,16,INCLUDES_RESERVOIRS_LIKE,includes reservoirs like
+143,11,INCLUDES_RESERVOIRS_LIKE,includes reservoirs like
+143,19,INCLUDES_RESERVOIRS_LIKE,includes reservoirs like
+143,7,INCLUDES_RESERVOIRS_LIKE,includes reservoirs like
+143,151,INCLUDES_RESERVOIRS_LIKE,includes reservoirs like
+143,4,INCLUDES_RESERVOIRS_LIKE,includes reservoirs like
+137,142,DIVERTS_WATER_TO,diverts water to
+137,43,DIVERTS_WATER_TO,diverts water to
+137,99,DIVERTS_WATER_TO,diverts water to
+137,141,DIVERTS_WATER_TO,diverts water to
+137,113,DIVERTS_WATER_TO,diverts water to
+140,82,HAS_LIMIT_AT,has limit at
+140,15,HAS_LIMIT_AT,has limit at
+140,12,HAS_LIMIT_AT,has limit at
+48,113,OPENED_TO_DIVERT,opened to divert
+85,91,CONTROLS_FLOW_FROM,controls flow from
+79,63,IMPLEMENTS_ORDERS_FROM,implements orders from
+92,63,IMPLEMENTS_ORDERS_FROM,implements orders from
+67,103,LEADS_TO_ERROR,leads to error
+67,102,LEADS_TO_ERROR,leads to error
+67,68,LEADS_TO_ERROR,leads to error
+71,88,基准为_VIA_黄海,基准为 via 黄海
+101,89,基准为_VIA_大沽河水系,基准为 via 大沽河水系
+101,134,基准为_VIA_大沽河水系,基准为 via 大沽河水系
+101,13,基准为_VIA_大沽河水系,基准为 via 大沽河水系
+101,56,基准为_VIA_大沽河水系,基准为 via 大沽河水系
+101,25,基准为_VIA_大沽河水系,基准为 via 大沽河水系
+101,133,基准为_VIA_大沽河水系,基准为 via 大沽河水系
+101,76,基准为_VIA_大沽河水系,基准为 via 大沽河水系
+101,23,基准为_VIA_大沽河水系,基准为 via 大沽河水系
+101,88,基准为_VIA_大沽河水系,基准为 via 大沽河水系
+101,112,基准为_VIA_大沽河水系,基准为 via 大沽河水系
+101,153,基准为_VIA_大沽河水系,基准为 via 大沽河水系
+101,24,基准为_VIA_大沽河水系,基准为 via 大沽河水系
+131,106,LOCATED_ON_VIA,located on via
+149,88,USES_BENCHMARK_VIA,uses benchmark via
+100,88,参考基准_VIA_黄海,参考基准 via 黄海
+65,151,USES_DATUM_VIA,uses datum via
+65,149,USES_DATUM_VIA,uses datum via
+65,88,USES_DATUM_VIA,uses datum via
+25,13,RELATED_TO,related to
+25,24,RELATED_TO,related to
+55,88,IS_TYPE_OF,is type of
+43,81,IS_TYPE_OF,is type of
+117,57,IS_TYPE_OF,is type of
+117,116,IS_TYPE_OF,is type of
+8,15,RELATES_TO,relates to
+48,47,IS_TYPE_OF,is type of
+146,144,IS_TYPE_OF,is type of
+73,71,IS_TYPE_OF,is type of
+74,73,IS_TYPE_OF,is type of
+121,119,IS_TYPE_OF,is type of
+40,39,IS_TYPE_OF,is type of
+128,29,IS_TYPE_OF,is type of
+109,108,IS_TYPE_OF,is type of
+13,24,RELATED_TO,related to
+72,71,IS_TYPE_OF,is type of
+74,71,IS_TYPE_OF,is type of
+94,138,IS_TYPE_OF,is type of
+50,81,IS_TYPE_OF,is type of
+31,88,IS_TYPE_OF,is type of
+120,119,IS_TYPE_OF,is type of
+6,2,RELATED_TO,related to
+6,7,RELATED_TO,related to
+6,1,RELATED_TO,related to
+6,11,RELATED_TO,related to
+2,7,RELATED_TO,related to
+2,1,RELATED_TO,related to
+2,11,RELATED_TO,related to
+103,68,IS_TYPE_OF,is type of
+103,102,IS_TYPE_OF,is type of
+7,1,RELATED_TO,related to
+7,11,RELATED_TO,related to
+1,11,RELATED_TO,related to
+63,62,IS_TYPE_OF,is type of

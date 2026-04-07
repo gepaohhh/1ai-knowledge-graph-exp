@@ -1,0 +1,7478 @@
+[
+  {
+    "subject": "\u5343\u91cc\u5824",
+    "predicate": "\u957f",
+    "object": "189\u516c\u91cc",
+    "chunk": 1
+  },
+  {
+    "subject": "\u5343\u91cc\u5824",
+    "predicate": "\u662f",
+    "object": "\u5168\u7701\u5206\u533a\u9632\u5b88\u3001\u5206\u6d41\u5165\u6d77\u7684\u7b2c\u4e09\u9053\u9632\u7ebf",
+    "chunk": 1
+  },
+  {
+    "subject": "\u5343\u91cc\u5824",
+    "predicate": "\u662f",
+    "object": "\u6211\u77014\u6761\u786e\u4fdd\u5824\u9632\u4e4b\u4e00",
+    "chunk": 1
+  },
+  {
+    "subject": "\u65b0\u76d6\u623f\u67a2\u7ebd",
+    "predicate": "\u7531",
+    "object": "4\u5b54\u95f8",
+    "chunk": 1
+  },
+  {
+    "subject": "\u65b0\u76d6\u623f\u67a2\u7ebd",
+    "predicate": "\u7531",
+    "object": "25\u5b54\u95f8",
+    "chunk": 1
+  },
+  {
+    "subject": "\u65b0\u76d6\u623f\u67a2\u7ebd",
+    "predicate": "\u7531",
+    "object": "\u8239\u95f8",
+    "chunk": 1
+  },
+  {
+    "subject": "\u65b0\u76d6\u623f\u67a2\u7ebd",
+    "predicate": "\u7531",
+    "object": "\u8d75\u5317\u53e3\u6ea2\u6d41\u5830",
+    "chunk": 1
+  },
+  {
+    "subject": "\u65b0\u76d6\u623f\u67a2\u7ebd",
+    "predicate": "\u8bbe\u8ba1\u6cc4\u91cf",
+    "object": "460\u7acb\u65b9\u7c73\u6bcf\u79d2",
+    "chunk": 1
+  },
+  {
+    "subject": "\u65b0\u76d6\u623f\u67a2\u7ebd",
+    "predicate": "\u8bbe\u8ba1\u6cc4\u91cf",
+    "object": "1840\u7acb\u65b9\u7c73\u6bcf\u79d2",
+    "chunk": 1
+  },
+  {
+    "subject": "\u65b0\u76d6\u623f\u67a2\u7ebd",
+    "predicate": "\u8bbe\u8ba1\u6cc4\u91cf",
+    "object": "400\u7acb\u65b9\u7c73\u6bcf\u79d2",
+    "chunk": 1
+  },
+  {
+    "subject": "\u65b0\u76d6\u623f\u67a2\u7ebd",
+    "predicate": "\u603b\u8bbe\u8ba1\u6cc4\u6d2a\u80fd\u529b",
+    "object": "2700\u7acb\u65b9\u7c73\u6bcf\u79d2",
+    "chunk": 1
+  },
+  {
+    "subject": "\u65b0\u76d6\u623f\u67a2\u7ebd",
+    "predicate": "\u7531",
+    "object": "\u5206\u6d2a\u95f8",
+    "chunk": 1
+  },
+  {
+    "subject": "\u65b0\u76d6\u623f\u67a2\u7ebd",
+    "predicate": "\u7531",
+    "object": "\u6ea2\u6d41\u5830",
+    "chunk": 1
+  },
+  {
+    "subject": "\u65b0\u76d6\u623f\u67a2\u7ebd",
+    "predicate": "\u7531",
+    "object": "\u767d\u6c9f\u5f15\u6cb3\u8fdb\u6c34\u95f8",
+    "chunk": 1
+  },
+  {
+    "subject": "\u65b0\u76d6\u623f\u67a2\u7ebd",
+    "predicate": "\u7531",
+    "object": "\u8001\u5927\u6e05\u6cb3\u704c\u6e89\u95f8",
+    "chunk": 1
+  },
+  {
+    "subject": "\u65b0\u76d6\u623f\u67a2\u7ebd",
+    "predicate": "\u603b\u6cc4\u6d2a\u91cf",
+    "object": "5000\u7acb\u65b9\u7c73\u6bcf\u79d2",
+    "chunk": 1
+  },
+  {
+    "subject": "\u65b0\u76d6\u623f\u67a2\u7ebd",
+    "predicate": "\u5206\u6d2a\u95f8\u6cc4\u6d2a\u91cf",
+    "object": "1036\u7acb\u65b9\u7c73\u6bcf\u79d2",
+    "chunk": 1
+  },
+  {
+    "subject": "\u65b0\u76d6\u623f\u67a2\u7ebd",
+    "predicate": "\u6ea2\u6d41\u5830\u6cc4\u6d2a\u91cf",
+    "object": "3964\u7acb\u65b9\u7c73\u6bcf\u79d2",
+    "chunk": 1
+  },
+  {
+    "subject": "\u738b\u6751\u5206\u6d2a\u95f8",
+    "predicate": "\u4e3a",
+    "object": "\u5cb8\u5899\u5f0f\u6c34\u95f8",
+    "chunk": 1
+  },
+  {
+    "subject": "\u738b\u6751\u5206\u6d2a\u95f8",
+    "predicate": "\u95f8\u578b",
+    "object": "\u5f00\u655e\u5f0f",
+    "chunk": 1
+  },
+  {
+    "subject": "\u738b\u6751\u5206\u6d2a\u95f8",
+    "predicate": "\u8bbe\u8ba1\u95f8\u4e0a\u6c34\u4f4d",
+    "object": "8.90\u7c73",
+    "chunk": 1
+  },
+  {
+    "subject": "\u738b\u6751\u5206\u6d2a\u95f8",
+    "predicate": "\u76f8\u5e94\u6d41\u91cf",
+    "object": "1380\u7acb\u65b9\u7c73\u6bcf\u79d2",
+    "chunk": 1
+  },
+  {
+    "subject": "\u767d\u6d0b\u6dc0",
+    "predicate": "\u5317\u754c",
+    "object": "\u4e1c\u6dc0\u5317\u5927\u5824",
+    "chunk": 1
+  },
+  {
+    "subject": "\u767d\u6d0b\u6dc0",
+    "predicate": "\u5357\u754c",
+    "object": "\u5343\u91cc\u5824",
+    "chunk": 1
+  },
+  {
+    "subject": "\u767d\u6d0b\u6dc0",
+    "predicate": "\u73b0\u72b6\u542f\u7528\u6807\u51c6",
+    "object": "\u4e0d\u8db35\u5e74\u4e00\u9047",
+    "chunk": 1
+  },
+  {
+    "subject": "\u767d\u6d0b\u6dc0",
+    "predicate": "\u8bbe\u8ba1\u8fd0\u7528\u6807\u51c6",
+    "object": "50\u5e74\u4e00\u9047",
+    "chunk": 1
+  },
+  {
+    "subject": "\u767d\u6d0b\u6dc0",
+    "predicate": "\u8bbe\u8ba1\u6ede\u6d2a\u6c34\u4f4d",
+    "object": "6.44\u7c73",
+    "chunk": 1
+  },
+  {
+    "subject": "\u767d\u6d0b\u6dc0",
+    "predicate": "\u76f8\u5e94\u6ede\u6d2a\u91cf",
+    "object": "12.80",
+    "chunk": 1
+  },
+  {
+    "subject": "\u767d\u6d0b\u6dc0",
+    "predicate": "\u603b\u9762\u79ef",
+    "object": "379\u5e73\u65b9\u516c\u91cc",
+    "chunk": 1
+  },
+  {
+    "subject": "\u767d\u6d0b\u6dc0",
+    "predicate": "\u6211\u7701\u5883\u5185\u9762\u79ef",
+    "object": "265\u5e73\u65b9\u516c\u91cc",
+    "chunk": 1
+  },
+  {
+    "subject": "\u6587\u5b89\u6d3c",
+    "predicate": "\u627f\u63a5",
+    "object": "\u5927\u6e05\u6cb3\u8d85\u6807\u51c6\u5206\u6d2a\u6d2a\u6c34\u548c\u6e05\u5357\u5730\u533a\u6ca5\u6c34",
+    "chunk": 1
+  },
+  {
+    "subject": "\u6587\u5b89\u6d3c",
+    "predicate": "\u897f\u63a5",
+    "object": "\u81ea\u7136\u9ad8\u5730",
+    "chunk": 1
+  },
+  {
+    "subject": "\u6587\u5b89\u6d3c",
+    "predicate": "\u5317\u9760",
+    "object": "\u5343\u91cc\u5824",
+    "chunk": 1
+  },
+  {
+    "subject": "\u6587\u5b89\u6d3c",
+    "predicate": "\u4e1c\u501a",
+    "object": "\u5b50\u7259\u6cb3",
+    "chunk": 1
+  },
+  {
+    "subject": "\u6587\u5b89\u6d3c",
+    "predicate": "\u5357\u4ee5",
+    "object": "\u6d25\u4fdd\u516c\u8def\u4e3a\u754c",
+    "chunk": 1
+  },
+  {
+    "subject": "\u6587\u5b89\u6d3c",
+    "predicate": "\u73b0\u72b6\u542f\u7528\u6807\u51c6",
+    "object": "20\u5e74\u4e00\u9047",
+    "chunk": 1
+  },
+  {
+    "subject": "\u6587\u5b89\u6d3c",
+    "predicate": "\u8bbe\u8ba1\u8fd0\u7528\u6807\u51c6",
+    "object": "50\u5e74\u4e00\u9047",
+    "chunk": 1
+  },
+  {
+    "subject": "\u6587\u5b89\u6d3c",
+    "predicate": "\u8bbe\u8ba1\u6ede\u6d2a\u6c34\u4f4d",
+    "object": "\u6c34\u4f4d",
+    "chunk": 1
+  },
+  {
+    "subject": "\u6587\u5b89\u6d3c",
+    "predicate": "\u76f8\u5e94\u6ede\u6d2a\u91cf",
+    "object": "34.63\u4ebf\u7acb\u65b9\u7c73",
+    "chunk": 1
+  },
+  {
+    "subject": "\u6587\u5b89\u6d3c",
+    "predicate": "\u603b\u9762\u79ef",
+    "object": "1556\u5e73\u65b9\u516c\u91cc",
+    "chunk": 1
+  },
+  {
+    "subject": "\u6587\u5b89\u6d3c",
+    "predicate": "\u6211\u7701\u5883\u5185\u9762\u79ef",
+    "object": "1475\u5e73\u65b9\u516c\u91cc",
+    "chunk": 1
+  },
+  {
+    "subject": "\u8d3e\u53e3\u6d3c",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u5b50\u7259\u6cb3",
+    "chunk": 1
+  },
+  {
+    "subject": "\u8d3e\u53e3\u6d3c",
+    "predicate": "\u8bbe\u8ba1\u6ede\u6d2a\u6c34\u4f4d",
+    "object": "\u6c34\u4f4d",
+    "chunk": 1
+  },
+  {
+    "subject": "\u8d3e\u53e3\u6d3c",
+    "predicate": "\u76f8\u5e94\u6ede\u6d2a\u91cf",
+    "object": "34.63\u4ebf\u7acb\u65b9\u7c73",
+    "chunk": 1
+  },
+  {
+    "subject": "\u8d3e\u53e3\u6d3c",
+    "predicate": "\u603b\u9762\u79ef",
+    "object": "1556\u5e73\u65b9\u516c\u91cc",
+    "chunk": 1
+  },
+  {
+    "subject": "\u8d3e\u53e3\u6d3c",
+    "predicate": "\u6211\u7701\u5883\u5185\u9762\u79ef",
+    "object": "1475\u5e73\u65b9\u516c\u91cc",
+    "chunk": 1
+  },
+  {
+    "subject": "\u767d\u6d0b\u6dc0",
+    "predicate": "\u8bbe\u8ba1\u6ede\u6d2a\u6c34\u4f4d",
+    "object": "\u6c34\u4f4d",
+    "chunk": 1
+  },
+  {
+    "subject": "\u767d\u6d0b\u6dc0",
+    "predicate": "\u76f8\u5e94\u6ede\u6d2a\u91cf",
+    "object": "34.63\u4ebf\u7acb\u65b9\u7c73",
+    "chunk": 1
+  },
+  {
+    "subject": "\u767d\u6d0b\u6dc0",
+    "predicate": "\u603b\u9762\u79ef",
+    "object": "1556\u5e73\u65b9\u516c\u91cc",
+    "chunk": 1
+  },
+  {
+    "subject": "\u767d\u6d0b\u6dc0",
+    "predicate": "\u6211\u7701\u5883\u5185\u9762\u79ef",
+    "object": "1475\u5e73\u65b9\u516c\u91cc",
+    "chunk": 1
+  },
+  {
+    "subject": "\u5927\u6e05\u6cb3",
+    "predicate": "1%\u8bbe\u8ba1\u503c",
+    "object": "42.96\u4ebf\u7acb\u65b9\u7c73",
+    "chunk": 1
+  },
+  {
+    "subject": "\u5927\u6e05\u6cb3",
+    "predicate": "2%\u8bbe\u8ba1\u503c",
+    "object": "38.54\u4ebf\u7acb\u65b9\u7c73",
+    "chunk": 1
+  },
+  {
+    "subject": "\u5927\u6e05\u6cb3",
+    "predicate": "5%\u8bbe\u8ba1\u503c",
+    "object": "25.78\u4ebf\u7acb\u65b9\u7c73",
+    "chunk": 1
+  },
+  {
+    "subject": "\u5927\u6e05\u6cb3",
+    "predicate": "10%\u8bbe\u8ba1\u503c",
+    "object": "16.89\u4ebf\u7acb\u65b9\u7c73",
+    "chunk": 1
+  },
+  {
+    "subject": "\u5927\u6e05\u6cb3",
+    "predicate": "20%\u8bbe\u8ba1\u503c",
+    "object": "10.34\u4ebf\u7acb\u65b9\u7c73",
+    "chunk": 1
+  },
+  {
+    "subject": "\u5927\u6e05\u6cb3",
+    "predicate": "50%\u8bbe\u8ba1\u503c",
+    "object": "5.67\u4ebf\u7acb\u65b9\u7c73",
+    "chunk": 1
+  },
+  {
+    "subject": "\u5927\u6e05\u6cb3",
+    "predicate": "100%\u8bbe\u8ba1\u503c",
+    "object": "3.21\u4ebf\u7acb\u65b9\u7c73",
+    "chunk": 1
+  },
+  {
+    "subject": "\u5927\u6e05\u6cb3",
+    "predicate": "\u8bbe\u8ba1\u6d2a\u6c34\u603b\u91cf",
+    "object": "3.21\u4ebf\u7acb\u65b9\u7c73",
+    "chunk": 1
+  },
+  {
+    "subject": "\u767d\u6d0b\u6dc0",
+    "predicate": "\u7531",
+    "object": "\u6d77\u6cb3\u9632\u603b\u63d0\u51fa\u610f\u89c1",
+    "chunk": 2
+  },
+  {
+    "subject": "\u767d\u6d0b\u6dc0",
+    "predicate": "\u62a5",
+    "object": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "chunk": 2
+  },
+  {
+    "subject": "\u767d\u6d0b\u6dc0",
+    "predicate": "\u7531",
+    "object": "\u7701\u9632\u6307\u4e0b\u8fbe\u6307\u4ee4",
+    "chunk": 2
+  },
+  {
+    "subject": "\u767d\u6d0b\u6dc0",
+    "predicate": "\u7531",
+    "object": "\u5eca\u574a\u3001\u6ca7\u5dde\u5e02\u3001\u96c4\u5b89\u65b0\u533a\u9632\u6307\u8d1f\u8d23\u5b9e\u65bd",
+    "chunk": 2
+  },
+  {
+    "subject": "\u5206\u6d2a",
+    "predicate": "\u7531",
+    "object": "\u6d77\u6cb3\u9632\u603b\u63d0\u51fa\u610f\u89c1",
+    "chunk": 2
+  },
+  {
+    "subject": "\u5206\u6d2a",
+    "predicate": "\u62a5",
+    "object": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "chunk": 2
+  },
+  {
+    "subject": "\u767d\u6d0b\u6dc0",
+    "predicate": "\u7531",
+    "object": "\u96c4\u5b89\u65b0\u533a\u7ec4\u7ec7\u5b9e\u65bd",
+    "chunk": 2
+  },
+  {
+    "subject": "\u767d\u6d0b\u6dc0",
+    "predicate": "\u7ecf",
+    "object": "\u7701\u6c34\u5229\u5385\u51b3\u5b9a",
+    "chunk": 2
+  },
+  {
+    "subject": "\u767d\u6d0b\u6dc0",
+    "predicate": "\u62a5",
+    "object": "\u7701\u653f\u5e9c\u51b3\u5b9a",
+    "chunk": 2
+  },
+  {
+    "subject": "\u5170\u6c9f\u6d3c",
+    "predicate": "\u7531",
+    "object": "\u884c\u653f\u533a\u5212",
+    "chunk": 2
+  },
+  {
+    "subject": "\u5170\u6c9f\u6d3c",
+    "predicate": "\u62a5",
+    "object": "\u4e0a\u7ea7\u5907\u6848",
+    "chunk": 2
+  },
+  {
+    "subject": "\u6f74\u9f99\u6cb3\u5206\u6d2a",
+    "predicate": "\u7531",
+    "object": "\u884c\u653f\u533a\u5212",
+    "chunk": 2
+  },
+  {
+    "subject": "\u5927\u6e05\u6cb3",
+    "predicate": "\u7531",
+    "object": "\u7701\u6c34\u5229\u5385\u540c\u610f",
+    "chunk": 2
+  },
+  {
+    "subject": "\u5927\u6e05\u6cb3",
+    "predicate": "\u62a5",
+    "object": "\u7701\u9632\u6307",
+    "chunk": 2
+  },
+  {
+    "subject": "\u5927\u6e05\u6cb3",
+    "predicate": "\u7531",
+    "object": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "chunk": 2
+  },
+  {
+    "subject": "\u738b\u6751\u5206\u6d2a\u95f8",
+    "predicate": "\u7531",
+    "object": "\u6c34\u5229\u90e8\u6d77\u59d4\u63d0\u51fa\u610f\u89c1",
+    "chunk": 2
+  },
+  {
+    "subject": "\u738b\u6751\u5206\u6d2a\u95f8",
+    "predicate": "\u7531",
+    "object": "\u6c34\u5229\u90e8\u540c\u610f",
+    "chunk": 2
+  },
+  {
+    "subject": "\u738b\u6751\u5206\u6d2a\u95f8",
+    "predicate": "\u62a5",
+    "object": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "chunk": 2
+  },
+  {
+    "subject": "\u738b\u6751\u5206\u6d2a\u95f8",
+    "predicate": "\u7531",
+    "object": "\u884c\u653f\u533a\u5212",
+    "chunk": 2
+  },
+  {
+    "subject": "\u5343\u91cc\u5824",
+    "predicate": "\u7531",
+    "object": "\u6cb3\u5317\u7701\u5546\u6c34\u5229\u90e8\u6d77\u59d4\u63d0\u51fa\u610f\u89c1",
+    "chunk": 2
+  },
+  {
+    "subject": "\u5343\u91cc\u5824",
+    "predicate": "\u7531",
+    "object": "\u6c34\u5229\u90e8\u540c\u610f",
+    "chunk": 2
+  },
+  {
+    "subject": "\u5343\u91cc\u5824",
+    "predicate": "\u62a5",
+    "object": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "chunk": 2
+  },
+  {
+    "subject": "\u5343\u91cc\u5824",
+    "predicate": "\u7531",
+    "object": "\u6ca7\u5dde\u5e02\u7ec4\u7ec7\u4efb\u4e18\u5e02\u5b9e\u65bd",
+    "chunk": 2
+  },
+  {
+    "subject": "\u65b0\u76d6\u623f\u67a2\u7ebd",
+    "predicate": "\u7531",
+    "object": "\u7701\u5927\u6e05\u6cb3\u6cb3\u52a1\u7ba1\u7406\u5904\u8d1f\u8d23\u5b9e\u65bd",
+    "chunk": 2
+  },
+  {
+    "subject": "\u65b0\u76d6\u623f\u67a2\u7ebd",
+    "predicate": "\u62a5",
+    "object": "\u6c34\u5229\u90e8\u540c\u610f",
+    "chunk": 2
+  },
+  {
+    "subject": "\u65b0\u76d6\u623f\u67a2\u7ebd",
+    "predicate": "\u7531",
+    "object": "\u7701\u5927\u6e05\u6cb3\u6cb3\u52a1\u7ba1\u7406\u5904\u5b9e\u65bd",
+    "chunk": 2
+  },
+  {
+    "subject": "\u5176\u4f59\u95f8\u3001\u575d\u7684\u8c03\u5ea6",
+    "predicate": "\u7531",
+    "object": "\u5de5\u7a0b\u7ba1\u7406\u90e8\u95e8\u540c\u7ea7\u6c34\u5229\u90e8\u95e8\u8d1f\u8d23",
+    "chunk": 2
+  },
+  {
+    "subject": "\u5176\u4f59\u95f8\u3001\u575d\u7684\u8c03\u5ea6",
+    "predicate": "\u62a5",
+    "object": "\u4e0a\u7ea7\u6c34\u5229\u90e8\u95e8\u5907\u6848",
+    "chunk": 2
+  },
+  {
+    "subject": "\u96e8\u6d2a\u8d44\u6e90\u5229\u7528",
+    "predicate": "\u7531",
+    "object": "\u884c\u653f\u533a\u5212",
+    "chunk": 2
+  },
+  {
+    "subject": "\u96e8\u6d2a\u8d44\u6e90\u5229\u7528",
+    "predicate": "\u7531",
+    "object": "\u6cbf\u9014\u76f8\u5173\u5e02\u53bf\u7ec4\u7ec7\u5b9e\u65bd",
+    "chunk": 2
+  },
+  {
+    "subject": "\u96e8\u6d2a\u8d44\u6e90\u5229\u7528",
+    "predicate": "\u62a5",
+    "object": "\u6c34\u5229\u90e8\u540c\u610f",
+    "chunk": 2
+  },
+  {
+    "subject": "\u9632\u6c5b\u8c03\u5ea6\u4e34\u65f6\u8bbe\u7f6e\u7684\u6c34\u4f4d\u3001\u6d41\u91cf\u7ad9",
+    "predicate": "\u7531",
+    "object": "\u7701\u6c34\u6587\u5c40\u8d1f\u8d23\u5de1\u6d4b",
+    "chunk": 2
+  },
+  {
+    "subject": "\u7b2c\u516d\u57e0",
+    "predicate": "\u8fbe\u5230",
+    "object": "\u6c34\u4f4d",
+    "chunk": 2
+  },
+  {
+    "subject": "\u4e1c\u8328\u6751",
+    "predicate": "\u8fbe\u5230",
+    "object": "24.07",
+    "chunk": 2
+  },
+  {
+    "subject": "\u4e1c\u8328\u6751",
+    "predicate": "\u8fbe\u5230",
+    "object": "24.10",
+    "chunk": 2
+  },
+  {
+    "subject": "\u5341\u65b9\u9662",
+    "predicate": "\u8fbe\u5230",
+    "object": "7.50\u7c73",
+    "chunk": 2
+  },
+  {
+    "subject": "\u5341\u65b9\u9662",
+    "predicate": "\u8fbe\u5230",
+    "object": "9.00\u7c73",
+    "chunk": 2
+  },
+  {
+    "subject": "\u738b\u6751\u5206\u6d2a\u95f8",
+    "predicate": "\u8fbe\u5230",
+    "object": "7.88\u7c73",
+    "chunk": 2
+  },
+  {
+    "subject": "\u738b\u6751\u5206\u6d2a\u95f8",
+    "predicate": "\u8fbe\u5230",
+    "object": "8.00\u7c73",
+    "chunk": 2
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u6ecf\u9633\u65b0\u6cb3",
+    "chunk": 3
+  },
+  {
+    "subject": "\u6ecf\u9633\u65b0\u6cb3",
+    "predicate": "\u6d41\u7ecf",
+    "object": "\u827e\u8f9b\u5e84",
+    "chunk": 3
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u6ef9\u6cb1\u6cb3",
+    "chunk": 3
+  },
+  {
+    "subject": "\u6ef9\u6cb1\u6cb3",
+    "predicate": "\u6d41\u7ecf",
+    "object": "\u5317\u4e2d\u5c71",
+    "chunk": 4
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u5b50\u7259\u6cb3",
+    "chunk": 3
+  },
+  {
+    "subject": "\u5b50\u7259\u6cb3",
+    "predicate": "\u6d41\u7ecf",
+    "object": "\u732e\u53bf\u67a2\u7ebd\u95f8\u4e0a",
+    "chunk": 5
+  },
+  {
+    "subject": "\u5b50\u7259\u6cb3",
+    "predicate": "\u6d41\u7ecf",
+    "object": "\u7a7f\u8fd0\u67a2\u7ebd",
+    "chunk": 3
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u5927\u6e05\u6cb3",
+    "chunk": 3
+  },
+  {
+    "subject": "\u5927\u6e05\u6cb3",
+    "predicate": "\u6d41\u7ecf",
+    "object": "\u6ecf\u9633\u65b0\u6cb3",
+    "chunk": 3
+  },
+  {
+    "subject": "\u6ecf\u9633\u65b0\u6cb3",
+    "predicate": "\u6d41\u7ecf",
+    "object": "\u5317\u90ed\u6751",
+    "chunk": 3
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u767d\u6d0b\u6dc0",
+    "chunk": 3
+  },
+  {
+    "subject": "\u767d\u6d0b\u6dc0",
+    "predicate": "\u6d41\u7ecf",
+    "object": "\u5341\u65b9\u9662",
+    "chunk": 3
+  },
+  {
+    "subject": "\u5927\u6cbd",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u8d75\u738b\u65b0\u6cb3",
+    "chunk": 3
+  },
+  {
+    "subject": "\u8d75\u738b\u65b0\u6cb3",
+    "predicate": "\u6d41\u7ecf",
+    "object": "\u738b\u6751\u5206\u6d2a\u95f8",
+    "chunk": 5
+  },
+  {
+    "subject": "\u767d\u6d0b\u6dc0",
+    "predicate": "\u6d41\u7ecf",
+    "object": "\u7b2c\u516d\u57e0",
+    "chunk": 3
+  },
+  {
+    "subject": "\u5927\u6cbd",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u767d\u6c9f\u6cb3",
+    "chunk": 3
+  },
+  {
+    "subject": "\u767d\u6c9f\u6cb3",
+    "predicate": "\u6d41\u7ecf",
+    "object": "\u4e1c\u8328\u6751",
+    "chunk": 5
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u5357\u62d2\u9a6c\u6cb3",
+    "chunk": 3
+  },
+  {
+    "subject": "\u5357\u62d2\u9a6c\u6cb3",
+    "predicate": "\u6d41\u7ecf",
+    "object": "\u5317\u6cb3\u5e97",
+    "chunk": 3
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u6c38\u5b9a\u6cb3",
+    "chunk": 3
+  },
+  {
+    "subject": "\u6c38\u5b9a\u6cb3",
+    "predicate": "\u6d41\u7ecf",
+    "object": "\u56fa\u5b89\u5927\u6865",
+    "chunk": 3
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u5317\u4e09\u6cb3",
+    "chunk": 3
+  },
+  {
+    "subject": "\u5317\u4e09\u6cb3",
+    "predicate": "\u6d41\u7ecf",
+    "object": "\u5317\u8fd0\u6cb3",
+    "chunk": 3
+  },
+  {
+    "subject": "\u5317\u8fd0\u6cb3",
+    "predicate": "\u6d41\u7ecf",
+    "object": "\u571f\u95e8\u697c\u95f8\u4e0a",
+    "chunk": 3
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u9752\u9f99\u6e7e\u51cf\u6cb3",
+    "chunk": 3
+  },
+  {
+    "subject": "\u9752\u9f99\u6e7e\u51cf\u6cb3",
+    "predicate": "\u6d41\u7ecf",
+    "object": "\u571f\u95e8\u697c\u5206\u6d2a\u95f8\u4e0b",
+    "chunk": 6
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u6f6e\u767d\u6cb3",
+    "chunk": 3
+  },
+  {
+    "subject": "\u6f6e\u767d\u6cb3",
+    "predicate": "\u6d41\u7ecf",
+    "object": "\u5434\u6751",
+    "chunk": 3
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u6c9f\u6cb3",
+    "chunk": 3
+  },
+  {
+    "subject": "\u6c9f\u6cb3",
+    "predicate": "\u6d41\u7ecf",
+    "object": "\u4e09\u6cb3",
+    "chunk": 3
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u5f15\u6c9f\u5165\u6f6e",
+    "chunk": 3
+  },
+  {
+    "subject": "\u5f15\u6c9f\u5165\u6f6e",
+    "predicate": "\u6d41\u7ecf",
+    "object": "\u5927\u7f57\u5c6f\u6e21\u6f15",
+    "chunk": 3
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u8fd8\u4e61\u6cb3",
+    "chunk": 3
+  },
+  {
+    "subject": "\u8fd8\u4e61\u6cb3",
+    "predicate": "\u6d41\u7ecf",
+    "object": "\u5c0f\u5b9a\u5e9c",
+    "chunk": 3
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u84df\u8fd0\u6cb3",
+    "chunk": 3
+  },
+  {
+    "subject": "\u84df\u8fd0\u6cb3",
+    "predicate": "\u6d41\u7ecf",
+    "object": "\u5c0f\u6cb3\u53e3",
+    "chunk": 3
+  },
+  {
+    "subject": "\u5927\u6cbd",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u6ee6\u6cb3",
+    "chunk": 3
+  },
+  {
+    "subject": "\u6ee6\u6cb3",
+    "predicate": "\u6d41\u7ecf",
+    "object": "\u8001\u7ad9",
+    "chunk": 3
+  },
+  {
+    "subject": "\u56fd\u5bb6\u9632\u6c5b\u6297\u65f1\u603b\u6307\u6325\u90e8",
+    "predicate": "\u8c03\u5ea6",
+    "object": "\u6cb3\u9053\u7684\u8c03\u5ea6\u8fd0\u7528",
+    "chunk": 3
+  },
+  {
+    "subject": "\u6f33\u536b\u5357\u8fd0\u6cb3",
+    "predicate": "\u5305\u542b",
+    "object": "\u6f33\u6cb3",
+    "chunk": 3
+  },
+  {
+    "subject": "\u6f33\u6cb3",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u8521\u5c0f\u5e84",
+    "chunk": 3
+  },
+  {
+    "subject": "\u6f33\u536b\u5357\u8fd0\u6cb3",
+    "predicate": "\u5305\u542b",
+    "object": "\u536b\u6cb3",
+    "chunk": 3
+  },
+  {
+    "subject": "\u536b\u6cb3",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u5143\u6751",
+    "chunk": 3
+  },
+  {
+    "subject": "\u536b\u6cb3",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u9f99\u738b\u5e99",
+    "chunk": 3
+  },
+  {
+    "subject": "\u536b\u6cb3",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u5f90\u4e07\u4ed3",
+    "chunk": 3
+  },
+  {
+    "subject": "\u536b\u8fd0\u6cb3",
+    "predicate": "\u5305\u542b",
+    "object": "\u5357\u9676",
+    "chunk": 3
+  },
+  {
+    "subject": "\u536b\u8fd0\u6cb3",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u4e34\u6e05\u6865",
+    "chunk": 3
+  },
+  {
+    "subject": "\u6f33\u536b\u65b0\u6cb3",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u5434\u6865\u95f8",
+    "chunk": 3
+  },
+  {
+    "subject": "\u6f33\u536b\u65b0\u6cb3",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u8881\u6865\u95f8",
+    "chunk": 3
+  },
+  {
+    "subject": "\u6f33\u536b\u65b0\u6cb3",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u738b\u8425\u76d8",
+    "chunk": 3
+  },
+  {
+    "subject": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "predicate": "\u4f5c\u4e3a",
+    "object": "\u9ad8\u7a0b\u57fa\u51c6",
+    "chunk": 3
+  },
+  {
+    "subject": "\u5357\u9676",
+    "predicate": "\u6c34\u4f4d\u4e3a",
+    "object": "44.80",
+    "chunk": 4
+  },
+  {
+    "subject": "\u5357\u9676",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u9ec4\u6d77",
+    "chunk": 4
+  },
+  {
+    "subject": "\u4e34\u6e05\u6865",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u9ec4\u6d77",
+    "chunk": 4
+  },
+  {
+    "subject": "\u56db\u5973\u5bfa\u95f8\u4e0a",
+    "predicate": "\u6c34\u4f4d\u4e3a",
+    "object": "28.32",
+    "chunk": 4
+  },
+  {
+    "subject": "\u56db\u5973\u5bfa\u95f8\u4e0a",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "chunk": 4
+  },
+  {
+    "subject": "\u6f33\u536b\u65b0\u6cb3",
+    "predicate": "\u6d41\u7ecf",
+    "object": "\u5434\u6865\u95f8",
+    "chunk": 4
+  },
+  {
+    "subject": "\u5434\u6865\u95f8",
+    "predicate": "\u6c34\u4f4d\u4e3a",
+    "object": "24.07",
+    "chunk": 4
+  },
+  {
+    "subject": "\u5434\u6865\u95f8",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "chunk": 4
+  },
+  {
+    "subject": "\u6f33\u536b\u65b0\u6cb3",
+    "predicate": "\u6d41\u7ecf",
+    "object": "\u8881\u6865\u95f8",
+    "chunk": 4
+  },
+  {
+    "subject": "\u8881\u6865\u95f8",
+    "predicate": "\u6c34\u4f4d\u4e3a",
+    "object": "25.50",
+    "chunk": 4
+  },
+  {
+    "subject": "\u8881\u6865\u95f8",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "chunk": 4
+  },
+  {
+    "subject": "\u5434\u6865\u5c0f\u5929\u7f61\u5f15\u6c34\u95f8\u4ee5\u4e0b\u81f3\u5c94\u6cb3\u6c47\u6d41\u5904\u5de6\u5824",
+    "predicate": "\u5c5e\u4e8e",
+    "object": "\u6f33\u536b\u65b0\u6cb3",
+    "chunk": 4
+  },
+  {
+    "subject": "\u738b\u8425\u76d8",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u6f33\u536b\u65b0\u6cb3",
+    "chunk": 4
+  },
+  {
+    "subject": "\u738b\u8425\u76d8",
+    "predicate": "\u6c34\u4f4d\u4e3a",
+    "object": "21.31",
+    "chunk": 4
+  },
+  {
+    "subject": "\u5927\u738b\u94fa\u81f3\u5927\u9ebb\u6e7e\u5de6\u5824",
+    "predicate": "\u5c5e\u4e8e",
+    "object": "\u5357\u8fd0\u6cb3",
+    "chunk": 4
+  },
+  {
+    "subject": "\u56db\u5973\u5bfa\u8282\u5236\u95f8\u4e0b",
+    "predicate": "\u6c34\u4f4d\u4e3a",
+    "object": "25.60",
+    "chunk": 4
+  },
+  {
+    "subject": "\u56db\u5973\u5bfa\u8282\u5236\u95f8\u4e0b",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u5357\u8fd0\u6cb3",
+    "chunk": 4
+  },
+  {
+    "subject": "\u56db\u5973\u5bfa\u81f3\u6377\u5730\u4e24\u5824",
+    "predicate": "\u5c5e\u4e8e",
+    "object": "\u5357\u8fd0\u6cb3",
+    "chunk": 4
+  },
+  {
+    "subject": "\u6377\u5730\u95f8\u4e0a",
+    "predicate": "\u6c34\u4f4d\u4e3a",
+    "object": "12.80",
+    "chunk": 4
+  },
+  {
+    "subject": "\u6377\u5730\u95f8\u4e0a",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u9ec4\u6d77",
+    "chunk": 4
+  },
+  {
+    "subject": "\u6377\u5730\u81f3\u4e5d\u5ba3\u95f8\u4e24\u5824",
+    "predicate": "\u5c5e\u4e8e",
+    "object": "\u5357\u8fd0\u6cb3",
+    "chunk": 4
+  },
+  {
+    "subject": "\u5468\u5b98\u5c6f",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u5357\u8fd0\u6cb3",
+    "chunk": 4
+  },
+  {
+    "subject": "\u5468\u5b98\u5c6f",
+    "predicate": "\u6c34\u4f4d\u4e3a",
+    "object": "10.10",
+    "chunk": 4
+  },
+  {
+    "subject": "\u5b50\u7259\u6cb3",
+    "predicate": "\u8fde\u63a5",
+    "object": "\u6ecf\u9633\u6cb3",
+    "chunk": 4
+  },
+  {
+    "subject": "\u83b2\u82b1\u53e3\u8282\u5236\u95f8\u4e0b",
+    "predicate": "\u6c34\u4f4d\u4e3a",
+    "object": "48.20",
+    "chunk": 4
+  },
+  {
+    "subject": "\u83b2\u82b1\u53e3\u8282\u5236\u95f8\u4e0b",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u9ec4\u6d77",
+    "chunk": 4
+  },
+  {
+    "subject": "\u83b2\u82b1\u53e3\u81f3\u827e\u8f9b\u5e84\u67a2\u7ebd\u4e24\u5824",
+    "predicate": "\u7528\u4e8e",
+    "object": "\u5206\u6d2a",
+    "chunk": 4
+  },
+  {
+    "subject": "\u827e\u8f9b\u5e84\u8282\u5236\u95f8",
+    "predicate": "\u6c34\u4f4d\u4e3a",
+    "object": "26.50",
+    "chunk": 4
+  },
+  {
+    "subject": "\u827e\u8f9b\u5e84\u8282\u5236\u95f8",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u9ec4\u6d77",
+    "chunk": 4
+  },
+  {
+    "subject": "\u827e\u8f9b\u5e84\u8282\u5236\u95f8",
+    "predicate": "\u63a7\u5236\u6d41\u91cf\u4e3a",
+    "object": "150\u7acb\u65b9\u7c73\u6bcf\u79d2",
+    "chunk": 4
+  },
+  {
+    "subject": "\u5b81\u664b\u6cca",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u5c0f\u6cb3\u53e3",
+    "chunk": 4
+  },
+  {
+    "subject": "\u4e2d\u6e38\u6d3c\u5730",
+    "predicate": "\u6309\u6807\u51c6\u8fd0\u7528",
+    "object": "50\u5e74\u4e00\u9047",
+    "chunk": 4
+  },
+  {
+    "subject": "\u4e2d\u6e38\u6d3c\u5730",
+    "predicate": "\u6ede\u6d2a\u6c34\u4f4d\u4e3a",
+    "object": "29.50\u7c73",
+    "chunk": 4
+  },
+  {
+    "subject": "\u6ecf\u9633\u65b0\u6cb3",
+    "predicate": "\u6d41\u7ecf",
+    "object": "\u827e\u8f9b\u5e84\u8282\u5236\u95f8",
+    "chunk": 4
+  },
+  {
+    "subject": "\u827e\u8f9b\u5e84\u8282\u5236\u95f8",
+    "predicate": "\u6c34\u4f4d\u4e3a",
+    "object": "31.65",
+    "chunk": 4
+  },
+  {
+    "subject": "\u827e\u8f9b\u5e84\u67a2\u7ebd\u81f3\u732e\u53bf\u67a2\u7ebd\u4e24\u5824",
+    "predicate": "\u6d41\u7ecf",
+    "object": "\u4eac\u4e5d\u94c1\u8def",
+    "chunk": 4
+  },
+  {
+    "subject": "\u4eac\u4e5d\u94c1\u8def",
+    "predicate": "\u6c34\u4f4d\u4e3a",
+    "object": "25.84",
+    "chunk": 4
+  },
+  {
+    "subject": "\u4eac\u4e5d\u94c1\u8def",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u9ec4\u6d77",
+    "chunk": 4
+  },
+  {
+    "subject": "\u732e\u53bf\u67a2\u7ebd\u95f8\u4e0a",
+    "predicate": "\u6c34\u4f4d\u4e3a",
+    "object": "18.50",
+    "chunk": 4
+  },
+  {
+    "subject": "\u732e\u53bf\u67a2\u7ebd\u95f8\u4e0a",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u9ec4\u6d77",
+    "chunk": 4
+  },
+  {
+    "subject": "\u5317\u4e2d\u5c71",
+    "predicate": "\u6c34\u4f4d\u4e3a",
+    "object": "40.40",
+    "chunk": 4
+  },
+  {
+    "subject": "\u5317\u4e2d\u5c71",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u9ec4\u6d77",
+    "chunk": 4
+  },
+  {
+    "subject": "\u5206\u6d2a",
+    "predicate": "\u4e0b\u6cc4\u6d41\u91cf\u4e3a",
+    "object": "400\u7acb\u65b9\u7c73\u6bcf\u79d2",
+    "chunk": 4
+  },
+  {
+    "subject": "\u5206\u6d2a",
+    "predicate": "\u4e0b\u6cc4\u6d41\u91cf\u4e3a",
+    "object": "800\u7acb\u65b9\u7c73\u6bcf\u79d2",
+    "chunk": 4
+  },
+  {
+    "subject": "\u5206\u6d2a",
+    "predicate": "\u4e0b\u6cc4\u6d41\u91cf\u4e3a",
+    "object": "3300\u7acb\u65b9\u7c73\u6bcf\u79d2",
+    "chunk": 4
+  },
+  {
+    "subject": "\u59da\u5e84",
+    "predicate": "\u6c34\u4f4d\u4e3a",
+    "object": "24.10",
+    "chunk": 4
+  },
+  {
+    "subject": "\u59da\u5e84",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u9ec4\u6d77",
+    "chunk": 5
+  },
+  {
+    "subject": "\u732e\u53bf\u67a2\u7ebd\u95f8\u4e0a",
+    "predicate": "\u6c34\u4f4d\u4e3a",
+    "object": "17.60",
+    "chunk": 4
+  },
+  {
+    "subject": "\u732e\u53bf\u81f3\u575d\u53f0\u4e24\u5824",
+    "predicate": "\u5c5e\u4e8e",
+    "object": "\u5b50\u7259\u6cb3",
+    "chunk": 4
+  },
+  {
+    "subject": "\u732e\u53bf\u67a2\u7ebd\u95f8\u4e0a",
+    "predicate": "\u6c34\u547d\u4e3a",
+    "object": "18.44",
+    "chunk": 4
+  },
+  {
+    "subject": "\u732e\u53bf\u67a2\u7ebd\u95f8\u4e0a",
+    "predicate": "\u6d41\u7ecf",
+    "object": "\u4e0a\u6e38\u6765\u91cf\u4e0d\u5c0f\u4e8e900\u7acb\u65b9\u7c73\u6bcf\u79d2",
+    "chunk": 4
+  },
+  {
+    "subject": "\u7a7f\u8fd0\u67a2\u7ebd\u4e0b\u6e38",
+    "predicate": "\u6c34\u4f4d\u4e3a",
+    "object": "11.84",
+    "chunk": 4
+  },
+  {
+    "subject": "\u7a7f\u8fd0\u67a2\u7ebd\u4e0b\u6e38",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u9ec4\u6d77",
+    "chunk": 4
+  },
+  {
+    "subject": "\u7a7f\u8fd0\u67a2\u7ebd\u4e0b\u6e38",
+    "predicate": "\u6d41\u7ecf",
+    "object": "\u6d77\u53e3\u6321\u6f6e\u95f8\u4e0a",
+    "chunk": 4
+  },
+  {
+    "subject": "\u6d77\u53e3\u6321\u6f6e\u95f8\u4e0a",
+    "predicate": "\u6c34\u4f4d\u4e3a",
+    "object": "6.57",
+    "chunk": 4
+  },
+  {
+    "subject": "\u6d77\u53e3\u6321\u6f6e\u95f8\u4e0a",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u9ec4\u6d77",
+    "chunk": 4
+  },
+  {
+    "subject": "\u5927\u6e05\u6cb3",
+    "predicate": "\u6d41\u7ecf",
+    "object": "\u6d77\u53e3\u6321\u6f6e\u95f8\u4e0a",
+    "chunk": 4
+  },
+  {
+    "subject": "\u5206\u6d2a",
+    "predicate": "\u4e0b\u6cc4",
+    "object": "400\u7acb\u65b9\u7c73\u6bcf\u79d2",
+    "chunk": 5
+  },
+  {
+    "subject": "\u5206\u6d2a",
+    "predicate": "\u4e0b\u6cc4",
+    "object": "800\u7acb\u65b9\u7c73\u6bcf\u79d2",
+    "chunk": 5
+  },
+  {
+    "subject": "\u5206\u6d2a",
+    "predicate": "\u4e0b\u6cc4",
+    "object": "3300\u7acb\u65b9\u7c73\u6bcf\u79d2",
+    "chunk": 5
+  },
+  {
+    "subject": "24.10",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u9ec4\u6d77",
+    "chunk": 5
+  },
+  {
+    "subject": "22.01",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u9ec4\u6d77",
+    "chunk": 5
+  },
+  {
+    "subject": "20.97",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u9ec4\u6d77",
+    "chunk": 5
+  },
+  {
+    "subject": "21.00",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u9ec4\u6d77",
+    "chunk": 5
+  },
+  {
+    "subject": "3000",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u4fdd\u4e24\u5824",
+    "chunk": 5
+  },
+  {
+    "subject": "\u732e\u53bf\u67a2\u7ebd\u95f8\u4e0a",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "17.60",
+    "chunk": 5
+  },
+  {
+    "subject": "17.60",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u9ec4\u6d77",
+    "chunk": 5
+  },
+  {
+    "subject": "14.57",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u9ec4\u6d77",
+    "chunk": 5
+  },
+  {
+    "subject": "14.60",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u9ec4\u6d77",
+    "chunk": 5
+  },
+  {
+    "subject": "300",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u732e\u53bf\u81f3\u575d\u53f0\u4e24\u5824",
+    "chunk": 5
+  },
+  {
+    "subject": "\u732e\u53bf\u67a2\u7ebd\u95f8\u4e0a",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "18.44",
+    "chunk": 5
+  },
+  {
+    "subject": "18.44",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u9ec4\u6d77",
+    "chunk": 5
+  },
+  {
+    "subject": "17.95",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u9ec4\u6d77",
+    "chunk": 5
+  },
+  {
+    "subject": "5000",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u732e\u53bf\u67a2\u7ebd\u95f8\u4e0a",
+    "chunk": 5
+  },
+  {
+    "subject": "\u4e0a\u6e38\u6765\u91cf",
+    "predicate": "\u4e0d\u5c0f\u4e8e",
+    "object": "900\u7acb\u65b9\u7c73\u6bcf\u79d2",
+    "chunk": 5
+  },
+  {
+    "subject": "\u65b0\u8001\u4e24\u6cb3",
+    "predicate": "\u5206\u6cc4",
+    "object": "\u6c34\u4f4d\u4f4e\u4e8e13.47\u7c73\u65f6",
+    "chunk": 5
+  },
+  {
+    "subject": "\u5b50\u7259\u6cb3",
+    "predicate": "\u6f2b\u6ee9\u884c\u6d2a",
+    "object": "\u6c34\u4f4d",
+    "chunk": 5
+  },
+  {
+    "subject": "\u8001\u6cb3",
+    "predicate": "\u63a7\u5236\u6cc4\u91cf",
+    "object": "\u6c34\u4f4d",
+    "chunk": 5
+  },
+  {
+    "subject": "\u7a7f\u8fd0\u67a2\u7ebd\u4e0b\u6e38",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "11.84",
+    "chunk": 5
+  },
+  {
+    "subject": "11.84",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u9ec4\u6d77",
+    "chunk": 5
+  },
+  {
+    "subject": "12.11",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u9ec4\u6d77",
+    "chunk": 5
+  },
+  {
+    "subject": "10.67",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u9ec4\u6d77",
+    "chunk": 5
+  },
+  {
+    "subject": "10.70",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u9ec4\u6d77",
+    "chunk": 5
+  },
+  {
+    "subject": "5000",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u7a7f\u8fd0\u67a2\u7ebd\u4e0b\u6e38",
+    "chunk": 5
+  },
+  {
+    "subject": "\u6d77\u53e3\u6321\u6f6e\u95f8\u4e0a",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "6.57",
+    "chunk": 5
+  },
+  {
+    "subject": "6.57",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u9ec4\u6d77",
+    "chunk": 5
+  },
+  {
+    "subject": "6.71",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u9ec4\u6d77",
+    "chunk": 5
+  },
+  {
+    "subject": "5000",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u5927\u6e05\u6cb3",
+    "chunk": 5
+  },
+  {
+    "subject": "\u6f74\u9f99\u6cb3",
+    "predicate": "\u6d41\u7ecf",
+    "object": "\u5317\u90ed\u6751",
+    "chunk": 5
+  },
+  {
+    "subject": "\u5317\u90ed\u6751",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "31.24",
+    "chunk": 5
+  },
+  {
+    "subject": "31.24",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "chunk": 5
+  },
+  {
+    "subject": "30.23",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "chunk": 5
+  },
+  {
+    "subject": "28.20",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "chunk": 5
+  },
+  {
+    "subject": "29.70",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "chunk": 5
+  },
+  {
+    "subject": "\u5927\u6cbd",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "3000",
+    "chunk": 5
+  },
+  {
+    "subject": "\u6f74\u9f99\u6cb3\u5343\u91cc\u5824\u53ca\u9648\u6751\u4ee5\u4e0a\u5de6\u5824",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u9648\u6751\u5206\u6d2a\u9053",
+    "chunk": 5
+  },
+  {
+    "subject": "\u9648\u6751",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "21.20",
+    "chunk": 5
+  },
+  {
+    "subject": "21.20",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "chunk": 5
+  },
+  {
+    "subject": "20.20",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "chunk": 5
+  },
+  {
+    "subject": "19.70",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "chunk": 5
+  },
+  {
+    "subject": "21.20",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u5927\u6cbd",
+    "chunk": 5
+  },
+  {
+    "subject": "800",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u5206\u6d2a\u9053\u4e24\u5824",
+    "chunk": 5
+  },
+  {
+    "subject": "\u5206\u6d2a",
+    "predicate": "\u4e0a\u6da8\u8d85\u8fc7",
+    "object": "19.70",
+    "chunk": 5
+  },
+  {
+    "subject": "\u8463\u5e84\u5206\u6d2a",
+    "predicate": "\u53d1\u751f\u4e8e",
+    "object": "\u5206\u6d2a",
+    "chunk": 5
+  },
+  {
+    "subject": "\u767d\u6d0b\u6dc0",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u5341\u65b9\u9662",
+    "chunk": 5
+  },
+  {
+    "subject": "\u5341\u65b9\u9662",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "12.50",
+    "chunk": 5
+  },
+  {
+    "subject": "12.50",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u5927\u6cbd",
+    "chunk": 5
+  },
+  {
+    "subject": "9.00",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u5927\u6cbd",
+    "chunk": 5
+  },
+  {
+    "subject": "10.50",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u5927\u6cbd",
+    "chunk": 5
+  },
+  {
+    "subject": "\u5343\u91cc\u5824\u3001\u65b0\u5b89\u5317\u5824\u3001\u56db\u95e8\u5824\u3001\u6dc0\u5357\u65b0\u5824\u3001\u969c\u6c34\u57dd",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u767d\u6d0b\u6dc0",
+    "chunk": 5
+  },
+  {
+    "subject": "\u8d85\u8fc7\u65f6",
+    "predicate": "\u9996\u5148\u6252\u5f00",
+    "object": "\u6dc0\u5357\u65b0\u5824",
+    "chunk": 5
+  },
+  {
+    "subject": "\u8d85\u8fc7\u65f6",
+    "predicate": "\u4f9d\u6b21\u6252\u5f00",
+    "object": "\u56db\u95e8\u5824",
+    "chunk": 5
+  },
+  {
+    "subject": "\u8d85\u8fc7\u65f6",
+    "predicate": "\u4f9d\u6b21\u6252\u5f00",
+    "object": "\u65b0\u5b89\u5317\u5824",
+    "chunk": 5
+  },
+  {
+    "subject": "\u786e\u4fdd",
+    "predicate": "\u786e\u4fdd",
+    "object": "\u5343\u91cc\u5824\u5b89\u5168",
+    "chunk": 5
+  },
+  {
+    "subject": "\u8d75\u738b\u65b0\u6cb3",
+    "predicate": "\u6d41\u7ecf",
+    "object": "\u65b0\u76d6\u623f\u67a2\u7ebd",
+    "chunk": 5
+  },
+  {
+    "subject": "\u65b0\u76d6\u623f\u67a2\u7ebd",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "10.97",
+    "chunk": 5
+  },
+  {
+    "subject": "10.97",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "chunk": 5
+  },
+  {
+    "subject": "8.88",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "chunk": 5
+  },
+  {
+    "subject": "2000",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u5927\u6e05\u6cb3",
+    "chunk": 5
+  },
+  {
+    "subject": "\u738b\u6751\u5206\u6d2a\u95f8",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "10.70",
+    "chunk": 5
+  },
+  {
+    "subject": "10.70",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "chunk": 5
+  },
+  {
+    "subject": "10.05",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "chunk": 5
+  },
+  {
+    "subject": "2000",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u738b\u6751\u81f3\u5d14\u5bb6\u623f\u4e24\u5824",
+    "chunk": 5
+  },
+  {
+    "subject": "\u767d\u6d0b\u6dc0",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u7b2c\u516d\u57e0",
+    "chunk": 5
+  },
+  {
+    "subject": "\u7b2c\u516d\u57e0",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u5927\u6cbd",
+    "chunk": 5
+  },
+  {
+    "subject": "6.44",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u5927\u6cbd",
+    "chunk": 5
+  },
+  {
+    "subject": "8.00",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u5927\u6cbd",
+    "chunk": 5
+  },
+  {
+    "subject": "\u4fdd\u4e1c\u6dc0\u56f4\u5824",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u767d\u6d0b\u6dc0",
+    "chunk": 5
+  },
+  {
+    "subject": "\u4e1c\u8328\u6751",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "29.23",
+    "chunk": 5
+  },
+  {
+    "subject": "29.23",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "chunk": 5
+  },
+  {
+    "subject": "27.95",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "chunk": 5
+  },
+  {
+    "subject": "27.11",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "chunk": 5
+  },
+  {
+    "subject": "2000",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u767d\u6c9f\u6cb3\u4e24\u5824",
+    "chunk": 5
+  },
+  {
+    "subject": "\u5206\u6d2a",
+    "predicate": "\u53d1\u751f\u4e8e",
+    "object": "\u767d\u6d0b\u6dc0",
+    "chunk": 5
+  },
+  {
+    "subject": "\u6c38\u5b9a\u6cb3",
+    "predicate": "\u6d41\u7ecf",
+    "object": "\u5362\u6c9f\u6865\u4e0b",
+    "chunk": 6
+  },
+  {
+    "subject": "\u6c38\u5b9a\u6cb3",
+    "predicate": "\u6c47\u5165",
+    "object": "\u5c0f\u6e05\u6cb3",
+    "chunk": 6
+  },
+  {
+    "subject": "\u6c38\u5b9a\u6cb3",
+    "predicate": "\u6c34\u4f4d\u4e3a",
+    "object": "65.68",
+    "chunk": 6
+  },
+  {
+    "subject": "\u6c38\u5b9a\u6cb3",
+    "predicate": "\u6c34\u4f4d\u4e3a",
+    "object": "64.20",
+    "chunk": 6
+  },
+  {
+    "subject": "\u5317\u4eac",
+    "predicate": "\u6c34\u4f4d\u4e3a",
+    "object": "60.80",
+    "chunk": 6
+  },
+  {
+    "subject": "\u5317\u4eac",
+    "predicate": "\u6c34\u4f4d\u4e3a",
+    "object": "61.15",
+    "chunk": 6
+  },
+  {
+    "subject": "\u6c38\u5b9a\u6cb3",
+    "predicate": "\u957f\u5ea6\u4e3a",
+    "object": "2500",
+    "chunk": 6
+  },
+  {
+    "subject": "\u6881\u5404\u5e84\u4ee5\u4e0a\u4e24\u5824\u548c\u4ee5\u4e0b\u62a4\u8def\u5824",
+    "predicate": "\u786e\u4fdd",
+    "object": "\u6c38\u5b9a\u6cb3",
+    "chunk": 6
+  },
+  {
+    "subject": "\u6c38\u5b9a\u6cb3",
+    "predicate": "\u5a01\u80c1",
+    "object": "\u56fa\u5b89\u5927\u6865",
+    "chunk": 6
+  },
+  {
+    "subject": "\u5317\u4e09\u6cb3",
+    "predicate": "\u6d41\u7ecf",
+    "object": "\u571f\u95e8\u697c\u95f8\u4e0a",
+    "chunk": 6
+  },
+  {
+    "subject": "\u5317\u4e09\u6cb3",
+    "predicate": "\u6c34\u4f4d\u4e3a",
+    "object": "13.30",
+    "chunk": 6
+  },
+  {
+    "subject": "\u5317\u4e09\u6cb3",
+    "predicate": "\u6c34\u4f4d\u4e3a",
+    "object": "14.10",
+    "chunk": 6
+  },
+  {
+    "subject": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "predicate": "\u6c34\u4f4d\u4e3a",
+    "object": "12.23",
+    "chunk": 6
+  },
+  {
+    "subject": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "predicate": "\u6c34\u4f4d\u4e3a",
+    "object": "12.30",
+    "chunk": 6
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u6c34\u4f4d\u4e3a",
+    "object": "1000-1100",
+    "chunk": 6
+  },
+  {
+    "subject": "\u571f\u95e8\u697c\u4ee5\u4e0a\u4e24\u5824",
+    "predicate": "\u957f\u5ea6\u4e3a",
+    "object": "1100",
+    "chunk": 6
+  },
+  {
+    "subject": "\u9752\u9f99\u6e7e\u51cf\u6cb3",
+    "predicate": "\u6c34\u4f4d\u4e3a",
+    "object": "13.60",
+    "chunk": 6
+  },
+  {
+    "subject": "\u9752\u9f99\u6e7e\u51cf\u6cb3",
+    "predicate": "\u6c34\u4f4d\u4e3a",
+    "object": "13.80",
+    "chunk": 6
+  },
+  {
+    "subject": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "predicate": "\u6c34\u4f4d\u4e3a",
+    "object": "11.93",
+    "chunk": 6
+  },
+  {
+    "subject": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "predicate": "\u6c34\u4f4d\u4e3a",
+    "object": "12.00",
+    "chunk": 6
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u6c34\u4f4d\u4e3a",
+    "object": "1100",
+    "chunk": 6
+  },
+  {
+    "subject": "\u72fc\u513f\u7a9d\u4ee5\u4e0a\u4e24\u5824",
+    "predicate": "\u957f\u5ea6\u4e3a",
+    "object": "1100",
+    "chunk": 6
+  },
+  {
+    "subject": "\u6f6e\u767d\u6cb3",
+    "predicate": "\u6d41\u7ecf",
+    "object": "\u767d\u5e99",
+    "chunk": 6
+  },
+  {
+    "subject": "\u6f6e\u767d\u6cb3",
+    "predicate": "\u6c34\u4f4d\u4e3a",
+    "object": "20.12",
+    "chunk": 6
+  },
+  {
+    "subject": "\u6f6e\u767d\u6cb3",
+    "predicate": "\u6c34\u4f4d\u4e3a",
+    "object": "25.47",
+    "chunk": 6
+  },
+  {
+    "subject": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "predicate": "\u6c34\u4f4d\u4e3a",
+    "object": "20.12",
+    "chunk": 6
+  },
+  {
+    "subject": "\u767d\u5e99\u81f3\u5434\u6751\u6bb5\u4e24\u5824",
+    "predicate": "\u957f\u5ea6\u4e3a",
+    "object": "2260-2600",
+    "chunk": 6
+  },
+  {
+    "subject": "\u8001\u6cb3",
+    "predicate": "\u63a7\u5236\u6c34\u4f4d",
+    "object": "\u5468\u5b98\u5c6f",
+    "inferred": true
+  },
+  {
+    "subject": "\u8d75\u5317\u53e3\u6ea2\u6d41\u5830",
+    "predicate": "\u7ec4\u6210",
+    "object": "\u65b0\u76d6\u623f\u67a2\u7ebd",
+    "inferred": true
+  },
+  {
+    "subject": "\u8d75\u5317\u53e3\u6ea2\u6d41\u5830",
+    "predicate": "\u6784\u6210",
+    "object": "\u65b0\u76d6\u623f\u67a2\u7ebd",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6e05\u6cb3",
+    "predicate": "\u8bbe\u8ba1\u503c",
+    "object": "38.54\u4ebf\u7acb\u65b9\u7c73",
+    "inferred": true
+  },
+  {
+    "subject": "\u4e34\u6e05\u6865",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u536b\u8fd0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u6f33\u536b\u5357\u8fd0\u6cb3",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u5357\u8fd0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u56db\u5973\u5bfa\u8282\u5236\u95f8\u4e0b",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u6f33\u536b\u5357\u8fd0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u738b\u94fa\u81f3\u5927\u9ebb\u6e7e\u5de6\u5824",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u6f33\u536b\u5357\u8fd0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u8d85\u8fc7\u65f6",
+    "predicate": "\u5173\u8054",
+    "object": "10.10",
+    "inferred": true
+  },
+  {
+    "subject": "\u8d85\u8fc7\u65f6",
+    "predicate": "\u89e6\u53d1",
+    "object": "\u56db\u95e8\u5824",
+    "inferred": true
+  },
+  {
+    "subject": "\u6f33\u536b\u5357\u8fd0\u6cb3",
+    "predicate": "\u8fde\u63a5",
+    "object": "\u56db\u95e8\u5824",
+    "inferred": true
+  },
+  {
+    "subject": "\u6f33\u536b\u5357\u8fd0\u6cb3",
+    "predicate": "\u7ba1\u7406",
+    "object": "\u65b0\u5b89\u5317\u5824",
+    "inferred": true
+  },
+  {
+    "subject": "\u8d85\u8fc7\u65f6",
+    "predicate": "\u7ef4\u62a4",
+    "object": "\u6f33\u536b\u5357\u8fd0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u6f33\u536b\u5357\u8fd0\u6cb3",
+    "predicate": "\u62a5\u5907\u4e8e",
+    "object": "\u4e0a\u7ea7\u6c34\u5229\u90e8\u95e8",
+    "inferred": true
+  },
+  {
+    "subject": "\u8521\u5c0f\u5e84",
+    "predicate": "\u7ba1\u8f96\u4e8e",
+    "object": "\u5de5\u7a0b\u7ba1\u7406\u90e8\u95e8\u540c\u7ea7\u6c34\u5229\u90e8\u95e8",
+    "inferred": true
+  },
+  {
+    "subject": "\u9f99\u738b\u5e99",
+    "predicate": "\u7ba1\u8f96\u4e8e",
+    "object": "\u4e0a\u7ea7\u6c34\u5229\u90e8\u95e8",
+    "inferred": true
+  },
+  {
+    "subject": "\u8d75\u5317\u53e3\u6ea2\u6d41\u5830",
+    "predicate": "\u5c5e\u4e8e",
+    "object": "\u6ea2\u6d41\u5830",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6e05\u6cb3",
+    "predicate": "\u5206\u6cc4",
+    "object": "\u5927\u6e05\u6cb3\u8d85\u6807\u51c6\u5206\u6d2a\u6d2a\u6c34\u548c\u6e05\u5357\u5730\u533a\u6ca5\u6c34",
+    "inferred": true
+  },
+  {
+    "subject": "\u7701\u5927\u6e05\u6cb3\u6cb3\u52a1\u7ba1\u7406\u5904",
+    "predicate": "\u7ba1\u7406",
+    "object": "\u5927\u6e05\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u8001\u5927\u6e05\u6cb3\u704c\u6e89\u95f8",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u5927\u6e05\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "8.00\u7c73",
+    "predicate": "\u7b49\u4e8e",
+    "object": "8.00",
+    "inferred": true
+  },
+  {
+    "subject": "\u5343\u91cc\u5824",
+    "predicate": "\u5e76\u5217",
+    "object": "\u65b0\u5b89\u5317\u5824\u3001\u56db\u95e8\u5824\u3001\u6dc0\u5357\u65b0\u5824\u3001\u969c\u6c34\u57dd",
+    "inferred": true
+  },
+  {
+    "subject": "\u7a7f\u8fd0\u67a2\u7ebd\u4e0b\u6e38",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u7a7f\u8fd0\u67a2\u7ebd",
+    "inferred": true
+  },
+  {
+    "subject": "6.44\u7c73",
+    "predicate": "\u7b49\u4e8e",
+    "object": "6.44",
+    "inferred": true
+  },
+  {
+    "subject": "\u827e\u8f9b\u5e84\u8282\u5236\u95f8",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u827e\u8f9b\u5e84",
+    "inferred": true
+  },
+  {
+    "subject": "\u5343\u91cc\u5824",
+    "predicate": "\u62a5 via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "20.12",
+    "inferred": true
+  },
+  {
+    "subject": "\u5343\u91cc\u5824",
+    "predicate": "\u62a5 via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.00",
+    "inferred": true
+  },
+  {
+    "subject": "\u5343\u91cc\u5824",
+    "predicate": "\u62a5 via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "11.93",
+    "inferred": true
+  },
+  {
+    "subject": "\u5343\u91cc\u5824",
+    "predicate": "\u62a5 via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.23",
+    "inferred": true
+  },
+  {
+    "subject": "\u5343\u91cc\u5824",
+    "predicate": "\u62a5 via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.30",
+    "inferred": true
+  },
+  {
+    "subject": "\u5343\u91cc\u5824",
+    "predicate": "\u62a5 via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "\u9ad8\u7a0b\u57fa\u51c6",
+    "inferred": true
+  },
+  {
+    "subject": "\u65b0\u76d6\u623f\u67a2\u7ebd",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "inferred": true
+  },
+  {
+    "subject": "\u738b\u6751\u5206\u6d2a\u95f8",
+    "predicate": "\u62a5 via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "20.12",
+    "inferred": true
+  },
+  {
+    "subject": "\u738b\u6751\u5206\u6d2a\u95f8",
+    "predicate": "\u62a5 via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.00",
+    "inferred": true
+  },
+  {
+    "subject": "\u738b\u6751\u5206\u6d2a\u95f8",
+    "predicate": "\u62a5 via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "11.93",
+    "inferred": true
+  },
+  {
+    "subject": "\u738b\u6751\u5206\u6d2a\u95f8",
+    "predicate": "\u62a5 via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.23",
+    "inferred": true
+  },
+  {
+    "subject": "\u738b\u6751\u5206\u6d2a\u95f8",
+    "predicate": "\u62a5 via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.30",
+    "inferred": true
+  },
+  {
+    "subject": "\u738b\u6751\u5206\u6d2a\u95f8",
+    "predicate": "\u62a5 via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "\u9ad8\u7a0b\u57fa\u51c6",
+    "inferred": true
+  },
+  {
+    "subject": "\u738b\u6751\u5206\u6d2a\u95f8",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u9ec4\u6d77",
+    "inferred": true
+  },
+  {
+    "subject": "\u767d\u6d0b\u6dc0",
+    "predicate": "\u4f4d\u4e8e via \u5341\u65b9\u9662",
+    "object": "9.00\u7c73",
+    "inferred": true
+  },
+  {
+    "subject": "\u767d\u6d0b\u6dc0",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "12.50",
+    "inferred": true
+  },
+  {
+    "subject": "\u767d\u6d0b\u6dc0",
+    "predicate": "\u4f4d\u4e8e via \u5341\u65b9\u9662",
+    "object": "7.50\u7c73",
+    "inferred": true
+  },
+  {
+    "subject": "\u767d\u6d0b\u6dc0",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5927\u6cbd",
+    "inferred": true
+  },
+  {
+    "subject": "\u767d\u6d0b\u6dc0",
+    "predicate": "\u5357\u754c via \u5343\u91cc\u5824",
+    "object": "\u5168\u7701\u5206\u533a\u9632\u5b88\u3001\u5206\u6d41\u5165\u6d77\u7684\u7b2c\u4e09\u9053\u9632\u7ebf",
+    "inferred": true
+  },
+  {
+    "subject": "\u767d\u6d0b\u6dc0",
+    "predicate": "\u5357\u754c via \u5343\u91cc\u5824",
+    "object": "\u6ca7\u5dde\u5e02\u7ec4\u7ec7\u4efb\u4e18\u5e02\u5b9e\u65bd",
+    "inferred": true
+  },
+  {
+    "subject": "\u767d\u6d0b\u6dc0",
+    "predicate": "\u5357\u754c via \u5343\u91cc\u5824",
+    "object": "\u6211\u77014\u6761\u786e\u4fdd\u5824\u9632\u4e4b\u4e00",
+    "inferred": true
+  },
+  {
+    "subject": "\u767d\u6d0b\u6dc0",
+    "predicate": "\u5357\u754c via \u5343\u91cc\u5824",
+    "object": "\u6cb3\u5317\u7701\u5546\u6c34\u5229\u90e8\u6d77\u59d4\u63d0\u51fa\u610f\u89c1",
+    "inferred": true
+  },
+  {
+    "subject": "\u767d\u6d0b\u6dc0",
+    "predicate": "\u5357\u754c via \u5343\u91cc\u5824",
+    "object": "\u6c34\u5229\u90e8\u540c\u610f",
+    "inferred": true
+  },
+  {
+    "subject": "\u767d\u6d0b\u6dc0",
+    "predicate": "\u5357\u754c via \u5343\u91cc\u5824",
+    "object": "189\u516c\u91cc",
+    "inferred": true
+  },
+  {
+    "subject": "\u767d\u6d0b\u6dc0",
+    "predicate": "\u62a5 via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "20.12",
+    "inferred": true
+  },
+  {
+    "subject": "\u767d\u6d0b\u6dc0",
+    "predicate": "\u62a5 via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.00",
+    "inferred": true
+  },
+  {
+    "subject": "\u767d\u6d0b\u6dc0",
+    "predicate": "\u62a5 via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "11.93",
+    "inferred": true
+  },
+  {
+    "subject": "\u767d\u6d0b\u6dc0",
+    "predicate": "\u62a5 via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.23",
+    "inferred": true
+  },
+  {
+    "subject": "\u767d\u6d0b\u6dc0",
+    "predicate": "\u62a5 via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.30",
+    "inferred": true
+  },
+  {
+    "subject": "\u767d\u6d0b\u6dc0",
+    "predicate": "\u62a5 via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "\u9ad8\u7a0b\u57fa\u51c6",
+    "inferred": true
+  },
+  {
+    "subject": "\u6587\u5b89\u6d3c",
+    "predicate": "\u4e1c\u501a via \u5b50\u7259\u6cb3",
+    "object": "\u732e\u53bf\u67a2\u7ebd\u95f8\u4e0a",
+    "inferred": true
+  },
+  {
+    "subject": "\u6587\u5b89\u6d3c",
+    "predicate": "\u4e1c\u501a via \u5b50\u7259\u6cb3",
+    "object": "\u7a7f\u8fd0\u67a2\u7ebd",
+    "inferred": true
+  },
+  {
+    "subject": "\u6587\u5b89\u6d3c",
+    "predicate": "\u4e1c\u501a via \u5b50\u7259\u6cb3",
+    "object": "\u6ecf\u9633\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u6587\u5b89\u6d3c",
+    "predicate": "\u5317\u9760 via \u5343\u91cc\u5824",
+    "object": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "inferred": true
+  },
+  {
+    "subject": "\u6587\u5b89\u6d3c",
+    "predicate": "\u5317\u9760 via \u5343\u91cc\u5824",
+    "object": "\u5168\u7701\u5206\u533a\u9632\u5b88\u3001\u5206\u6d41\u5165\u6d77\u7684\u7b2c\u4e09\u9053\u9632\u7ebf",
+    "inferred": true
+  },
+  {
+    "subject": "\u6587\u5b89\u6d3c",
+    "predicate": "\u5317\u9760 via \u5343\u91cc\u5824",
+    "object": "\u6ca7\u5dde\u5e02\u7ec4\u7ec7\u4efb\u4e18\u5e02\u5b9e\u65bd",
+    "inferred": true
+  },
+  {
+    "subject": "\u6587\u5b89\u6d3c",
+    "predicate": "\u5317\u9760 via \u5343\u91cc\u5824",
+    "object": "\u6211\u77014\u6761\u786e\u4fdd\u5824\u9632\u4e4b\u4e00",
+    "inferred": true
+  },
+  {
+    "subject": "\u6587\u5b89\u6d3c",
+    "predicate": "\u5317\u9760 via \u5343\u91cc\u5824",
+    "object": "\u6cb3\u5317\u7701\u5546\u6c34\u5229\u90e8\u6d77\u59d4\u63d0\u51fa\u610f\u89c1",
+    "inferred": true
+  },
+  {
+    "subject": "\u6587\u5b89\u6d3c",
+    "predicate": "\u5317\u9760 via \u5343\u91cc\u5824",
+    "object": "\u6c34\u5229\u90e8\u540c\u610f",
+    "inferred": true
+  },
+  {
+    "subject": "\u6587\u5b89\u6d3c",
+    "predicate": "\u5317\u9760 via \u5343\u91cc\u5824",
+    "object": "189\u516c\u91cc",
+    "inferred": true
+  },
+  {
+    "subject": "\u8d3e\u53e3\u6d3c",
+    "predicate": "\u4f4d\u4e8e via \u5b50\u7259\u6cb3",
+    "object": "\u732e\u53bf\u67a2\u7ebd\u95f8\u4e0a",
+    "inferred": true
+  },
+  {
+    "subject": "\u8d3e\u53e3\u6d3c",
+    "predicate": "\u4f4d\u4e8e via \u5b50\u7259\u6cb3",
+    "object": "\u7a7f\u8fd0\u67a2\u7ebd",
+    "inferred": true
+  },
+  {
+    "subject": "\u8d3e\u53e3\u6d3c",
+    "predicate": "\u4f4d\u4e8e via \u5b50\u7259\u6cb3",
+    "object": "\u6ecf\u9633\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6e05\u6cb3",
+    "predicate": "\u7531 via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "20.12",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6e05\u6cb3",
+    "predicate": "\u7531 via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.00",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6e05\u6cb3",
+    "predicate": "\u7531 via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "11.93",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6e05\u6cb3",
+    "predicate": "\u7531 via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.23",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6e05\u6cb3",
+    "predicate": "\u7531 via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.30",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6e05\u6cb3",
+    "predicate": "\u7531 via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "\u9ad8\u7a0b\u57fa\u51c6",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6e05\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u6d77\u53e3\u6321\u6f6e\u95f8\u4e0a",
+    "object": "6.57",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6e05\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u6d77\u53e3\u6321\u6f6e\u95f8\u4e0a",
+    "object": "\u9ec4\u6d77",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6e05\u6cb3",
+    "predicate": "indirectly \u6d41\u7ecf",
+    "object": "\u827e\u8f9b\u5e84\u8282\u5236\u95f8",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6e05\u6cb3",
+    "predicate": "indirectly \u6d41\u7ecf",
+    "object": "\u5317\u90ed\u6751",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6e05\u6cb3",
+    "predicate": "indirectly \u6d41\u7ecf",
+    "object": "\u827e\u8f9b\u5e84",
+    "inferred": true
+  },
+  {
+    "subject": "\u5206\u6d2a",
+    "predicate": "\u53d1\u751f\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "\u5341\u65b9\u9662",
+    "inferred": true
+  },
+  {
+    "subject": "\u5206\u6d2a",
+    "predicate": "\u53d1\u751f\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "34.63\u4ebf\u7acb\u65b9\u7c73",
+    "inferred": true
+  },
+  {
+    "subject": "\u5206\u6d2a",
+    "predicate": "\u53d1\u751f\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "1475\u5e73\u65b9\u516c\u91cc",
+    "inferred": true
+  },
+  {
+    "subject": "\u5206\u6d2a",
+    "predicate": "\u53d1\u751f\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "265\u5e73\u65b9\u516c\u91cc",
+    "inferred": true
+  },
+  {
+    "subject": "\u5206\u6d2a",
+    "predicate": "\u53d1\u751f\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "\u4e1c\u6dc0\u5317\u5927\u5824",
+    "inferred": true
+  },
+  {
+    "subject": "\u5206\u6d2a",
+    "predicate": "\u53d1\u751f\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "\u7b2c\u516d\u57e0",
+    "inferred": true
+  },
+  {
+    "subject": "\u5206\u6d2a",
+    "predicate": "\u53d1\u751f\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "\u5eca\u574a\u3001\u6ca7\u5dde\u5e02\u3001\u96c4\u5b89\u65b0\u533a\u9632\u6307\u8d1f\u8d23\u5b9e\u65bd",
+    "inferred": true
+  },
+  {
+    "subject": "\u5206\u6d2a",
+    "predicate": "\u53d1\u751f\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "\u7701\u653f\u5e9c\u51b3\u5b9a",
+    "inferred": true
+  },
+  {
+    "subject": "\u5206\u6d2a",
+    "predicate": "\u53d1\u751f\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "\u5343\u91cc\u5824",
+    "inferred": true
+  },
+  {
+    "subject": "\u5206\u6d2a",
+    "predicate": "\u53d1\u751f\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "\u7701\u9632\u6307\u4e0b\u8fbe\u6307\u4ee4",
+    "inferred": true
+  },
+  {
+    "subject": "\u5206\u6d2a",
+    "predicate": "\u53d1\u751f\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "12.80",
+    "inferred": true
+  },
+  {
+    "subject": "\u5206\u6d2a",
+    "predicate": "\u53d1\u751f\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "1556\u5e73\u65b9\u516c\u91cc",
+    "inferred": true
+  },
+  {
+    "subject": "\u5206\u6d2a",
+    "predicate": "\u53d1\u751f\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "50\u5e74\u4e00\u9047",
+    "inferred": true
+  },
+  {
+    "subject": "\u5206\u6d2a",
+    "predicate": "\u53d1\u751f\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "6.44\u7c73",
+    "inferred": true
+  },
+  {
+    "subject": "\u5206\u6d2a",
+    "predicate": "\u53d1\u751f\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "\u7701\u6c34\u5229\u5385\u51b3\u5b9a",
+    "inferred": true
+  },
+  {
+    "subject": "\u5206\u6d2a",
+    "predicate": "\u53d1\u751f\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "\u6c34\u4f4d",
+    "inferred": true
+  },
+  {
+    "subject": "\u5206\u6d2a",
+    "predicate": "\u53d1\u751f\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "379\u5e73\u65b9\u516c\u91cc",
+    "inferred": true
+  },
+  {
+    "subject": "\u5206\u6d2a",
+    "predicate": "\u53d1\u751f\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "\u4e0d\u8db35\u5e74\u4e00\u9047",
+    "inferred": true
+  },
+  {
+    "subject": "\u5206\u6d2a",
+    "predicate": "\u53d1\u751f\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "\u96c4\u5b89\u65b0\u533a\u7ec4\u7ec7\u5b9e\u65bd",
+    "inferred": true
+  },
+  {
+    "subject": "\u5206\u6d2a",
+    "predicate": "\u62a5 via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "20.12",
+    "inferred": true
+  },
+  {
+    "subject": "\u5206\u6d2a",
+    "predicate": "\u62a5 via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.00",
+    "inferred": true
+  },
+  {
+    "subject": "\u5206\u6d2a",
+    "predicate": "\u62a5 via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "11.93",
+    "inferred": true
+  },
+  {
+    "subject": "\u5206\u6d2a",
+    "predicate": "\u62a5 via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.23",
+    "inferred": true
+  },
+  {
+    "subject": "\u5206\u6d2a",
+    "predicate": "\u62a5 via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.30",
+    "inferred": true
+  },
+  {
+    "subject": "\u5206\u6d2a",
+    "predicate": "\u62a5 via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "\u9ad8\u7a0b\u57fa\u51c6",
+    "inferred": true
+  },
+  {
+    "subject": "\u7b2c\u516d\u57e0",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ee6\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u7b2c\u516d\u57e0",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u8d75\u738b\u65b0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u7b2c\u516d\u57e0",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u767d\u6c9f\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u7b2c\u516d\u57e0",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "3000",
+    "inferred": true
+  },
+  {
+    "subject": "\u4e1c\u8328\u6751",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "inferred": true
+  },
+  {
+    "subject": "\u4e1c\u8328\u6751",
+    "predicate": "\u8fbe\u5230 via 24.10",
+    "object": "\u9ec4\u6d77",
+    "inferred": true
+  },
+  {
+    "subject": "\u5341\u65b9\u9662",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5927\u6cbd",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5341\u65b9\u9662",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "34.63\u4ebf\u7acb\u65b9\u7c73",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "1475\u5e73\u65b9\u516c\u91cc",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "265\u5e73\u65b9\u516c\u91cc",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "\u4e1c\u6dc0\u5317\u5927\u5824",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u7b2c\u516d\u57e0",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "\u5eca\u574a\u3001\u6ca7\u5dde\u5e02\u3001\u96c4\u5b89\u65b0\u533a\u9632\u6307\u8d1f\u8d23\u5b9e\u65bd",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "\u6d77\u6cb3\u9632\u603b\u63d0\u51fa\u610f\u89c1",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "\u7701\u653f\u5e9c\u51b3\u5b9a",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "\u5343\u91cc\u5824",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "\u7701\u9632\u6307\u4e0b\u8fbe\u6307\u4ee4",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "12.80",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "1556\u5e73\u65b9\u516c\u91cc",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "50\u5e74\u4e00\u9047",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "6.44\u7c73",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "\u7701\u6c34\u5229\u5385\u51b3\u5b9a",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "\u6c34\u4f4d",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "379\u5e73\u65b9\u516c\u91cc",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "\u4e0d\u8db35\u5e74\u4e00\u9047",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "\u96c4\u5b89\u65b0\u533a\u7ec4\u7ec7\u5b9e\u65bd",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u6c38\u5b9a\u6cb3",
+    "object": "\u56fa\u5b89\u5927\u6865",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u6c38\u5b9a\u6cb3",
+    "object": "65.68",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u6c38\u5b9a\u6cb3",
+    "object": "2500",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u6c38\u5b9a\u6cb3",
+    "object": "\u5362\u6c9f\u6865\u4e0b",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u6c38\u5b9a\u6cb3",
+    "object": "64.20",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u6c38\u5b9a\u6cb3",
+    "object": "\u5c0f\u6e05\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u5317\u4e09\u6cb3",
+    "object": "14.10",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u5317\u4e09\u6cb3",
+    "object": "\u5317\u8fd0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u5317\u4e09\u6cb3",
+    "object": "13.30",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u5317\u4e09\u6cb3",
+    "object": "\u571f\u95e8\u697c\u95f8\u4e0a",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u84df\u8fd0\u6cb3",
+    "object": "\u5c0f\u6cb3\u53e3",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u6ef9\u6cb1\u6cb3",
+    "object": "\u5317\u4e2d\u5c71",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u5927\u6e05\u6cb3",
+    "object": "38.54\u4ebf\u7acb\u65b9\u7c73",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u5927\u6e05\u6cb3",
+    "object": "16.89\u4ebf\u7acb\u65b9\u7c73",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u5927\u6e05\u6cb3",
+    "object": "3.21\u4ebf\u7acb\u65b9\u7c73",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u5927\u6e05\u6cb3",
+    "object": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u5927\u6e05\u6cb3",
+    "object": "\u7701\u9632\u6307",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u5927\u6e05\u6cb3",
+    "object": "42.96\u4ebf\u7acb\u65b9\u7c73",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u5927\u6e05\u6cb3",
+    "object": "10.34\u4ebf\u7acb\u65b9\u7c73",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u5927\u6e05\u6cb3",
+    "object": "\u7701\u6c34\u5229\u5385\u540c\u610f",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u5927\u6e05\u6cb3",
+    "object": "5.67\u4ebf\u7acb\u65b9\u7c73",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u5927\u6e05\u6cb3",
+    "object": "\u6d77\u53e3\u6321\u6f6e\u95f8\u4e0a",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u5927\u6e05\u6cb3",
+    "object": "25.78\u4ebf\u7acb\u65b9\u7c73",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u5b50\u7259\u6cb3",
+    "object": "\u732e\u53bf\u67a2\u7ebd\u95f8\u4e0a",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u5b50\u7259\u6cb3",
+    "object": "\u6c34\u4f4d",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u5b50\u7259\u6cb3",
+    "object": "\u7a7f\u8fd0\u67a2\u7ebd",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u5b50\u7259\u6cb3",
+    "object": "\u6ecf\u9633\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u5f15\u6c9f\u5165\u6f6e",
+    "object": "\u5927\u7f57\u5c6f\u6e21\u6f15",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u6c9f\u6cb3",
+    "object": "\u4e09\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u9752\u9f99\u6e7e\u51cf\u6cb3",
+    "object": "13.80",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u9752\u9f99\u6e7e\u51cf\u6cb3",
+    "object": "\u571f\u95e8\u697c\u5206\u6d2a\u95f8\u4e0b",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u9752\u9f99\u6e7e\u51cf\u6cb3",
+    "object": "13.60",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u5357\u62d2\u9a6c\u6cb3",
+    "object": "\u5317\u6cb3\u5e97",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u8fd8\u4e61\u6cb3",
+    "object": "\u5c0f\u5b9a\u5e9c",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u6f6e\u767d\u6cb3",
+    "object": "\u767d\u5e99",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u6f6e\u767d\u6cb3",
+    "object": "\u5434\u6751",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u6f6e\u767d\u6cb3",
+    "object": "20.12",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u6f6e\u767d\u6cb3",
+    "object": "25.47",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u6ecf\u9633\u65b0\u6cb3",
+    "object": "\u827e\u8f9b\u5e84\u8282\u5236\u95f8",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u6ecf\u9633\u65b0\u6cb3",
+    "object": "\u5317\u90ed\u6751",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f4d\u4e8e via \u6ecf\u9633\u65b0\u6cb3",
+    "object": "\u827e\u8f9b\u5e84",
+    "inferred": true
+  },
+  {
+    "subject": "\u6ecf\u9633\u65b0\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u827e\u8f9b\u5e84\u8282\u5236\u95f8",
+    "object": "26.50",
+    "inferred": true
+  },
+  {
+    "subject": "\u6ecf\u9633\u65b0\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u827e\u8f9b\u5e84\u8282\u5236\u95f8",
+    "object": "\u9ec4\u6d77",
+    "inferred": true
+  },
+  {
+    "subject": "\u6ecf\u9633\u65b0\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u827e\u8f9b\u5e84\u8282\u5236\u95f8",
+    "object": "31.65",
+    "inferred": true
+  },
+  {
+    "subject": "\u6ecf\u9633\u65b0\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u827e\u8f9b\u5e84\u8282\u5236\u95f8",
+    "object": "150\u7acb\u65b9\u7c73\u6bcf\u79d2",
+    "inferred": true
+  },
+  {
+    "subject": "\u6ecf\u9633\u65b0\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u5317\u90ed\u6751",
+    "object": "31.24",
+    "inferred": true
+  },
+  {
+    "subject": "\u6ef9\u6cb1\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u5317\u4e2d\u5c71",
+    "object": "\u9ec4\u6d77",
+    "inferred": true
+  },
+  {
+    "subject": "\u6ef9\u6cb1\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u5317\u4e2d\u5c71",
+    "object": "40.40",
+    "inferred": true
+  },
+  {
+    "subject": "\u5b50\u7259\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u732e\u53bf\u67a2\u7ebd\u95f8\u4e0a",
+    "object": "\u9ec4\u6d77",
+    "inferred": true
+  },
+  {
+    "subject": "\u5b50\u7259\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u732e\u53bf\u67a2\u7ebd\u95f8\u4e0a",
+    "object": "18.50",
+    "inferred": true
+  },
+  {
+    "subject": "\u5b50\u7259\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u732e\u53bf\u67a2\u7ebd\u95f8\u4e0a",
+    "object": "18.44",
+    "inferred": true
+  },
+  {
+    "subject": "\u5b50\u7259\u6cb3",
+    "predicate": "indirectly \u6d41\u7ecf",
+    "object": "\u4e0a\u6e38\u6765\u91cf\u4e0d\u5c0f\u4e8e900\u7acb\u65b9\u7c73\u6bcf\u79d2",
+    "inferred": true
+  },
+  {
+    "subject": "\u5b50\u7259\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u732e\u53bf\u67a2\u7ebd\u95f8\u4e0a",
+    "object": "17.60",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6cbd",
+    "predicate": "\u4f4d\u4e8e via \u6ee6\u6cb3",
+    "object": "\u8001\u7ad9",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6cbd",
+    "predicate": "\u4f4d\u4e8e via \u8d75\u738b\u65b0\u6cb3",
+    "object": "\u738b\u6751\u5206\u6d2a\u95f8",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6cbd",
+    "predicate": "\u4f4d\u4e8e via \u8d75\u738b\u65b0\u6cb3",
+    "object": "\u65b0\u76d6\u623f\u67a2\u7ebd",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6cbd",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6c9f\u6cb3",
+    "object": "\u4e1c\u8328\u6751",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6cbd",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u4fdd\u4e24\u5824",
+    "inferred": true
+  },
+  {
+    "subject": "\u8d75\u738b\u65b0\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u738b\u6751\u5206\u6d2a\u95f8",
+    "object": "\u5f00\u655e\u5f0f",
+    "inferred": true
+  },
+  {
+    "subject": "\u8d75\u738b\u65b0\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u738b\u6751\u5206\u6d2a\u95f8",
+    "object": "8.90\u7c73",
+    "inferred": true
+  },
+  {
+    "subject": "\u8d75\u738b\u65b0\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u738b\u6751\u5206\u6d2a\u95f8",
+    "object": "1380\u7acb\u65b9\u7c73\u6bcf\u79d2",
+    "inferred": true
+  },
+  {
+    "subject": "\u8d75\u738b\u65b0\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u738b\u6751\u5206\u6d2a\u95f8",
+    "object": "\u6c34\u5229\u90e8\u6d77\u59d4\u63d0\u51fa\u610f\u89c1",
+    "inferred": true
+  },
+  {
+    "subject": "\u8d75\u738b\u65b0\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u738b\u6751\u5206\u6d2a\u95f8",
+    "object": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "inferred": true
+  },
+  {
+    "subject": "\u8d75\u738b\u65b0\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u738b\u6751\u5206\u6d2a\u95f8",
+    "object": "7.88\u7c73",
+    "inferred": true
+  },
+  {
+    "subject": "\u8d75\u738b\u65b0\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u738b\u6751\u5206\u6d2a\u95f8",
+    "object": "10.70",
+    "inferred": true
+  },
+  {
+    "subject": "\u8d75\u738b\u65b0\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u738b\u6751\u5206\u6d2a\u95f8",
+    "object": "8.00\u7c73",
+    "inferred": true
+  },
+  {
+    "subject": "\u8d75\u738b\u65b0\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u738b\u6751\u5206\u6d2a\u95f8",
+    "object": "\u884c\u653f\u533a\u5212",
+    "inferred": true
+  },
+  {
+    "subject": "\u8d75\u738b\u65b0\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u738b\u6751\u5206\u6d2a\u95f8",
+    "object": "\u6c34\u5229\u90e8\u540c\u610f",
+    "inferred": true
+  },
+  {
+    "subject": "\u8d75\u738b\u65b0\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u738b\u6751\u5206\u6d2a\u95f8",
+    "object": "\u5cb8\u5899\u5f0f\u6c34\u95f8",
+    "inferred": true
+  },
+  {
+    "subject": "\u8d75\u738b\u65b0\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u65b0\u76d6\u623f\u67a2\u7ebd",
+    "object": "\u8d75\u5317\u53e3\u6ea2\u6d41\u5830",
+    "inferred": true
+  },
+  {
+    "subject": "\u8d75\u738b\u65b0\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u65b0\u76d6\u623f\u67a2\u7ebd",
+    "object": "\u8239\u95f8",
+    "inferred": true
+  },
+  {
+    "subject": "\u8d75\u738b\u65b0\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u65b0\u76d6\u623f\u67a2\u7ebd",
+    "object": "4\u5b54\u95f8",
+    "inferred": true
+  },
+  {
+    "subject": "\u8d75\u738b\u65b0\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u65b0\u76d6\u623f\u67a2\u7ebd",
+    "object": "1036\u7acb\u65b9\u7c73\u6bcf\u79d2",
+    "inferred": true
+  },
+  {
+    "subject": "\u8d75\u738b\u65b0\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u65b0\u76d6\u623f\u67a2\u7ebd",
+    "object": "400\u7acb\u65b9\u7c73\u6bcf\u79d2",
+    "inferred": true
+  },
+  {
+    "subject": "\u8d75\u738b\u65b0\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u65b0\u76d6\u623f\u67a2\u7ebd",
+    "object": "10.97",
+    "inferred": true
+  },
+  {
+    "subject": "\u8d75\u738b\u65b0\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u65b0\u76d6\u623f\u67a2\u7ebd",
+    "object": "460\u7acb\u65b9\u7c73\u6bcf\u79d2",
+    "inferred": true
+  },
+  {
+    "subject": "\u8d75\u738b\u65b0\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u65b0\u76d6\u623f\u67a2\u7ebd",
+    "object": "\u5206\u6d2a\u95f8",
+    "inferred": true
+  },
+  {
+    "subject": "\u8d75\u738b\u65b0\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u65b0\u76d6\u623f\u67a2\u7ebd",
+    "object": "\u7701\u5927\u6e05\u6cb3\u6cb3\u52a1\u7ba1\u7406\u5904\u8d1f\u8d23\u5b9e\u65bd",
+    "inferred": true
+  },
+  {
+    "subject": "\u8d75\u738b\u65b0\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u65b0\u76d6\u623f\u67a2\u7ebd",
+    "object": "\u8001\u5927\u6e05\u6cb3\u704c\u6e89\u95f8",
+    "inferred": true
+  },
+  {
+    "subject": "\u8d75\u738b\u65b0\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u65b0\u76d6\u623f\u67a2\u7ebd",
+    "object": "3964\u7acb\u65b9\u7c73\u6bcf\u79d2",
+    "inferred": true
+  },
+  {
+    "subject": "\u8d75\u738b\u65b0\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u65b0\u76d6\u623f\u67a2\u7ebd",
+    "object": "\u767d\u6c9f\u5f15\u6cb3\u8fdb\u6c34\u95f8",
+    "inferred": true
+  },
+  {
+    "subject": "\u8d75\u738b\u65b0\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u65b0\u76d6\u623f\u67a2\u7ebd",
+    "object": "2700\u7acb\u65b9\u7c73\u6bcf\u79d2",
+    "inferred": true
+  },
+  {
+    "subject": "\u8d75\u738b\u65b0\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u65b0\u76d6\u623f\u67a2\u7ebd",
+    "object": "\u7701\u5927\u6e05\u6cb3\u6cb3\u52a1\u7ba1\u7406\u5904\u5b9e\u65bd",
+    "inferred": true
+  },
+  {
+    "subject": "\u8d75\u738b\u65b0\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u65b0\u76d6\u623f\u67a2\u7ebd",
+    "object": "\u6c34\u5229\u90e8\u540c\u610f",
+    "inferred": true
+  },
+  {
+    "subject": "\u8d75\u738b\u65b0\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u65b0\u76d6\u623f\u67a2\u7ebd",
+    "object": "25\u5b54\u95f8",
+    "inferred": true
+  },
+  {
+    "subject": "\u8d75\u738b\u65b0\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u65b0\u76d6\u623f\u67a2\u7ebd",
+    "object": "\u6ea2\u6d41\u5830",
+    "inferred": true
+  },
+  {
+    "subject": "\u8d75\u738b\u65b0\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u65b0\u76d6\u623f\u67a2\u7ebd",
+    "object": "1840\u7acb\u65b9\u7c73\u6bcf\u79d2",
+    "inferred": true
+  },
+  {
+    "subject": "\u8d75\u738b\u65b0\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u65b0\u76d6\u623f\u67a2\u7ebd",
+    "object": "5000\u7acb\u65b9\u7c73\u6bcf\u79d2",
+    "inferred": true
+  },
+  {
+    "subject": "\u767d\u6c9f\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u4e1c\u8328\u6751",
+    "object": "29.23",
+    "inferred": true
+  },
+  {
+    "subject": "\u767d\u6c9f\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u4e1c\u8328\u6751",
+    "object": "24.10",
+    "inferred": true
+  },
+  {
+    "subject": "\u767d\u6c9f\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u4e1c\u8328\u6751",
+    "object": "24.07",
+    "inferred": true
+  },
+  {
+    "subject": "\u6f33\u536b\u5357\u8fd0\u6cb3",
+    "predicate": "\u5305\u542b via \u6f33\u6cb3",
+    "object": "\u8521\u5c0f\u5e84",
+    "inferred": true
+  },
+  {
+    "subject": "\u6f33\u536b\u5357\u8fd0\u6cb3",
+    "predicate": "\u5305\u542b via \u536b\u6cb3",
+    "object": "\u9f99\u738b\u5e99",
+    "inferred": true
+  },
+  {
+    "subject": "\u6f33\u536b\u5357\u8fd0\u6cb3",
+    "predicate": "\u5305\u542b via \u536b\u6cb3",
+    "object": "\u5143\u6751",
+    "inferred": true
+  },
+  {
+    "subject": "\u6f33\u536b\u5357\u8fd0\u6cb3",
+    "predicate": "\u5305\u542b via \u536b\u6cb3",
+    "object": "\u5f90\u4e07\u4ed3",
+    "inferred": true
+  },
+  {
+    "subject": "\u536b\u8fd0\u6cb3",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u9ec4\u6d77",
+    "inferred": true
+  },
+  {
+    "subject": "\u536b\u8fd0\u6cb3",
+    "predicate": "\u5305\u542b via \u5357\u9676",
+    "object": "44.80",
+    "inferred": true
+  },
+  {
+    "subject": "\u536b\u8fd0\u6cb3",
+    "predicate": "\u5305\u542b via \u5357\u9676",
+    "object": "\u9ec4\u6d77",
+    "inferred": true
+  },
+  {
+    "subject": "\u6f33\u536b\u65b0\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u8881\u6865\u95f8",
+    "object": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "inferred": true
+  },
+  {
+    "subject": "\u6f33\u536b\u65b0\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u8881\u6865\u95f8",
+    "object": "25.50",
+    "inferred": true
+  },
+  {
+    "subject": "\u6f33\u536b\u65b0\u6cb3",
+    "predicate": "\u4f4d\u4e8e via \u738b\u8425\u76d8",
+    "object": "21.31",
+    "inferred": true
+  },
+  {
+    "subject": "\u6f33\u536b\u65b0\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u5434\u6865\u95f8",
+    "object": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "inferred": true
+  },
+  {
+    "subject": "\u6f33\u536b\u65b0\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u5434\u6865\u95f8",
+    "object": "24.07",
+    "inferred": true
+  },
+  {
+    "subject": "\u5357\u9676",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1100",
+    "inferred": true
+  },
+  {
+    "subject": "\u5357\u9676",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u767d\u6d0b\u6dc0",
+    "inferred": true
+  },
+  {
+    "subject": "\u5357\u9676",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c38\u5b9a\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u5357\u9676",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5317\u4e09\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u5357\u9676",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u84df\u8fd0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u5357\u9676",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ef9\u6cb1\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u5357\u9676",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5927\u6e05\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u5357\u9676",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5b50\u7259\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u5357\u9676",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5f15\u6c9f\u5165\u6f6e",
+    "inferred": true
+  },
+  {
+    "subject": "\u5357\u9676",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1000-1100",
+    "inferred": true
+  },
+  {
+    "subject": "\u5357\u9676",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c9f\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u5357\u9676",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u9752\u9f99\u6e7e\u51cf\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u5357\u9676",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5357\u62d2\u9a6c\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u5357\u9676",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u8fd8\u4e61\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u5357\u9676",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6f6e\u767d\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u5357\u9676",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ecf\u9633\u65b0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u4e34\u6e05\u6865",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1100",
+    "inferred": true
+  },
+  {
+    "subject": "\u4e34\u6e05\u6865",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u767d\u6d0b\u6dc0",
+    "inferred": true
+  },
+  {
+    "subject": "\u4e34\u6e05\u6865",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c38\u5b9a\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u4e34\u6e05\u6865",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5317\u4e09\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u4e34\u6e05\u6865",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u84df\u8fd0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u4e34\u6e05\u6865",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ef9\u6cb1\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u4e34\u6e05\u6865",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5927\u6e05\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u4e34\u6e05\u6865",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5b50\u7259\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u4e34\u6e05\u6865",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5f15\u6c9f\u5165\u6f6e",
+    "inferred": true
+  },
+  {
+    "subject": "\u4e34\u6e05\u6865",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1000-1100",
+    "inferred": true
+  },
+  {
+    "subject": "\u4e34\u6e05\u6865",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c9f\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u4e34\u6e05\u6865",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u9752\u9f99\u6e7e\u51cf\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u4e34\u6e05\u6865",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5357\u62d2\u9a6c\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u4e34\u6e05\u6865",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u8fd8\u4e61\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u4e34\u6e05\u6865",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6f6e\u767d\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u4e34\u6e05\u6865",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ecf\u9633\u65b0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u56db\u5973\u5bfa\u95f8\u4e0a",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "20.12",
+    "inferred": true
+  },
+  {
+    "subject": "\u56db\u5973\u5bfa\u95f8\u4e0a",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.00",
+    "inferred": true
+  },
+  {
+    "subject": "\u56db\u5973\u5bfa\u95f8\u4e0a",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "11.93",
+    "inferred": true
+  },
+  {
+    "subject": "\u56db\u5973\u5bfa\u95f8\u4e0a",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.23",
+    "inferred": true
+  },
+  {
+    "subject": "\u56db\u5973\u5bfa\u95f8\u4e0a",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.30",
+    "inferred": true
+  },
+  {
+    "subject": "\u56db\u5973\u5bfa\u95f8\u4e0a",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "\u9ad8\u7a0b\u57fa\u51c6",
+    "inferred": true
+  },
+  {
+    "subject": "\u5434\u6865\u95f8",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "20.12",
+    "inferred": true
+  },
+  {
+    "subject": "\u5434\u6865\u95f8",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.00",
+    "inferred": true
+  },
+  {
+    "subject": "\u5434\u6865\u95f8",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "11.93",
+    "inferred": true
+  },
+  {
+    "subject": "\u5434\u6865\u95f8",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.23",
+    "inferred": true
+  },
+  {
+    "subject": "\u5434\u6865\u95f8",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.30",
+    "inferred": true
+  },
+  {
+    "subject": "\u5434\u6865\u95f8",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "\u9ad8\u7a0b\u57fa\u51c6",
+    "inferred": true
+  },
+  {
+    "subject": "\u8881\u6865\u95f8",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "20.12",
+    "inferred": true
+  },
+  {
+    "subject": "\u8881\u6865\u95f8",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.00",
+    "inferred": true
+  },
+  {
+    "subject": "\u8881\u6865\u95f8",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "11.93",
+    "inferred": true
+  },
+  {
+    "subject": "\u8881\u6865\u95f8",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.23",
+    "inferred": true
+  },
+  {
+    "subject": "\u8881\u6865\u95f8",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.30",
+    "inferred": true
+  },
+  {
+    "subject": "\u8881\u6865\u95f8",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "\u9ad8\u7a0b\u57fa\u51c6",
+    "inferred": true
+  },
+  {
+    "subject": "\u5434\u6865\u5c0f\u5929\u7f61\u5f15\u6c34\u95f8\u4ee5\u4e0b\u81f3\u5c94\u6cb3\u6c47\u6d41\u5904\u5de6\u5824",
+    "predicate": "\u5c5e\u4e8e via \u6f33\u536b\u65b0\u6cb3",
+    "object": "\u8881\u6865\u95f8",
+    "inferred": true
+  },
+  {
+    "subject": "\u5434\u6865\u5c0f\u5929\u7f61\u5f15\u6c34\u95f8\u4ee5\u4e0b\u81f3\u5c94\u6cb3\u6c47\u6d41\u5904\u5de6\u5824",
+    "predicate": "\u5c5e\u4e8e via \u6f33\u536b\u65b0\u6cb3",
+    "object": "\u738b\u8425\u76d8",
+    "inferred": true
+  },
+  {
+    "subject": "\u5434\u6865\u5c0f\u5929\u7f61\u5f15\u6c34\u95f8\u4ee5\u4e0b\u81f3\u5c94\u6cb3\u6c47\u6d41\u5904\u5de6\u5824",
+    "predicate": "\u5c5e\u4e8e via \u6f33\u536b\u65b0\u6cb3",
+    "object": "\u5434\u6865\u95f8",
+    "inferred": true
+  },
+  {
+    "subject": "\u738b\u8425\u76d8",
+    "predicate": "\u4f4d\u4e8e via \u6f33\u536b\u65b0\u6cb3",
+    "object": "\u8881\u6865\u95f8",
+    "inferred": true
+  },
+  {
+    "subject": "\u738b\u8425\u76d8",
+    "predicate": "\u4f4d\u4e8e via \u6f33\u536b\u65b0\u6cb3",
+    "object": "\u5434\u6865\u95f8",
+    "inferred": true
+  },
+  {
+    "subject": "\u6377\u5730\u95f8\u4e0a",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1100",
+    "inferred": true
+  },
+  {
+    "subject": "\u6377\u5730\u95f8\u4e0a",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u767d\u6d0b\u6dc0",
+    "inferred": true
+  },
+  {
+    "subject": "\u6377\u5730\u95f8\u4e0a",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c38\u5b9a\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u6377\u5730\u95f8\u4e0a",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5317\u4e09\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u6377\u5730\u95f8\u4e0a",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u84df\u8fd0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u6377\u5730\u95f8\u4e0a",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ef9\u6cb1\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u6377\u5730\u95f8\u4e0a",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5927\u6e05\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u6377\u5730\u95f8\u4e0a",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5b50\u7259\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u6377\u5730\u95f8\u4e0a",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5f15\u6c9f\u5165\u6f6e",
+    "inferred": true
+  },
+  {
+    "subject": "\u6377\u5730\u95f8\u4e0a",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1000-1100",
+    "inferred": true
+  },
+  {
+    "subject": "\u6377\u5730\u95f8\u4e0a",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c9f\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u6377\u5730\u95f8\u4e0a",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u9752\u9f99\u6e7e\u51cf\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u6377\u5730\u95f8\u4e0a",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5357\u62d2\u9a6c\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u6377\u5730\u95f8\u4e0a",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u8fd8\u4e61\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u6377\u5730\u95f8\u4e0a",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6f6e\u767d\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u6377\u5730\u95f8\u4e0a",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ecf\u9633\u65b0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u83b2\u82b1\u53e3\u8282\u5236\u95f8\u4e0b",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1100",
+    "inferred": true
+  },
+  {
+    "subject": "\u83b2\u82b1\u53e3\u8282\u5236\u95f8\u4e0b",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u767d\u6d0b\u6dc0",
+    "inferred": true
+  },
+  {
+    "subject": "\u83b2\u82b1\u53e3\u8282\u5236\u95f8\u4e0b",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c38\u5b9a\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u83b2\u82b1\u53e3\u8282\u5236\u95f8\u4e0b",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5317\u4e09\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u83b2\u82b1\u53e3\u8282\u5236\u95f8\u4e0b",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u84df\u8fd0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u83b2\u82b1\u53e3\u8282\u5236\u95f8\u4e0b",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ef9\u6cb1\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u83b2\u82b1\u53e3\u8282\u5236\u95f8\u4e0b",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5927\u6e05\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u83b2\u82b1\u53e3\u8282\u5236\u95f8\u4e0b",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5b50\u7259\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u83b2\u82b1\u53e3\u8282\u5236\u95f8\u4e0b",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5f15\u6c9f\u5165\u6f6e",
+    "inferred": true
+  },
+  {
+    "subject": "\u83b2\u82b1\u53e3\u8282\u5236\u95f8\u4e0b",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1000-1100",
+    "inferred": true
+  },
+  {
+    "subject": "\u83b2\u82b1\u53e3\u8282\u5236\u95f8\u4e0b",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c9f\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u83b2\u82b1\u53e3\u8282\u5236\u95f8\u4e0b",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u9752\u9f99\u6e7e\u51cf\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u83b2\u82b1\u53e3\u8282\u5236\u95f8\u4e0b",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5357\u62d2\u9a6c\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u83b2\u82b1\u53e3\u8282\u5236\u95f8\u4e0b",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u8fd8\u4e61\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u83b2\u82b1\u53e3\u8282\u5236\u95f8\u4e0b",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6f6e\u767d\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u83b2\u82b1\u53e3\u8282\u5236\u95f8\u4e0b",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ecf\u9633\u65b0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u83b2\u82b1\u53e3\u81f3\u827e\u8f9b\u5e84\u67a2\u7ebd\u4e24\u5824",
+    "predicate": "\u7528\u4e8e via \u5206\u6d2a",
+    "object": "\u767d\u6d0b\u6dc0",
+    "inferred": true
+  },
+  {
+    "subject": "\u83b2\u82b1\u53e3\u81f3\u827e\u8f9b\u5e84\u67a2\u7ebd\u4e24\u5824",
+    "predicate": "\u7528\u4e8e via \u5206\u6d2a",
+    "object": "3300\u7acb\u65b9\u7c73\u6bcf\u79d2",
+    "inferred": true
+  },
+  {
+    "subject": "\u83b2\u82b1\u53e3\u81f3\u827e\u8f9b\u5e84\u67a2\u7ebd\u4e24\u5824",
+    "predicate": "\u7528\u4e8e via \u5206\u6d2a",
+    "object": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "inferred": true
+  },
+  {
+    "subject": "\u83b2\u82b1\u53e3\u81f3\u827e\u8f9b\u5e84\u67a2\u7ebd\u4e24\u5824",
+    "predicate": "\u7528\u4e8e via \u5206\u6d2a",
+    "object": "400\u7acb\u65b9\u7c73\u6bcf\u79d2",
+    "inferred": true
+  },
+  {
+    "subject": "\u83b2\u82b1\u53e3\u81f3\u827e\u8f9b\u5e84\u67a2\u7ebd\u4e24\u5824",
+    "predicate": "\u7528\u4e8e via \u5206\u6d2a",
+    "object": "19.70",
+    "inferred": true
+  },
+  {
+    "subject": "\u83b2\u82b1\u53e3\u81f3\u827e\u8f9b\u5e84\u67a2\u7ebd\u4e24\u5824",
+    "predicate": "\u7528\u4e8e via \u5206\u6d2a",
+    "object": "\u6d77\u6cb3\u9632\u603b\u63d0\u51fa\u610f\u89c1",
+    "inferred": true
+  },
+  {
+    "subject": "\u83b2\u82b1\u53e3\u81f3\u827e\u8f9b\u5e84\u67a2\u7ebd\u4e24\u5824",
+    "predicate": "\u7528\u4e8e via \u5206\u6d2a",
+    "object": "800\u7acb\u65b9\u7c73\u6bcf\u79d2",
+    "inferred": true
+  },
+  {
+    "subject": "\u827e\u8f9b\u5e84\u8282\u5236\u95f8",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1100",
+    "inferred": true
+  },
+  {
+    "subject": "\u827e\u8f9b\u5e84\u8282\u5236\u95f8",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u767d\u6d0b\u6dc0",
+    "inferred": true
+  },
+  {
+    "subject": "\u827e\u8f9b\u5e84\u8282\u5236\u95f8",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c38\u5b9a\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u827e\u8f9b\u5e84\u8282\u5236\u95f8",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5317\u4e09\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u827e\u8f9b\u5e84\u8282\u5236\u95f8",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u84df\u8fd0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u827e\u8f9b\u5e84\u8282\u5236\u95f8",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ef9\u6cb1\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u827e\u8f9b\u5e84\u8282\u5236\u95f8",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5927\u6e05\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u827e\u8f9b\u5e84\u8282\u5236\u95f8",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5b50\u7259\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u827e\u8f9b\u5e84\u8282\u5236\u95f8",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5f15\u6c9f\u5165\u6f6e",
+    "inferred": true
+  },
+  {
+    "subject": "\u827e\u8f9b\u5e84\u8282\u5236\u95f8",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1000-1100",
+    "inferred": true
+  },
+  {
+    "subject": "\u827e\u8f9b\u5e84\u8282\u5236\u95f8",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c9f\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u827e\u8f9b\u5e84\u8282\u5236\u95f8",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u9752\u9f99\u6e7e\u51cf\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u827e\u8f9b\u5e84\u8282\u5236\u95f8",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5357\u62d2\u9a6c\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u827e\u8f9b\u5e84\u8282\u5236\u95f8",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u8fd8\u4e61\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u827e\u8f9b\u5e84\u8282\u5236\u95f8",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6f6e\u767d\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u827e\u8f9b\u5e84\u8282\u5236\u95f8",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ecf\u9633\u65b0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u827e\u8f9b\u5e84\u67a2\u7ebd\u81f3\u732e\u53bf\u67a2\u7ebd\u4e24\u5824",
+    "predicate": "\u6d41\u7ecf via \u4eac\u4e5d\u94c1\u8def",
+    "object": "25.84",
+    "inferred": true
+  },
+  {
+    "subject": "\u827e\u8f9b\u5e84\u67a2\u7ebd\u81f3\u732e\u53bf\u67a2\u7ebd\u4e24\u5824",
+    "predicate": "\u6d41\u7ecf via \u4eac\u4e5d\u94c1\u8def",
+    "object": "\u9ec4\u6d77",
+    "inferred": true
+  },
+  {
+    "subject": "\u4eac\u4e5d\u94c1\u8def",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1100",
+    "inferred": true
+  },
+  {
+    "subject": "\u4eac\u4e5d\u94c1\u8def",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u767d\u6d0b\u6dc0",
+    "inferred": true
+  },
+  {
+    "subject": "\u4eac\u4e5d\u94c1\u8def",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c38\u5b9a\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u4eac\u4e5d\u94c1\u8def",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5317\u4e09\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u4eac\u4e5d\u94c1\u8def",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u84df\u8fd0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u4eac\u4e5d\u94c1\u8def",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ef9\u6cb1\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u4eac\u4e5d\u94c1\u8def",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5927\u6e05\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u4eac\u4e5d\u94c1\u8def",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5b50\u7259\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u4eac\u4e5d\u94c1\u8def",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5f15\u6c9f\u5165\u6f6e",
+    "inferred": true
+  },
+  {
+    "subject": "\u4eac\u4e5d\u94c1\u8def",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1000-1100",
+    "inferred": true
+  },
+  {
+    "subject": "\u4eac\u4e5d\u94c1\u8def",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c9f\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u4eac\u4e5d\u94c1\u8def",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u9752\u9f99\u6e7e\u51cf\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u4eac\u4e5d\u94c1\u8def",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5357\u62d2\u9a6c\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u4eac\u4e5d\u94c1\u8def",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u8fd8\u4e61\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u4eac\u4e5d\u94c1\u8def",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6f6e\u767d\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u4eac\u4e5d\u94c1\u8def",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ecf\u9633\u65b0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u732e\u53bf\u67a2\u7ebd\u95f8\u4e0a",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1100",
+    "inferred": true
+  },
+  {
+    "subject": "\u732e\u53bf\u67a2\u7ebd\u95f8\u4e0a",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u767d\u6d0b\u6dc0",
+    "inferred": true
+  },
+  {
+    "subject": "\u732e\u53bf\u67a2\u7ebd\u95f8\u4e0a",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c38\u5b9a\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u732e\u53bf\u67a2\u7ebd\u95f8\u4e0a",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5317\u4e09\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u732e\u53bf\u67a2\u7ebd\u95f8\u4e0a",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u84df\u8fd0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u732e\u53bf\u67a2\u7ebd\u95f8\u4e0a",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ef9\u6cb1\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u732e\u53bf\u67a2\u7ebd\u95f8\u4e0a",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5927\u6e05\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u732e\u53bf\u67a2\u7ebd\u95f8\u4e0a",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5b50\u7259\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u732e\u53bf\u67a2\u7ebd\u95f8\u4e0a",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5f15\u6c9f\u5165\u6f6e",
+    "inferred": true
+  },
+  {
+    "subject": "\u732e\u53bf\u67a2\u7ebd\u95f8\u4e0a",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1000-1100",
+    "inferred": true
+  },
+  {
+    "subject": "\u732e\u53bf\u67a2\u7ebd\u95f8\u4e0a",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c9f\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u732e\u53bf\u67a2\u7ebd\u95f8\u4e0a",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u9752\u9f99\u6e7e\u51cf\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u732e\u53bf\u67a2\u7ebd\u95f8\u4e0a",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5357\u62d2\u9a6c\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u732e\u53bf\u67a2\u7ebd\u95f8\u4e0a",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u8fd8\u4e61\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u732e\u53bf\u67a2\u7ebd\u95f8\u4e0a",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6f6e\u767d\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u732e\u53bf\u67a2\u7ebd\u95f8\u4e0a",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ecf\u9633\u65b0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u5317\u4e2d\u5c71",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1100",
+    "inferred": true
+  },
+  {
+    "subject": "\u5317\u4e2d\u5c71",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u767d\u6d0b\u6dc0",
+    "inferred": true
+  },
+  {
+    "subject": "\u5317\u4e2d\u5c71",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c38\u5b9a\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u5317\u4e2d\u5c71",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5317\u4e09\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u5317\u4e2d\u5c71",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u84df\u8fd0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u5317\u4e2d\u5c71",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ef9\u6cb1\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u5317\u4e2d\u5c71",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5927\u6e05\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u5317\u4e2d\u5c71",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5b50\u7259\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u5317\u4e2d\u5c71",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5f15\u6c9f\u5165\u6f6e",
+    "inferred": true
+  },
+  {
+    "subject": "\u5317\u4e2d\u5c71",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1000-1100",
+    "inferred": true
+  },
+  {
+    "subject": "\u5317\u4e2d\u5c71",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c9f\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u5317\u4e2d\u5c71",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u9752\u9f99\u6e7e\u51cf\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u5317\u4e2d\u5c71",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5357\u62d2\u9a6c\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u5317\u4e2d\u5c71",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u8fd8\u4e61\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u5317\u4e2d\u5c71",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6f6e\u767d\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u5317\u4e2d\u5c71",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ecf\u9633\u65b0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u59da\u5e84",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1100",
+    "inferred": true
+  },
+  {
+    "subject": "\u59da\u5e84",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u767d\u6d0b\u6dc0",
+    "inferred": true
+  },
+  {
+    "subject": "\u59da\u5e84",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c38\u5b9a\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u59da\u5e84",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5317\u4e09\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u59da\u5e84",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u84df\u8fd0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u59da\u5e84",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ef9\u6cb1\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u59da\u5e84",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5927\u6e05\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u59da\u5e84",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5b50\u7259\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u59da\u5e84",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5f15\u6c9f\u5165\u6f6e",
+    "inferred": true
+  },
+  {
+    "subject": "\u59da\u5e84",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1000-1100",
+    "inferred": true
+  },
+  {
+    "subject": "\u59da\u5e84",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c9f\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u59da\u5e84",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u9752\u9f99\u6e7e\u51cf\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u59da\u5e84",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5357\u62d2\u9a6c\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u59da\u5e84",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u8fd8\u4e61\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u59da\u5e84",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6f6e\u767d\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u59da\u5e84",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ecf\u9633\u65b0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u732e\u53bf\u81f3\u575d\u53f0\u4e24\u5824",
+    "predicate": "\u5c5e\u4e8e via \u5b50\u7259\u6cb3",
+    "object": "\u732e\u53bf\u67a2\u7ebd\u95f8\u4e0a",
+    "inferred": true
+  },
+  {
+    "subject": "\u732e\u53bf\u81f3\u575d\u53f0\u4e24\u5824",
+    "predicate": "\u5c5e\u4e8e via \u5b50\u7259\u6cb3",
+    "object": "\u6c34\u4f4d",
+    "inferred": true
+  },
+  {
+    "subject": "\u732e\u53bf\u81f3\u575d\u53f0\u4e24\u5824",
+    "predicate": "\u5c5e\u4e8e via \u5b50\u7259\u6cb3",
+    "object": "\u7a7f\u8fd0\u67a2\u7ebd",
+    "inferred": true
+  },
+  {
+    "subject": "\u732e\u53bf\u81f3\u575d\u53f0\u4e24\u5824",
+    "predicate": "\u5c5e\u4e8e via \u5b50\u7259\u6cb3",
+    "object": "\u6ecf\u9633\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u7a7f\u8fd0\u67a2\u7ebd\u4e0b\u6e38",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1100",
+    "inferred": true
+  },
+  {
+    "subject": "\u7a7f\u8fd0\u67a2\u7ebd\u4e0b\u6e38",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u767d\u6d0b\u6dc0",
+    "inferred": true
+  },
+  {
+    "subject": "\u7a7f\u8fd0\u67a2\u7ebd\u4e0b\u6e38",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c38\u5b9a\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u7a7f\u8fd0\u67a2\u7ebd\u4e0b\u6e38",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5317\u4e09\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u7a7f\u8fd0\u67a2\u7ebd\u4e0b\u6e38",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u84df\u8fd0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u7a7f\u8fd0\u67a2\u7ebd\u4e0b\u6e38",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ef9\u6cb1\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u7a7f\u8fd0\u67a2\u7ebd\u4e0b\u6e38",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5927\u6e05\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u7a7f\u8fd0\u67a2\u7ebd\u4e0b\u6e38",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5b50\u7259\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u7a7f\u8fd0\u67a2\u7ebd\u4e0b\u6e38",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5f15\u6c9f\u5165\u6f6e",
+    "inferred": true
+  },
+  {
+    "subject": "\u7a7f\u8fd0\u67a2\u7ebd\u4e0b\u6e38",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1000-1100",
+    "inferred": true
+  },
+  {
+    "subject": "\u7a7f\u8fd0\u67a2\u7ebd\u4e0b\u6e38",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c9f\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u7a7f\u8fd0\u67a2\u7ebd\u4e0b\u6e38",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u9752\u9f99\u6e7e\u51cf\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u7a7f\u8fd0\u67a2\u7ebd\u4e0b\u6e38",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5357\u62d2\u9a6c\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u7a7f\u8fd0\u67a2\u7ebd\u4e0b\u6e38",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u8fd8\u4e61\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u7a7f\u8fd0\u67a2\u7ebd\u4e0b\u6e38",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6f6e\u767d\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u7a7f\u8fd0\u67a2\u7ebd\u4e0b\u6e38",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ecf\u9633\u65b0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u7a7f\u8fd0\u67a2\u7ebd\u4e0b\u6e38",
+    "predicate": "\u6d41\u7ecf via \u6d77\u53e3\u6321\u6f6e\u95f8\u4e0a",
+    "object": "6.57",
+    "inferred": true
+  },
+  {
+    "subject": "\u6d77\u53e3\u6321\u6f6e\u95f8\u4e0a",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1100",
+    "inferred": true
+  },
+  {
+    "subject": "\u6d77\u53e3\u6321\u6f6e\u95f8\u4e0a",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u767d\u6d0b\u6dc0",
+    "inferred": true
+  },
+  {
+    "subject": "\u6d77\u53e3\u6321\u6f6e\u95f8\u4e0a",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c38\u5b9a\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u6d77\u53e3\u6321\u6f6e\u95f8\u4e0a",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5317\u4e09\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u6d77\u53e3\u6321\u6f6e\u95f8\u4e0a",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u84df\u8fd0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u6d77\u53e3\u6321\u6f6e\u95f8\u4e0a",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ef9\u6cb1\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u6d77\u53e3\u6321\u6f6e\u95f8\u4e0a",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5927\u6e05\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u6d77\u53e3\u6321\u6f6e\u95f8\u4e0a",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5b50\u7259\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u6d77\u53e3\u6321\u6f6e\u95f8\u4e0a",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5f15\u6c9f\u5165\u6f6e",
+    "inferred": true
+  },
+  {
+    "subject": "\u6d77\u53e3\u6321\u6f6e\u95f8\u4e0a",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1000-1100",
+    "inferred": true
+  },
+  {
+    "subject": "\u6d77\u53e3\u6321\u6f6e\u95f8\u4e0a",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c9f\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u6d77\u53e3\u6321\u6f6e\u95f8\u4e0a",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u9752\u9f99\u6e7e\u51cf\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u6d77\u53e3\u6321\u6f6e\u95f8\u4e0a",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5357\u62d2\u9a6c\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u6d77\u53e3\u6321\u6f6e\u95f8\u4e0a",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u8fd8\u4e61\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u6d77\u53e3\u6321\u6f6e\u95f8\u4e0a",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6f6e\u767d\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u6d77\u53e3\u6321\u6f6e\u95f8\u4e0a",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ecf\u9633\u65b0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "24.10",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1100",
+    "inferred": true
+  },
+  {
+    "subject": "24.10",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u767d\u6d0b\u6dc0",
+    "inferred": true
+  },
+  {
+    "subject": "24.10",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c38\u5b9a\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "24.10",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5317\u4e09\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "24.10",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u84df\u8fd0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "24.10",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ef9\u6cb1\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "24.10",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5927\u6e05\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "24.10",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5b50\u7259\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "24.10",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5f15\u6c9f\u5165\u6f6e",
+    "inferred": true
+  },
+  {
+    "subject": "24.10",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1000-1100",
+    "inferred": true
+  },
+  {
+    "subject": "24.10",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c9f\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "24.10",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u9752\u9f99\u6e7e\u51cf\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "24.10",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5357\u62d2\u9a6c\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "24.10",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u8fd8\u4e61\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "24.10",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6f6e\u767d\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "24.10",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ecf\u9633\u65b0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "22.01",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1100",
+    "inferred": true
+  },
+  {
+    "subject": "22.01",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u767d\u6d0b\u6dc0",
+    "inferred": true
+  },
+  {
+    "subject": "22.01",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c38\u5b9a\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "22.01",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5317\u4e09\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "22.01",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u84df\u8fd0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "22.01",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ef9\u6cb1\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "22.01",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5927\u6e05\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "22.01",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5b50\u7259\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "22.01",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5f15\u6c9f\u5165\u6f6e",
+    "inferred": true
+  },
+  {
+    "subject": "22.01",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1000-1100",
+    "inferred": true
+  },
+  {
+    "subject": "22.01",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c9f\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "22.01",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u9752\u9f99\u6e7e\u51cf\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "22.01",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5357\u62d2\u9a6c\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "22.01",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u8fd8\u4e61\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "22.01",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6f6e\u767d\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "22.01",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ecf\u9633\u65b0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "20.97",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1100",
+    "inferred": true
+  },
+  {
+    "subject": "20.97",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u767d\u6d0b\u6dc0",
+    "inferred": true
+  },
+  {
+    "subject": "20.97",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c38\u5b9a\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "20.97",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5317\u4e09\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "20.97",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u84df\u8fd0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "20.97",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ef9\u6cb1\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "20.97",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5927\u6e05\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "20.97",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5b50\u7259\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "20.97",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5f15\u6c9f\u5165\u6f6e",
+    "inferred": true
+  },
+  {
+    "subject": "20.97",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1000-1100",
+    "inferred": true
+  },
+  {
+    "subject": "20.97",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c9f\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "20.97",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u9752\u9f99\u6e7e\u51cf\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "20.97",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5357\u62d2\u9a6c\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "20.97",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u8fd8\u4e61\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "20.97",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6f6e\u767d\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "20.97",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ecf\u9633\u65b0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "21.00",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1100",
+    "inferred": true
+  },
+  {
+    "subject": "21.00",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u767d\u6d0b\u6dc0",
+    "inferred": true
+  },
+  {
+    "subject": "21.00",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c38\u5b9a\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "21.00",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5317\u4e09\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "21.00",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u84df\u8fd0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "21.00",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ef9\u6cb1\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "21.00",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5927\u6e05\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "21.00",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5b50\u7259\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "21.00",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5f15\u6c9f\u5165\u6f6e",
+    "inferred": true
+  },
+  {
+    "subject": "21.00",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1000-1100",
+    "inferred": true
+  },
+  {
+    "subject": "21.00",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c9f\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "21.00",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u9752\u9f99\u6e7e\u51cf\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "21.00",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5357\u62d2\u9a6c\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "21.00",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u8fd8\u4e61\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "21.00",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6f6e\u767d\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "21.00",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ecf\u9633\u65b0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "17.60",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1100",
+    "inferred": true
+  },
+  {
+    "subject": "17.60",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u767d\u6d0b\u6dc0",
+    "inferred": true
+  },
+  {
+    "subject": "17.60",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c38\u5b9a\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "17.60",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5317\u4e09\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "17.60",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u84df\u8fd0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "17.60",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ef9\u6cb1\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "17.60",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5927\u6e05\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "17.60",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5b50\u7259\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "17.60",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5f15\u6c9f\u5165\u6f6e",
+    "inferred": true
+  },
+  {
+    "subject": "17.60",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1000-1100",
+    "inferred": true
+  },
+  {
+    "subject": "17.60",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c9f\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "17.60",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u9752\u9f99\u6e7e\u51cf\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "17.60",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5357\u62d2\u9a6c\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "17.60",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u8fd8\u4e61\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "17.60",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6f6e\u767d\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "17.60",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ecf\u9633\u65b0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "14.57",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1100",
+    "inferred": true
+  },
+  {
+    "subject": "14.57",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u767d\u6d0b\u6dc0",
+    "inferred": true
+  },
+  {
+    "subject": "14.57",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c38\u5b9a\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "14.57",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5317\u4e09\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "14.57",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u84df\u8fd0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "14.57",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ef9\u6cb1\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "14.57",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5927\u6e05\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "14.57",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5b50\u7259\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "14.57",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5f15\u6c9f\u5165\u6f6e",
+    "inferred": true
+  },
+  {
+    "subject": "14.57",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1000-1100",
+    "inferred": true
+  },
+  {
+    "subject": "14.57",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c9f\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "14.57",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u9752\u9f99\u6e7e\u51cf\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "14.57",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5357\u62d2\u9a6c\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "14.57",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u8fd8\u4e61\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "14.57",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6f6e\u767d\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "14.57",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ecf\u9633\u65b0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "14.60",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1100",
+    "inferred": true
+  },
+  {
+    "subject": "14.60",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u767d\u6d0b\u6dc0",
+    "inferred": true
+  },
+  {
+    "subject": "14.60",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c38\u5b9a\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "14.60",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5317\u4e09\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "14.60",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u84df\u8fd0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "14.60",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ef9\u6cb1\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "14.60",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5927\u6e05\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "14.60",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5b50\u7259\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "14.60",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5f15\u6c9f\u5165\u6f6e",
+    "inferred": true
+  },
+  {
+    "subject": "14.60",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1000-1100",
+    "inferred": true
+  },
+  {
+    "subject": "14.60",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c9f\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "14.60",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u9752\u9f99\u6e7e\u51cf\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "14.60",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5357\u62d2\u9a6c\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "14.60",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u8fd8\u4e61\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "14.60",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6f6e\u767d\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "14.60",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ecf\u9633\u65b0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "300",
+    "predicate": "\u4f4d\u4e8e via \u732e\u53bf\u81f3\u575d\u53f0\u4e24\u5824",
+    "object": "\u5b50\u7259\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "18.44",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1100",
+    "inferred": true
+  },
+  {
+    "subject": "18.44",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u767d\u6d0b\u6dc0",
+    "inferred": true
+  },
+  {
+    "subject": "18.44",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c38\u5b9a\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "18.44",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5317\u4e09\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "18.44",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u84df\u8fd0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "18.44",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ef9\u6cb1\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "18.44",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5927\u6e05\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "18.44",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5b50\u7259\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "18.44",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5f15\u6c9f\u5165\u6f6e",
+    "inferred": true
+  },
+  {
+    "subject": "18.44",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1000-1100",
+    "inferred": true
+  },
+  {
+    "subject": "18.44",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c9f\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "18.44",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u9752\u9f99\u6e7e\u51cf\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "18.44",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5357\u62d2\u9a6c\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "18.44",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u8fd8\u4e61\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "18.44",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6f6e\u767d\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "18.44",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ecf\u9633\u65b0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "17.95",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1100",
+    "inferred": true
+  },
+  {
+    "subject": "17.95",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u767d\u6d0b\u6dc0",
+    "inferred": true
+  },
+  {
+    "subject": "17.95",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c38\u5b9a\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "17.95",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5317\u4e09\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "17.95",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u84df\u8fd0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "17.95",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ef9\u6cb1\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "17.95",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5927\u6e05\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "17.95",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5b50\u7259\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "17.95",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5f15\u6c9f\u5165\u6f6e",
+    "inferred": true
+  },
+  {
+    "subject": "17.95",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1000-1100",
+    "inferred": true
+  },
+  {
+    "subject": "17.95",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c9f\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "17.95",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u9752\u9f99\u6e7e\u51cf\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "17.95",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5357\u62d2\u9a6c\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "17.95",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u8fd8\u4e61\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "17.95",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6f6e\u767d\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "17.95",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ecf\u9633\u65b0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "5000",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u9ec4\u6d77",
+    "inferred": true
+  },
+  {
+    "subject": "5000",
+    "predicate": "\u4f4d\u4e8e via \u732e\u53bf\u67a2\u7ebd\u95f8\u4e0a",
+    "object": "18.50",
+    "inferred": true
+  },
+  {
+    "subject": "5000",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "18.44",
+    "inferred": true
+  },
+  {
+    "subject": "5000",
+    "predicate": "\u4f4d\u4e8e via \u732e\u53bf\u67a2\u7ebd\u95f8\u4e0a",
+    "object": "\u4e0a\u6e38\u6765\u91cf\u4e0d\u5c0f\u4e8e900\u7acb\u65b9\u7c73\u6bcf\u79d2",
+    "inferred": true
+  },
+  {
+    "subject": "5000",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "17.60",
+    "inferred": true
+  },
+  {
+    "subject": "5000",
+    "predicate": "\u4f4d\u4e8e via \u5927\u6e05\u6cb3",
+    "object": "38.54\u4ebf\u7acb\u65b9\u7c73",
+    "inferred": true
+  },
+  {
+    "subject": "5000",
+    "predicate": "\u4f4d\u4e8e via \u5927\u6e05\u6cb3",
+    "object": "16.89\u4ebf\u7acb\u65b9\u7c73",
+    "inferred": true
+  },
+  {
+    "subject": "5000",
+    "predicate": "\u4f4d\u4e8e via \u5927\u6e05\u6cb3",
+    "object": "3.21\u4ebf\u7acb\u65b9\u7c73",
+    "inferred": true
+  },
+  {
+    "subject": "5000",
+    "predicate": "\u4f4d\u4e8e via \u5927\u6e05\u6cb3",
+    "object": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "inferred": true
+  },
+  {
+    "subject": "5000",
+    "predicate": "\u4f4d\u4e8e via \u5927\u6e05\u6cb3",
+    "object": "\u7701\u9632\u6307",
+    "inferred": true
+  },
+  {
+    "subject": "5000",
+    "predicate": "\u4f4d\u4e8e via \u5927\u6e05\u6cb3",
+    "object": "42.96\u4ebf\u7acb\u65b9\u7c73",
+    "inferred": true
+  },
+  {
+    "subject": "5000",
+    "predicate": "\u4f4d\u4e8e via \u5927\u6e05\u6cb3",
+    "object": "10.34\u4ebf\u7acb\u65b9\u7c73",
+    "inferred": true
+  },
+  {
+    "subject": "5000",
+    "predicate": "\u4f4d\u4e8e via \u5927\u6e05\u6cb3",
+    "object": "\u7701\u6c34\u5229\u5385\u540c\u610f",
+    "inferred": true
+  },
+  {
+    "subject": "5000",
+    "predicate": "\u4f4d\u4e8e via \u5927\u6e05\u6cb3",
+    "object": "5.67\u4ebf\u7acb\u65b9\u7c73",
+    "inferred": true
+  },
+  {
+    "subject": "5000",
+    "predicate": "\u4f4d\u4e8e via \u5927\u6e05\u6cb3",
+    "object": "\u6d77\u53e3\u6321\u6f6e\u95f8\u4e0a",
+    "inferred": true
+  },
+  {
+    "subject": "5000",
+    "predicate": "\u4f4d\u4e8e via \u5927\u6e05\u6cb3",
+    "object": "25.78\u4ebf\u7acb\u65b9\u7c73",
+    "inferred": true
+  },
+  {
+    "subject": "5000",
+    "predicate": "\u4f4d\u4e8e via \u5927\u6e05\u6cb3",
+    "object": "\u6ecf\u9633\u65b0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "5000",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "11.84",
+    "inferred": true
+  },
+  {
+    "subject": "5000",
+    "predicate": "\u4f4d\u4e8e via \u7a7f\u8fd0\u67a2\u7ebd\u4e0b\u6e38",
+    "object": "\u6d77\u53e3\u6321\u6f6e\u95f8\u4e0a",
+    "inferred": true
+  },
+  {
+    "subject": "11.84",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1100",
+    "inferred": true
+  },
+  {
+    "subject": "11.84",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u767d\u6d0b\u6dc0",
+    "inferred": true
+  },
+  {
+    "subject": "11.84",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c38\u5b9a\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "11.84",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5317\u4e09\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "11.84",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u84df\u8fd0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "11.84",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ef9\u6cb1\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "11.84",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5927\u6e05\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "11.84",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5b50\u7259\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "11.84",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5f15\u6c9f\u5165\u6f6e",
+    "inferred": true
+  },
+  {
+    "subject": "11.84",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1000-1100",
+    "inferred": true
+  },
+  {
+    "subject": "11.84",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c9f\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "11.84",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u9752\u9f99\u6e7e\u51cf\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "11.84",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5357\u62d2\u9a6c\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "11.84",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u8fd8\u4e61\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "11.84",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6f6e\u767d\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "11.84",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ecf\u9633\u65b0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "12.11",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1100",
+    "inferred": true
+  },
+  {
+    "subject": "12.11",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u767d\u6d0b\u6dc0",
+    "inferred": true
+  },
+  {
+    "subject": "12.11",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c38\u5b9a\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "12.11",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5317\u4e09\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "12.11",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u84df\u8fd0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "12.11",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ef9\u6cb1\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "12.11",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5927\u6e05\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "12.11",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5b50\u7259\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "12.11",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5f15\u6c9f\u5165\u6f6e",
+    "inferred": true
+  },
+  {
+    "subject": "12.11",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1000-1100",
+    "inferred": true
+  },
+  {
+    "subject": "12.11",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c9f\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "12.11",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u9752\u9f99\u6e7e\u51cf\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "12.11",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5357\u62d2\u9a6c\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "12.11",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u8fd8\u4e61\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "12.11",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6f6e\u767d\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "12.11",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ecf\u9633\u65b0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "10.67",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1100",
+    "inferred": true
+  },
+  {
+    "subject": "10.67",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u767d\u6d0b\u6dc0",
+    "inferred": true
+  },
+  {
+    "subject": "10.67",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c38\u5b9a\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "10.67",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5317\u4e09\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "10.67",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u84df\u8fd0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "10.67",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ef9\u6cb1\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "10.67",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5927\u6e05\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "10.67",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5b50\u7259\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "10.67",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5f15\u6c9f\u5165\u6f6e",
+    "inferred": true
+  },
+  {
+    "subject": "10.67",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1000-1100",
+    "inferred": true
+  },
+  {
+    "subject": "10.67",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c9f\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "10.67",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u9752\u9f99\u6e7e\u51cf\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "10.67",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5357\u62d2\u9a6c\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "10.67",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u8fd8\u4e61\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "10.67",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6f6e\u767d\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "10.67",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ecf\u9633\u65b0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "10.70",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "20.12",
+    "inferred": true
+  },
+  {
+    "subject": "10.70",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.00",
+    "inferred": true
+  },
+  {
+    "subject": "10.70",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "11.93",
+    "inferred": true
+  },
+  {
+    "subject": "10.70",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.23",
+    "inferred": true
+  },
+  {
+    "subject": "10.70",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.30",
+    "inferred": true
+  },
+  {
+    "subject": "10.70",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "\u9ad8\u7a0b\u57fa\u51c6",
+    "inferred": true
+  },
+  {
+    "subject": "10.70",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1100",
+    "inferred": true
+  },
+  {
+    "subject": "10.70",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u767d\u6d0b\u6dc0",
+    "inferred": true
+  },
+  {
+    "subject": "10.70",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c38\u5b9a\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "10.70",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5317\u4e09\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "10.70",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u84df\u8fd0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "10.70",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ef9\u6cb1\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "10.70",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5927\u6e05\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "10.70",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5b50\u7259\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "10.70",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5f15\u6c9f\u5165\u6f6e",
+    "inferred": true
+  },
+  {
+    "subject": "10.70",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1000-1100",
+    "inferred": true
+  },
+  {
+    "subject": "10.70",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c9f\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "10.70",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u9752\u9f99\u6e7e\u51cf\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "10.70",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5357\u62d2\u9a6c\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "10.70",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u8fd8\u4e61\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "10.70",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6f6e\u767d\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "10.70",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ecf\u9633\u65b0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "6.57",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1100",
+    "inferred": true
+  },
+  {
+    "subject": "6.57",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u767d\u6d0b\u6dc0",
+    "inferred": true
+  },
+  {
+    "subject": "6.57",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c38\u5b9a\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "6.57",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5317\u4e09\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "6.57",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u84df\u8fd0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "6.57",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ef9\u6cb1\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "6.57",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5927\u6e05\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "6.57",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5b50\u7259\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "6.57",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5f15\u6c9f\u5165\u6f6e",
+    "inferred": true
+  },
+  {
+    "subject": "6.57",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1000-1100",
+    "inferred": true
+  },
+  {
+    "subject": "6.57",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c9f\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "6.57",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u9752\u9f99\u6e7e\u51cf\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "6.57",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5357\u62d2\u9a6c\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "6.57",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u8fd8\u4e61\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "6.57",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6f6e\u767d\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "6.57",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ecf\u9633\u65b0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "6.71",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1100",
+    "inferred": true
+  },
+  {
+    "subject": "6.71",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u767d\u6d0b\u6dc0",
+    "inferred": true
+  },
+  {
+    "subject": "6.71",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c38\u5b9a\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "6.71",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5317\u4e09\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "6.71",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u84df\u8fd0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "6.71",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ef9\u6cb1\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "6.71",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5927\u6e05\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "6.71",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5b50\u7259\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "6.71",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5f15\u6c9f\u5165\u6f6e",
+    "inferred": true
+  },
+  {
+    "subject": "6.71",
+    "predicate": "\u4f4d\u4e8e via \u9ec4\u6d77",
+    "object": "1000-1100",
+    "inferred": true
+  },
+  {
+    "subject": "6.71",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6c9f\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "6.71",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u9752\u9f99\u6e7e\u51cf\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "6.71",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5357\u62d2\u9a6c\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "6.71",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u8fd8\u4e61\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "6.71",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6f6e\u767d\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "6.71",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ecf\u9633\u65b0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u6f74\u9f99\u6cb3",
+    "predicate": "\u6d41\u7ecf via \u5317\u90ed\u6751",
+    "object": "31.24",
+    "inferred": true
+  },
+  {
+    "subject": "\u5317\u90ed\u6751",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "inferred": true
+  },
+  {
+    "subject": "31.24",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "20.12",
+    "inferred": true
+  },
+  {
+    "subject": "31.24",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.00",
+    "inferred": true
+  },
+  {
+    "subject": "31.24",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "11.93",
+    "inferred": true
+  },
+  {
+    "subject": "31.24",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.23",
+    "inferred": true
+  },
+  {
+    "subject": "31.24",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.30",
+    "inferred": true
+  },
+  {
+    "subject": "31.24",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "\u9ad8\u7a0b\u57fa\u51c6",
+    "inferred": true
+  },
+  {
+    "subject": "30.23",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "20.12",
+    "inferred": true
+  },
+  {
+    "subject": "30.23",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.00",
+    "inferred": true
+  },
+  {
+    "subject": "30.23",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "11.93",
+    "inferred": true
+  },
+  {
+    "subject": "30.23",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.23",
+    "inferred": true
+  },
+  {
+    "subject": "30.23",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.30",
+    "inferred": true
+  },
+  {
+    "subject": "30.23",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "\u9ad8\u7a0b\u57fa\u51c6",
+    "inferred": true
+  },
+  {
+    "subject": "28.20",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "20.12",
+    "inferred": true
+  },
+  {
+    "subject": "28.20",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.00",
+    "inferred": true
+  },
+  {
+    "subject": "28.20",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "11.93",
+    "inferred": true
+  },
+  {
+    "subject": "28.20",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.23",
+    "inferred": true
+  },
+  {
+    "subject": "28.20",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.30",
+    "inferred": true
+  },
+  {
+    "subject": "28.20",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "\u9ad8\u7a0b\u57fa\u51c6",
+    "inferred": true
+  },
+  {
+    "subject": "29.70",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "20.12",
+    "inferred": true
+  },
+  {
+    "subject": "29.70",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.00",
+    "inferred": true
+  },
+  {
+    "subject": "29.70",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "11.93",
+    "inferred": true
+  },
+  {
+    "subject": "29.70",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.23",
+    "inferred": true
+  },
+  {
+    "subject": "29.70",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.30",
+    "inferred": true
+  },
+  {
+    "subject": "29.70",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "\u9ad8\u7a0b\u57fa\u51c6",
+    "inferred": true
+  },
+  {
+    "subject": "\u9648\u6751",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "inferred": true
+  },
+  {
+    "subject": "\u9648\u6751",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5927\u6cbd",
+    "inferred": true
+  },
+  {
+    "subject": "21.20",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "20.12",
+    "inferred": true
+  },
+  {
+    "subject": "21.20",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.00",
+    "inferred": true
+  },
+  {
+    "subject": "21.20",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "11.93",
+    "inferred": true
+  },
+  {
+    "subject": "21.20",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.23",
+    "inferred": true
+  },
+  {
+    "subject": "21.20",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.30",
+    "inferred": true
+  },
+  {
+    "subject": "21.20",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "\u9ad8\u7a0b\u57fa\u51c6",
+    "inferred": true
+  },
+  {
+    "subject": "21.20",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ee6\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "21.20",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u8d75\u738b\u65b0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "21.20",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u767d\u6c9f\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "21.20",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "3000",
+    "inferred": true
+  },
+  {
+    "subject": "20.20",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "20.12",
+    "inferred": true
+  },
+  {
+    "subject": "20.20",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.00",
+    "inferred": true
+  },
+  {
+    "subject": "20.20",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "11.93",
+    "inferred": true
+  },
+  {
+    "subject": "20.20",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.23",
+    "inferred": true
+  },
+  {
+    "subject": "20.20",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.30",
+    "inferred": true
+  },
+  {
+    "subject": "20.20",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "\u9ad8\u7a0b\u57fa\u51c6",
+    "inferred": true
+  },
+  {
+    "subject": "19.70",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "20.12",
+    "inferred": true
+  },
+  {
+    "subject": "19.70",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.00",
+    "inferred": true
+  },
+  {
+    "subject": "19.70",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "11.93",
+    "inferred": true
+  },
+  {
+    "subject": "19.70",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.23",
+    "inferred": true
+  },
+  {
+    "subject": "19.70",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.30",
+    "inferred": true
+  },
+  {
+    "subject": "19.70",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "\u9ad8\u7a0b\u57fa\u51c6",
+    "inferred": true
+  },
+  {
+    "subject": "\u8463\u5e84\u5206\u6d2a",
+    "predicate": "indirectly \u53d1\u751f\u4e8e",
+    "object": "\u767d\u6d0b\u6dc0",
+    "inferred": true
+  },
+  {
+    "subject": "\u8463\u5e84\u5206\u6d2a",
+    "predicate": "\u53d1\u751f\u4e8e via \u5206\u6d2a",
+    "object": "3300\u7acb\u65b9\u7c73\u6bcf\u79d2",
+    "inferred": true
+  },
+  {
+    "subject": "\u8463\u5e84\u5206\u6d2a",
+    "predicate": "\u53d1\u751f\u4e8e via \u5206\u6d2a",
+    "object": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "inferred": true
+  },
+  {
+    "subject": "\u8463\u5e84\u5206\u6d2a",
+    "predicate": "\u53d1\u751f\u4e8e via \u5206\u6d2a",
+    "object": "400\u7acb\u65b9\u7c73\u6bcf\u79d2",
+    "inferred": true
+  },
+  {
+    "subject": "\u8463\u5e84\u5206\u6d2a",
+    "predicate": "\u53d1\u751f\u4e8e via \u5206\u6d2a",
+    "object": "19.70",
+    "inferred": true
+  },
+  {
+    "subject": "\u8463\u5e84\u5206\u6d2a",
+    "predicate": "\u53d1\u751f\u4e8e via \u5206\u6d2a",
+    "object": "\u6d77\u6cb3\u9632\u603b\u63d0\u51fa\u610f\u89c1",
+    "inferred": true
+  },
+  {
+    "subject": "\u8463\u5e84\u5206\u6d2a",
+    "predicate": "\u53d1\u751f\u4e8e via \u5206\u6d2a",
+    "object": "800\u7acb\u65b9\u7c73\u6bcf\u79d2",
+    "inferred": true
+  },
+  {
+    "subject": "12.50",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ee6\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "12.50",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u8d75\u738b\u65b0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "12.50",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u767d\u6c9f\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "12.50",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "3000",
+    "inferred": true
+  },
+  {
+    "subject": "9.00",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ee6\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "9.00",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u8d75\u738b\u65b0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "9.00",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u767d\u6c9f\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "9.00",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "3000",
+    "inferred": true
+  },
+  {
+    "subject": "10.50",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ee6\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "10.50",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u8d75\u738b\u65b0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "10.50",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u767d\u6c9f\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "10.50",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "3000",
+    "inferred": true
+  },
+  {
+    "subject": "\u5343\u91cc\u5824\u3001\u65b0\u5b89\u5317\u5824\u3001\u56db\u95e8\u5824\u3001\u6dc0\u5357\u65b0\u5824\u3001\u969c\u6c34\u57dd",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5341\u65b9\u9662",
+    "inferred": true
+  },
+  {
+    "subject": "\u5343\u91cc\u5824\u3001\u65b0\u5b89\u5317\u5824\u3001\u56db\u95e8\u5824\u3001\u6dc0\u5357\u65b0\u5824\u3001\u969c\u6c34\u57dd",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "34.63\u4ebf\u7acb\u65b9\u7c73",
+    "inferred": true
+  },
+  {
+    "subject": "\u5343\u91cc\u5824\u3001\u65b0\u5b89\u5317\u5824\u3001\u56db\u95e8\u5824\u3001\u6dc0\u5357\u65b0\u5824\u3001\u969c\u6c34\u57dd",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "1475\u5e73\u65b9\u516c\u91cc",
+    "inferred": true
+  },
+  {
+    "subject": "\u5343\u91cc\u5824\u3001\u65b0\u5b89\u5317\u5824\u3001\u56db\u95e8\u5824\u3001\u6dc0\u5357\u65b0\u5824\u3001\u969c\u6c34\u57dd",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "265\u5e73\u65b9\u516c\u91cc",
+    "inferred": true
+  },
+  {
+    "subject": "\u5343\u91cc\u5824\u3001\u65b0\u5b89\u5317\u5824\u3001\u56db\u95e8\u5824\u3001\u6dc0\u5357\u65b0\u5824\u3001\u969c\u6c34\u57dd",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "\u4e1c\u6dc0\u5317\u5927\u5824",
+    "inferred": true
+  },
+  {
+    "subject": "\u5343\u91cc\u5824\u3001\u65b0\u5b89\u5317\u5824\u3001\u56db\u95e8\u5824\u3001\u6dc0\u5357\u65b0\u5824\u3001\u969c\u6c34\u57dd",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u7b2c\u516d\u57e0",
+    "inferred": true
+  },
+  {
+    "subject": "\u5343\u91cc\u5824\u3001\u65b0\u5b89\u5317\u5824\u3001\u56db\u95e8\u5824\u3001\u6dc0\u5357\u65b0\u5824\u3001\u969c\u6c34\u57dd",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "\u5eca\u574a\u3001\u6ca7\u5dde\u5e02\u3001\u96c4\u5b89\u65b0\u533a\u9632\u6307\u8d1f\u8d23\u5b9e\u65bd",
+    "inferred": true
+  },
+  {
+    "subject": "\u5343\u91cc\u5824\u3001\u65b0\u5b89\u5317\u5824\u3001\u56db\u95e8\u5824\u3001\u6dc0\u5357\u65b0\u5824\u3001\u969c\u6c34\u57dd",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "\u6d77\u6cb3\u9632\u603b\u63d0\u51fa\u610f\u89c1",
+    "inferred": true
+  },
+  {
+    "subject": "\u5343\u91cc\u5824\u3001\u65b0\u5b89\u5317\u5824\u3001\u56db\u95e8\u5824\u3001\u6dc0\u5357\u65b0\u5824\u3001\u969c\u6c34\u57dd",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "\u7701\u653f\u5e9c\u51b3\u5b9a",
+    "inferred": true
+  },
+  {
+    "subject": "\u5343\u91cc\u5824\u3001\u65b0\u5b89\u5317\u5824\u3001\u56db\u95e8\u5824\u3001\u6dc0\u5357\u65b0\u5824\u3001\u969c\u6c34\u57dd",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "\u5343\u91cc\u5824",
+    "inferred": true
+  },
+  {
+    "subject": "\u5343\u91cc\u5824\u3001\u65b0\u5b89\u5317\u5824\u3001\u56db\u95e8\u5824\u3001\u6dc0\u5357\u65b0\u5824\u3001\u969c\u6c34\u57dd",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "\u7701\u9632\u6307\u4e0b\u8fbe\u6307\u4ee4",
+    "inferred": true
+  },
+  {
+    "subject": "\u5343\u91cc\u5824\u3001\u65b0\u5b89\u5317\u5824\u3001\u56db\u95e8\u5824\u3001\u6dc0\u5357\u65b0\u5824\u3001\u969c\u6c34\u57dd",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "12.80",
+    "inferred": true
+  },
+  {
+    "subject": "\u5343\u91cc\u5824\u3001\u65b0\u5b89\u5317\u5824\u3001\u56db\u95e8\u5824\u3001\u6dc0\u5357\u65b0\u5824\u3001\u969c\u6c34\u57dd",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "1556\u5e73\u65b9\u516c\u91cc",
+    "inferred": true
+  },
+  {
+    "subject": "\u5343\u91cc\u5824\u3001\u65b0\u5b89\u5317\u5824\u3001\u56db\u95e8\u5824\u3001\u6dc0\u5357\u65b0\u5824\u3001\u969c\u6c34\u57dd",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "50\u5e74\u4e00\u9047",
+    "inferred": true
+  },
+  {
+    "subject": "\u5343\u91cc\u5824\u3001\u65b0\u5b89\u5317\u5824\u3001\u56db\u95e8\u5824\u3001\u6dc0\u5357\u65b0\u5824\u3001\u969c\u6c34\u57dd",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "6.44\u7c73",
+    "inferred": true
+  },
+  {
+    "subject": "\u5343\u91cc\u5824\u3001\u65b0\u5b89\u5317\u5824\u3001\u56db\u95e8\u5824\u3001\u6dc0\u5357\u65b0\u5824\u3001\u969c\u6c34\u57dd",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "\u7701\u6c34\u5229\u5385\u51b3\u5b9a",
+    "inferred": true
+  },
+  {
+    "subject": "\u5343\u91cc\u5824\u3001\u65b0\u5b89\u5317\u5824\u3001\u56db\u95e8\u5824\u3001\u6dc0\u5357\u65b0\u5824\u3001\u969c\u6c34\u57dd",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "\u6c34\u4f4d",
+    "inferred": true
+  },
+  {
+    "subject": "\u5343\u91cc\u5824\u3001\u65b0\u5b89\u5317\u5824\u3001\u56db\u95e8\u5824\u3001\u6dc0\u5357\u65b0\u5824\u3001\u969c\u6c34\u57dd",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "379\u5e73\u65b9\u516c\u91cc",
+    "inferred": true
+  },
+  {
+    "subject": "\u5343\u91cc\u5824\u3001\u65b0\u5b89\u5317\u5824\u3001\u56db\u95e8\u5824\u3001\u6dc0\u5357\u65b0\u5824\u3001\u969c\u6c34\u57dd",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "inferred": true
+  },
+  {
+    "subject": "\u5343\u91cc\u5824\u3001\u65b0\u5b89\u5317\u5824\u3001\u56db\u95e8\u5824\u3001\u6dc0\u5357\u65b0\u5824\u3001\u969c\u6c34\u57dd",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "\u4e0d\u8db35\u5e74\u4e00\u9047",
+    "inferred": true
+  },
+  {
+    "subject": "\u5343\u91cc\u5824\u3001\u65b0\u5b89\u5317\u5824\u3001\u56db\u95e8\u5824\u3001\u6dc0\u5357\u65b0\u5824\u3001\u969c\u6c34\u57dd",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "\u96c4\u5b89\u65b0\u533a\u7ec4\u7ec7\u5b9e\u65bd",
+    "inferred": true
+  },
+  {
+    "subject": "10.97",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "20.12",
+    "inferred": true
+  },
+  {
+    "subject": "10.97",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.00",
+    "inferred": true
+  },
+  {
+    "subject": "10.97",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "11.93",
+    "inferred": true
+  },
+  {
+    "subject": "10.97",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.23",
+    "inferred": true
+  },
+  {
+    "subject": "10.97",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.30",
+    "inferred": true
+  },
+  {
+    "subject": "10.97",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "\u9ad8\u7a0b\u57fa\u51c6",
+    "inferred": true
+  },
+  {
+    "subject": "8.88",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "20.12",
+    "inferred": true
+  },
+  {
+    "subject": "8.88",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.00",
+    "inferred": true
+  },
+  {
+    "subject": "8.88",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "11.93",
+    "inferred": true
+  },
+  {
+    "subject": "8.88",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.23",
+    "inferred": true
+  },
+  {
+    "subject": "8.88",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.30",
+    "inferred": true
+  },
+  {
+    "subject": "8.88",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "\u9ad8\u7a0b\u57fa\u51c6",
+    "inferred": true
+  },
+  {
+    "subject": "2000",
+    "predicate": "\u4f4d\u4e8e via \u5927\u6e05\u6cb3",
+    "object": "38.54\u4ebf\u7acb\u65b9\u7c73",
+    "inferred": true
+  },
+  {
+    "subject": "2000",
+    "predicate": "\u4f4d\u4e8e via \u5927\u6e05\u6cb3",
+    "object": "16.89\u4ebf\u7acb\u65b9\u7c73",
+    "inferred": true
+  },
+  {
+    "subject": "2000",
+    "predicate": "\u4f4d\u4e8e via \u5927\u6e05\u6cb3",
+    "object": "3.21\u4ebf\u7acb\u65b9\u7c73",
+    "inferred": true
+  },
+  {
+    "subject": "2000",
+    "predicate": "\u4f4d\u4e8e via \u5927\u6e05\u6cb3",
+    "object": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "inferred": true
+  },
+  {
+    "subject": "2000",
+    "predicate": "\u4f4d\u4e8e via \u5927\u6e05\u6cb3",
+    "object": "\u7701\u9632\u6307",
+    "inferred": true
+  },
+  {
+    "subject": "2000",
+    "predicate": "\u4f4d\u4e8e via \u5927\u6e05\u6cb3",
+    "object": "42.96\u4ebf\u7acb\u65b9\u7c73",
+    "inferred": true
+  },
+  {
+    "subject": "2000",
+    "predicate": "\u4f4d\u4e8e via \u5927\u6e05\u6cb3",
+    "object": "10.34\u4ebf\u7acb\u65b9\u7c73",
+    "inferred": true
+  },
+  {
+    "subject": "2000",
+    "predicate": "\u4f4d\u4e8e via \u5927\u6e05\u6cb3",
+    "object": "\u7701\u6c34\u5229\u5385\u540c\u610f",
+    "inferred": true
+  },
+  {
+    "subject": "2000",
+    "predicate": "\u4f4d\u4e8e via \u5927\u6e05\u6cb3",
+    "object": "5.67\u4ebf\u7acb\u65b9\u7c73",
+    "inferred": true
+  },
+  {
+    "subject": "2000",
+    "predicate": "\u4f4d\u4e8e via \u5927\u6e05\u6cb3",
+    "object": "\u6d77\u53e3\u6321\u6f6e\u95f8\u4e0a",
+    "inferred": true
+  },
+  {
+    "subject": "2000",
+    "predicate": "\u4f4d\u4e8e via \u5927\u6e05\u6cb3",
+    "object": "25.78\u4ebf\u7acb\u65b9\u7c73",
+    "inferred": true
+  },
+  {
+    "subject": "2000",
+    "predicate": "\u4f4d\u4e8e via \u5927\u6e05\u6cb3",
+    "object": "\u6ecf\u9633\u65b0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "10.05",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "20.12",
+    "inferred": true
+  },
+  {
+    "subject": "10.05",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.00",
+    "inferred": true
+  },
+  {
+    "subject": "10.05",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "11.93",
+    "inferred": true
+  },
+  {
+    "subject": "10.05",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.23",
+    "inferred": true
+  },
+  {
+    "subject": "10.05",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.30",
+    "inferred": true
+  },
+  {
+    "subject": "10.05",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "\u9ad8\u7a0b\u57fa\u51c6",
+    "inferred": true
+  },
+  {
+    "subject": "6.44",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ee6\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "6.44",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u8d75\u738b\u65b0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "6.44",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u767d\u6c9f\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "6.44",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "3000",
+    "inferred": true
+  },
+  {
+    "subject": "8.00",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u6ee6\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "8.00",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u8d75\u738b\u65b0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "8.00",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u767d\u6c9f\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "8.00",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "3000",
+    "inferred": true
+  },
+  {
+    "subject": "\u4fdd\u4e1c\u6dc0\u56f4\u5824",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u5341\u65b9\u9662",
+    "inferred": true
+  },
+  {
+    "subject": "\u4fdd\u4e1c\u6dc0\u56f4\u5824",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "34.63\u4ebf\u7acb\u65b9\u7c73",
+    "inferred": true
+  },
+  {
+    "subject": "\u4fdd\u4e1c\u6dc0\u56f4\u5824",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "1475\u5e73\u65b9\u516c\u91cc",
+    "inferred": true
+  },
+  {
+    "subject": "\u4fdd\u4e1c\u6dc0\u56f4\u5824",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "265\u5e73\u65b9\u516c\u91cc",
+    "inferred": true
+  },
+  {
+    "subject": "\u4fdd\u4e1c\u6dc0\u56f4\u5824",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "\u4e1c\u6dc0\u5317\u5927\u5824",
+    "inferred": true
+  },
+  {
+    "subject": "\u4fdd\u4e1c\u6dc0\u56f4\u5824",
+    "predicate": "indirectly \u4f4d\u4e8e",
+    "object": "\u7b2c\u516d\u57e0",
+    "inferred": true
+  },
+  {
+    "subject": "\u4fdd\u4e1c\u6dc0\u56f4\u5824",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "\u5eca\u574a\u3001\u6ca7\u5dde\u5e02\u3001\u96c4\u5b89\u65b0\u533a\u9632\u6307\u8d1f\u8d23\u5b9e\u65bd",
+    "inferred": true
+  },
+  {
+    "subject": "\u4fdd\u4e1c\u6dc0\u56f4\u5824",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "\u6d77\u6cb3\u9632\u603b\u63d0\u51fa\u610f\u89c1",
+    "inferred": true
+  },
+  {
+    "subject": "\u4fdd\u4e1c\u6dc0\u56f4\u5824",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "\u7701\u653f\u5e9c\u51b3\u5b9a",
+    "inferred": true
+  },
+  {
+    "subject": "\u4fdd\u4e1c\u6dc0\u56f4\u5824",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "\u5343\u91cc\u5824",
+    "inferred": true
+  },
+  {
+    "subject": "\u4fdd\u4e1c\u6dc0\u56f4\u5824",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "\u7701\u9632\u6307\u4e0b\u8fbe\u6307\u4ee4",
+    "inferred": true
+  },
+  {
+    "subject": "\u4fdd\u4e1c\u6dc0\u56f4\u5824",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "12.80",
+    "inferred": true
+  },
+  {
+    "subject": "\u4fdd\u4e1c\u6dc0\u56f4\u5824",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "1556\u5e73\u65b9\u516c\u91cc",
+    "inferred": true
+  },
+  {
+    "subject": "\u4fdd\u4e1c\u6dc0\u56f4\u5824",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "50\u5e74\u4e00\u9047",
+    "inferred": true
+  },
+  {
+    "subject": "\u4fdd\u4e1c\u6dc0\u56f4\u5824",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "6.44\u7c73",
+    "inferred": true
+  },
+  {
+    "subject": "\u4fdd\u4e1c\u6dc0\u56f4\u5824",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "\u7701\u6c34\u5229\u5385\u51b3\u5b9a",
+    "inferred": true
+  },
+  {
+    "subject": "\u4fdd\u4e1c\u6dc0\u56f4\u5824",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "\u6c34\u4f4d",
+    "inferred": true
+  },
+  {
+    "subject": "\u4fdd\u4e1c\u6dc0\u56f4\u5824",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "379\u5e73\u65b9\u516c\u91cc",
+    "inferred": true
+  },
+  {
+    "subject": "\u4fdd\u4e1c\u6dc0\u56f4\u5824",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "inferred": true
+  },
+  {
+    "subject": "\u4fdd\u4e1c\u6dc0\u56f4\u5824",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "\u4e0d\u8db35\u5e74\u4e00\u9047",
+    "inferred": true
+  },
+  {
+    "subject": "\u4fdd\u4e1c\u6dc0\u56f4\u5824",
+    "predicate": "\u4f4d\u4e8e via \u767d\u6d0b\u6dc0",
+    "object": "\u96c4\u5b89\u65b0\u533a\u7ec4\u7ec7\u5b9e\u65bd",
+    "inferred": true
+  },
+  {
+    "subject": "29.23",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "20.12",
+    "inferred": true
+  },
+  {
+    "subject": "29.23",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.00",
+    "inferred": true
+  },
+  {
+    "subject": "29.23",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "11.93",
+    "inferred": true
+  },
+  {
+    "subject": "29.23",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.23",
+    "inferred": true
+  },
+  {
+    "subject": "29.23",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.30",
+    "inferred": true
+  },
+  {
+    "subject": "29.23",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "\u9ad8\u7a0b\u57fa\u51c6",
+    "inferred": true
+  },
+  {
+    "subject": "27.95",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "20.12",
+    "inferred": true
+  },
+  {
+    "subject": "27.95",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.00",
+    "inferred": true
+  },
+  {
+    "subject": "27.95",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "11.93",
+    "inferred": true
+  },
+  {
+    "subject": "27.95",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.23",
+    "inferred": true
+  },
+  {
+    "subject": "27.95",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.30",
+    "inferred": true
+  },
+  {
+    "subject": "27.95",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "\u9ad8\u7a0b\u57fa\u51c6",
+    "inferred": true
+  },
+  {
+    "subject": "27.11",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "20.12",
+    "inferred": true
+  },
+  {
+    "subject": "27.11",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.00",
+    "inferred": true
+  },
+  {
+    "subject": "27.11",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "11.93",
+    "inferred": true
+  },
+  {
+    "subject": "27.11",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.23",
+    "inferred": true
+  },
+  {
+    "subject": "27.11",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "12.30",
+    "inferred": true
+  },
+  {
+    "subject": "27.11",
+    "predicate": "\u4f4d\u4e8e via \u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "object": "\u9ad8\u7a0b\u57fa\u51c6",
+    "inferred": true
+  },
+  {
+    "subject": "\u6881\u5404\u5e84\u4ee5\u4e0a\u4e24\u5824\u548c\u4ee5\u4e0b\u62a4\u8def\u5824",
+    "predicate": "\u786e\u4fdd via \u6c38\u5b9a\u6cb3",
+    "object": "\u56fa\u5b89\u5927\u6865",
+    "inferred": true
+  },
+  {
+    "subject": "\u6881\u5404\u5e84\u4ee5\u4e0a\u4e24\u5824\u548c\u4ee5\u4e0b\u62a4\u8def\u5824",
+    "predicate": "\u786e\u4fdd via \u6c38\u5b9a\u6cb3",
+    "object": "65.68",
+    "inferred": true
+  },
+  {
+    "subject": "\u6881\u5404\u5e84\u4ee5\u4e0a\u4e24\u5824\u548c\u4ee5\u4e0b\u62a4\u8def\u5824",
+    "predicate": "\u786e\u4fdd via \u6c38\u5b9a\u6cb3",
+    "object": "2500",
+    "inferred": true
+  },
+  {
+    "subject": "\u6881\u5404\u5e84\u4ee5\u4e0a\u4e24\u5824\u548c\u4ee5\u4e0b\u62a4\u8def\u5824",
+    "predicate": "\u786e\u4fdd via \u6c38\u5b9a\u6cb3",
+    "object": "\u5362\u6c9f\u6865\u4e0b",
+    "inferred": true
+  },
+  {
+    "subject": "\u6881\u5404\u5e84\u4ee5\u4e0a\u4e24\u5824\u548c\u4ee5\u4e0b\u62a4\u8def\u5824",
+    "predicate": "\u786e\u4fdd via \u6c38\u5b9a\u6cb3",
+    "object": "64.20",
+    "inferred": true
+  },
+  {
+    "subject": "\u6881\u5404\u5e84\u4ee5\u4e0a\u4e24\u5824\u548c\u4ee5\u4e0b\u62a4\u8def\u5824",
+    "predicate": "\u786e\u4fdd via \u6c38\u5b9a\u6cb3",
+    "object": "\u5c0f\u6e05\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u8d75\u5317\u53e3\u6ea2\u6d41\u5830",
+    "predicate": "is type of",
+    "object": "\u6ea2\u6d41\u5830",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6e05\u6cb3\u8d85\u6807\u51c6\u5206\u6d2a\u6d2a\u6c34\u548c\u6e05\u5357\u5730\u533a\u6ca5\u6c34",
+    "predicate": "is type of",
+    "object": "\u5927\u6e05\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u7701\u5927\u6e05\u6cb3\u6cb3\u52a1\u7ba1\u7406\u5904\u5b9e\u65bd",
+    "predicate": "is type of",
+    "object": "\u5927\u6e05\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u7701\u5927\u6e05\u6cb3\u6cb3\u52a1\u7ba1\u7406\u5904\u8d1f\u8d23\u5b9e\u65bd",
+    "predicate": "is type of",
+    "object": "\u5927\u6e05\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u8001\u5927\u6e05\u6cb3\u704c\u6e89\u95f8",
+    "predicate": "is type of",
+    "object": "\u5927\u6e05\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u6f33\u536b\u5357\u8fd0\u6cb3",
+    "predicate": "is type of",
+    "object": "\u5357\u8fd0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u6211\u77014\u6761\u786e\u4fdd\u5824\u9632\u4e4b\u4e00",
+    "predicate": "is type of",
+    "object": "\u786e\u4fdd",
+    "inferred": true
+  },
+  {
+    "subject": "8.00\u7c73",
+    "predicate": "is type of",
+    "object": "8.00",
+    "inferred": true
+  },
+  {
+    "subject": "\u5343\u91cc\u5824\u5b89\u5168",
+    "predicate": "is type of",
+    "object": "\u5343\u91cc\u5824",
+    "inferred": true
+  },
+  {
+    "subject": "\u6f74\u9f99\u6cb3\u5343\u91cc\u5824\u53ca\u9648\u6751\u4ee5\u4e0a\u5de6\u5824",
+    "predicate": "is type of",
+    "object": "\u5343\u91cc\u5824",
+    "inferred": true
+  },
+  {
+    "subject": "\u5343\u91cc\u5824\u3001\u65b0\u5b89\u5317\u5824\u3001\u56db\u95e8\u5824\u3001\u6dc0\u5357\u65b0\u5824\u3001\u969c\u6c34\u57dd",
+    "predicate": "is type of",
+    "object": "\u5343\u91cc\u5824",
+    "inferred": true
+  },
+  {
+    "subject": "\u5343\u91cc\u5824\u3001\u65b0\u5b89\u5317\u5824\u3001\u56db\u95e8\u5824\u3001\u6dc0\u5357\u65b0\u5824\u3001\u969c\u6c34\u57dd",
+    "predicate": "is type of",
+    "object": "\u65b0\u5b89\u5317\u5824",
+    "inferred": true
+  },
+  {
+    "subject": "\u7a7f\u8fd0\u67a2\u7ebd\u4e0b\u6e38",
+    "predicate": "is type of",
+    "object": "\u7a7f\u8fd0\u67a2\u7ebd",
+    "inferred": true
+  },
+  {
+    "subject": "\u827e\u8f9b\u5e84\u8282\u5236\u95f8",
+    "predicate": "is type of",
+    "object": "\u827e\u8f9b\u5e84",
+    "inferred": true
+  },
+  {
+    "subject": "\u767d\u6c9f\u6cb3\u4e24\u5824",
+    "predicate": "is type of",
+    "object": "\u767d\u6c9f\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u767d\u6c9f\u6cb3",
+    "predicate": "is type of",
+    "object": "\u6c9f\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "6.44\u7c73",
+    "predicate": "is type of",
+    "object": "6.44",
+    "inferred": true
+  },
+  {
+    "subject": "\u767d\u5e99\u81f3\u5434\u6751\u6bb5\u4e24\u5824",
+    "predicate": "is type of",
+    "object": "\u767d\u5e99",
+    "inferred": true
+  },
+  {
+    "subject": "\u5317\u4e09\u6cb3",
+    "predicate": "is type of",
+    "object": "\u4e09\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u827e\u8f9b\u5e84\u67a2\u7ebd\u81f3\u732e\u53bf\u67a2\u7ebd\u4e24\u5824",
+    "predicate": "is type of",
+    "object": "\u827e\u8f9b\u5e84",
+    "inferred": true
+  },
+  {
+    "subject": "\u83b2\u82b1\u53e3\u81f3\u827e\u8f9b\u5e84\u67a2\u7ebd\u4e24\u5824",
+    "predicate": "is type of",
+    "object": "\u827e\u8f9b\u5e84",
+    "inferred": true
+  },
+  {
+    "subject": "\u6cb3\u5317\u7701\u5546\u6c34\u5229\u90e8\u6d77\u59d4\u63d0\u51fa\u610f\u89c1",
+    "predicate": "is type of",
+    "object": "\u6c34\u5229\u90e8\u6d77\u59d4\u63d0\u51fa\u610f\u89c1",
+    "inferred": true
+  },
+  {
+    "subject": "\u6f74\u9f99\u6cb3\u5343\u91cc\u5824\u53ca\u9648\u6751\u4ee5\u4e0a\u5de6\u5824",
+    "predicate": "is type of",
+    "object": "\u9648\u6751",
+    "inferred": true
+  },
+  {
+    "subject": "\u6f74\u9f99\u6cb3\u5343\u91cc\u5824\u53ca\u9648\u6751\u4ee5\u4e0a\u5de6\u5824",
+    "predicate": "is type of",
+    "object": "\u6f74\u9f99\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6e05\u6cb3\u8d85\u6807\u51c6\u5206\u6d2a\u6d2a\u6c34\u548c\u6e05\u5357\u5730\u533a\u6ca5\u6c34",
+    "predicate": "is type of",
+    "object": "\u5206\u6d2a",
+    "inferred": true
+  },
+  {
+    "subject": "3300\u7acb\u65b9\u7c73\u6bcf\u79d2",
+    "predicate": "is type of",
+    "object": "300",
+    "inferred": true
+  },
+  {
+    "subject": "\u7701\u9632\u6307\u4e0b\u8fbe\u6307\u4ee4",
+    "predicate": "is type of",
+    "object": "\u7701\u9632\u6307",
+    "inferred": true
+  },
+  {
+    "subject": "\u9648\u6751\u5206\u6d2a\u9053",
+    "predicate": "is type of",
+    "object": "\u9648\u6751",
+    "inferred": true
+  },
+  {
+    "subject": "\u5343\u91cc\u5824\u3001\u65b0\u5b89\u5317\u5824\u3001\u56db\u95e8\u5824\u3001\u6dc0\u5357\u65b0\u5824\u3001\u969c\u6c34\u57dd",
+    "predicate": "is type of",
+    "object": "\u56db\u95e8\u5824",
+    "inferred": true
+  },
+  {
+    "subject": "\u767d\u6c9f\u6cb3\u4e24\u5824",
+    "predicate": "is type of",
+    "object": "\u6c9f\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u6f74\u9f99\u6cb3\u5206\u6d2a",
+    "predicate": "is type of",
+    "object": "\u5206\u6d2a",
+    "inferred": true
+  },
+  {
+    "subject": "\u6f74\u9f99\u6cb3\u5206\u6d2a",
+    "predicate": "is type of",
+    "object": "\u6f74\u9f99\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u6c34\u4f4d\u4f4e\u4e8e13.47\u7c73\u65f6",
+    "predicate": "is type of",
+    "object": "\u6c34\u4f4d",
+    "inferred": true
+  },
+  {
+    "subject": "\u9632\u6c5b\u8c03\u5ea6\u4e34\u65f6\u8bbe\u7f6e\u7684\u6c34\u4f4d\u3001\u6d41\u91cf\u7ad9",
+    "predicate": "is type of",
+    "object": "\u6c34\u4f4d",
+    "inferred": true
+  },
+  {
+    "subject": "5000\u7acb\u65b9\u7c73\u6bcf\u79d2",
+    "predicate": "is type of",
+    "object": "5000",
+    "inferred": true
+  },
+  {
+    "subject": "\u4e0a\u6e38\u6765\u91cf\u4e0d\u5c0f\u4e8e900\u7acb\u65b9\u7c73\u6bcf\u79d2",
+    "predicate": "is type of",
+    "object": "900\u7acb\u65b9\u7c73\u6bcf\u79d2",
+    "inferred": true
+  },
+  {
+    "subject": "9.00\u7c73",
+    "predicate": "is type of",
+    "object": "9.00",
+    "inferred": true
+  },
+  {
+    "subject": "1000-1100",
+    "predicate": "is type of",
+    "object": "1100",
+    "inferred": true
+  },
+  {
+    "subject": "\u4e0a\u6e38\u6765\u91cf\u4e0d\u5c0f\u4e8e900\u7acb\u65b9\u7c73\u6bcf\u79d2",
+    "predicate": "is type of",
+    "object": "\u4e0a\u6e38\u6765\u91cf",
+    "inferred": true
+  },
+  {
+    "subject": "\u5206\u6d2a\u95f8",
+    "predicate": "is type of",
+    "object": "\u5206\u6d2a",
+    "inferred": true
+  },
+  {
+    "subject": "\u571f\u95e8\u697c\u5206\u6d2a\u95f8\u4e0b",
+    "predicate": "is type of",
+    "object": "\u5206\u6d2a\u95f8",
+    "inferred": true
+  },
+  {
+    "subject": "\u738b\u6751\u5206\u6d2a\u95f8",
+    "predicate": "is type of",
+    "object": "\u5206\u6d2a\u95f8",
+    "inferred": true
+  },
+  {
+    "subject": "\u571f\u95e8\u697c\u5206\u6d2a\u95f8\u4e0b",
+    "predicate": "is type of",
+    "object": "\u5206\u6d2a",
+    "inferred": true
+  },
+  {
+    "subject": "\u5206\u6d2a\u9053\u4e24\u5824",
+    "predicate": "is type of",
+    "object": "\u5206\u6d2a",
+    "inferred": true
+  },
+  {
+    "subject": "\u9648\u6751\u5206\u6d2a\u9053",
+    "predicate": "is type of",
+    "object": "\u5206\u6d2a",
+    "inferred": true
+  },
+  {
+    "subject": "\u738b\u6751\u5206\u6d2a\u95f8",
+    "predicate": "is type of",
+    "object": "\u5206\u6d2a",
+    "inferred": true
+  },
+  {
+    "subject": "\u767d\u5e99\u81f3\u5434\u6751\u6bb5\u4e24\u5824",
+    "predicate": "is type of",
+    "object": "\u5434\u6751",
+    "inferred": true
+  },
+  {
+    "subject": "3000",
+    "predicate": "is type of",
+    "object": "300",
+    "inferred": true
+  },
+  {
+    "subject": "\u5343\u91cc\u5824\u3001\u65b0\u5b89\u5317\u5824\u3001\u56db\u95e8\u5824\u3001\u6dc0\u5357\u65b0\u5824\u3001\u969c\u6c34\u57dd",
+    "predicate": "is type of",
+    "object": "\u6dc0\u5357\u65b0\u5824",
+    "inferred": true
+  },
+  {
+    "subject": "800\u7acb\u65b9\u7c73\u6bcf\u79d2",
+    "predicate": "is type of",
+    "object": "800",
+    "inferred": true
+  }
+]

@@ -1,0 +1,1970 @@
+[
+  {
+    "subject": "2020 daqiang river basin flood scheduling scheme",
+    "predicate": "covers area",
+    "object": "\u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "chunk": 1
+  },
+  {
+    "subject": "\u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "predicate": "formed by",
+    "object": "\u6a2a\u5c71\u5cad\u6c34\u5e93",
+    "chunk": 1
+  },
+  {
+    "subject": "\u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "predicate": "formed by",
+    "object": "\u53e3\u5934\u6c34\u5e93",
+    "chunk": 1
+  },
+  {
+    "subject": "\u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "predicate": "formed by",
+    "object": "\u738b\u5feb\u6c34\u5e93",
+    "chunk": 1
+  },
+  {
+    "subject": "\u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "predicate": "formed by",
+    "object": "\u897f\u5927\u6d0b\u6c34\u5e93",
+    "chunk": 1
+  },
+  {
+    "subject": "\u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "predicate": "formed by",
+    "object": "\u9f99\u95e8\u6c34\u5e93",
+    "chunk": 1
+  },
+  {
+    "subject": "\u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "predicate": "formed by",
+    "object": "\u5b89\u683c\u5e84\u6c34\u5e93",
+    "chunk": 1
+  },
+  {
+    "subject": "\u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "predicate": "formed by",
+    "object": "zulonghe channel",
+    "chunk": 1
+  },
+  {
+    "subject": "\u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "predicate": "formed by",
+    "object": "baigouhe channel",
+    "chunk": 1
+  },
+  {
+    "subject": "\u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "predicate": "formed by",
+    "object": "xinggafu hub",
+    "chunk": 1
+  },
+  {
+    "subject": "\u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "predicate": "formed by",
+    "object": "zhao wangxinhe channel",
+    "chunk": 1
+  },
+  {
+    "subject": "\u6a2a\u5c71\u5cad\u6c34\u5e93",
+    "predicate": "uses benchmark",
+    "object": "\u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "chunk": 1
+  },
+  {
+    "subject": "\u738b\u5feb\u6c34\u5e93",
+    "predicate": "uses benchmark",
+    "object": "\u9ec4\u6d77",
+    "chunk": 1
+  },
+  {
+    "subject": "\u897f\u5927\u6d0b\u6c34\u5e93",
+    "predicate": "uses benchmark",
+    "object": "\u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "chunk": 1
+  },
+  {
+    "subject": "\u9f99\u95e8\u6c34\u5e93",
+    "predicate": "uses benchmark",
+    "object": "\u9ec4\u6d77",
+    "chunk": 1
+  },
+  {
+    "subject": "\u5b89\u683c\u5e84\u6c34\u5e93",
+    "predicate": "uses benchmark",
+    "object": "\u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "chunk": 1
+  },
+  {
+    "subject": "\u6a2a\u5c71\u5cad\u6c34\u5e93",
+    "predicate": "has design standard",
+    "object": "100 year",
+    "chunk": 1
+  },
+  {
+    "subject": "\u738b\u5feb\u6c34\u5e93",
+    "predicate": "has design standard",
+    "object": "500 year",
+    "chunk": 1
+  },
+  {
+    "subject": "\u897f\u5927\u6d0b\u6c34\u5e93",
+    "predicate": "has design standard",
+    "object": "500 year",
+    "chunk": 1
+  },
+  {
+    "subject": "\u9f99\u95e8\u6c34\u5e93",
+    "predicate": "has design standard",
+    "object": "100 year",
+    "chunk": 1
+  },
+  {
+    "subject": "\u5b89\u683c\u5e84\u6c34\u5e93",
+    "predicate": "has design standard",
+    "object": "100 year",
+    "chunk": 1
+  },
+  {
+    "subject": "\u897f\u5927\u6d0b\u6c34\u5e93",
+    "predicate": "has check standard",
+    "object": "10000 year",
+    "chunk": 1
+  },
+  {
+    "subject": "\u5b89\u683c\u5e84\u6c34\u5e93",
+    "predicate": "has check standard",
+    "object": "2000 year",
+    "chunk": 1
+  },
+  {
+    "subject": "\u738b\u5feb\u6c34\u5e93",
+    "predicate": "has storage capacity",
+    "object": "13.89 billion cubic meters",
+    "chunk": 1
+  },
+  {
+    "subject": "\u897f\u5927\u6d0b\u6c34\u5e93",
+    "predicate": "status is",
+    "object": "not verified for closure",
+    "chunk": 1
+  },
+  {
+    "subject": "\u5b89\u683c\u5e84\u6c34\u5e93",
+    "predicate": "status is",
+    "object": "reinforcement ongoing",
+    "chunk": 1
+  },
+  {
+    "subject": "zulonghe channel",
+    "predicate": "connects junshan",
+    "object": "\u767d\u6d0b\u6dc0",
+    "chunk": 1
+  },
+  {
+    "subject": "zulonghe channel",
+    "predicate": "follows design standard",
+    "object": "20 year",
+    "chunk": 1
+  },
+  {
+    "subject": "xinggafu hub",
+    "predicate": "is type of",
+    "object": "flood diversion sluice",
+    "chunk": 1
+  },
+  {
+    "subject": "xinggafu hub",
+    "predicate": "includes component",
+    "object": "flood diversion sluice",
+    "chunk": 1
+  },
+  {
+    "subject": "xinggafu hub",
+    "predicate": "includes component",
+    "object": "overflow weir",
+    "chunk": 1
+  },
+  {
+    "subject": "\u67a3\u6797\u5e84\u67a2\u7ebd",
+    "predicate": "includes component",
+    "object": "flood diversion sluice",
+    "chunk": 1
+  },
+  {
+    "subject": "dongdian",
+    "predicate": "is located in",
+    "object": "\u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "chunk": 1
+  },
+  {
+    "subject": "w6d",
+    "predicate": "unit is",
+    "object": "\u4ebf\u7acb\u65b9\u7c73",
+    "chunk": 3
+  },
+  {
+    "subject": "w15d",
+    "predicate": "unit is",
+    "object": "\u4ebf\u7acb\u65b9\u7c73",
+    "chunk": 3
+  },
+  {
+    "subject": "w30d",
+    "predicate": "unit is",
+    "object": "\u4ebf\u7acb\u65b9\u7c73",
+    "chunk": 3
+  },
+  {
+    "subject": "qm",
+    "predicate": "unit is",
+    "object": "\u7acb\u65b9\u7c73\u6bcf\u79d2",
+    "chunk": 3
+  },
+  {
+    "subject": "\u62d2\u9a6c\u6cb3",
+    "predicate": "measured at",
+    "object": "\u5f20\u574a",
+    "chunk": 3
+  },
+  {
+    "subject": "\u8c03\u5ea6\u539f\u5219",
+    "predicate": "ensures safety for",
+    "object": "\u5929\u6d25",
+    "chunk": 3
+  },
+  {
+    "subject": "\u8c03\u5ea6\u539f\u5219",
+    "predicate": "ensures safety for",
+    "object": "\u96c4\u5b89\u65b0\u533a\u9632\u6307",
+    "chunk": 3
+  },
+  {
+    "subject": "\u8c03\u5ea6\u539f\u5219",
+    "predicate": "ensures safety for",
+    "object": "\u4fdd\u5b9a\u5e02",
+    "chunk": 3
+  },
+  {
+    "subject": "\u8c03\u5ea6\u539f\u5219",
+    "predicate": "involves infrastructure like",
+    "object": "\u4eac\u5e7f\u94c1\u8def",
+    "chunk": 3
+  },
+  {
+    "subject": "\u8c03\u5ea6\u539f\u5219",
+    "predicate": "involves infrastructure like",
+    "object": "\u4eac\u4e5d\u94c1\u8def",
+    "chunk": 3
+  },
+  {
+    "subject": "\u8c03\u5ea6\u539f\u5219",
+    "predicate": "involves infrastructure like",
+    "object": "\u4eac\u6caa\u94c1\u8def",
+    "chunk": 3
+  },
+  {
+    "subject": "\u8c03\u5ea6\u539f\u5219",
+    "predicate": "involves infrastructure like",
+    "object": "\u6714\u9ec4\u94c1\u8def",
+    "chunk": 3
+  },
+  {
+    "subject": "\u8c03\u5ea6\u539f\u5219",
+    "predicate": "involves infrastructure like",
+    "object": "\u4eac\u6e2f\u6fb3\u9ad8\u901f",
+    "chunk": 3
+  },
+  {
+    "subject": "\u8c03\u5ea6\u539f\u5219",
+    "predicate": "involves infrastructure like",
+    "object": "\u5927\u5e7f\u9ad8\u901f",
+    "chunk": 3
+  },
+  {
+    "subject": "\u8c03\u5ea6\u539f\u5219",
+    "predicate": "involves infrastructure like",
+    "object": "\u6d25\u4fdd\u9ad8\u901f",
+    "chunk": 3
+  },
+  {
+    "subject": "\u8c03\u5ea6\u539f\u5219",
+    "predicate": "involves infrastructure like",
+    "object": "\u5357\u6c34\u5317\u8c03\u4e2d\u7ebf\u603b\u5e72\u6e20",
+    "chunk": 3
+  },
+  {
+    "subject": "\u8c03\u5ea6\u539f\u5219",
+    "predicate": "involves infrastructure like",
+    "object": "\u534e\u5317\u6cb9\u7530",
+    "chunk": 3
+  },
+  {
+    "subject": "\u9632\u6d2a\u5b89\u5168\u5de5\u7a0b",
+    "predicate": "includes reservoirs like",
+    "object": "\u6a2a\u5c71\u5cad\u6c34\u5e93",
+    "chunk": 3
+  },
+  {
+    "subject": "\u9632\u6d2a\u5b89\u5168\u5de5\u7a0b",
+    "predicate": "includes reservoirs like",
+    "object": "\u53e3\u5934\u6c34\u5e93",
+    "chunk": 3
+  },
+  {
+    "subject": "\u9632\u6d2a\u5b89\u5168\u5de5\u7a0b",
+    "predicate": "includes reservoirs like",
+    "object": "\u738b\u5feb\u6c34\u5e93",
+    "chunk": 3
+  },
+  {
+    "subject": "\u9632\u6d2a\u5b89\u5168\u5de5\u7a0b",
+    "predicate": "includes reservoirs like",
+    "object": "\u897f\u5927\u6d0b\u6c34\u5e93",
+    "chunk": 3
+  },
+  {
+    "subject": "\u9632\u6d2a\u5b89\u5168\u5de5\u7a0b",
+    "predicate": "includes reservoirs like",
+    "object": "\u9f99\u95e8\u6c34\u5e93",
+    "chunk": 3
+  },
+  {
+    "subject": "\u9632\u6d2a\u5b89\u5168\u5de5\u7a0b",
+    "predicate": "includes reservoirs like",
+    "object": "\u5b89\u683c\u5e84\u6c34\u5e93",
+    "chunk": 3
+  },
+  {
+    "subject": "\u8c03\u5ea6\u65b9\u6848",
+    "predicate": "diverts water to",
+    "object": "\u5170\u6c9f\u6d3c",
+    "chunk": 3
+  },
+  {
+    "subject": "\u8c03\u5ea6\u65b9\u6848",
+    "predicate": "diverts water to",
+    "object": "\u4e1c\u6dc0",
+    "chunk": 3
+  },
+  {
+    "subject": "\u8c03\u5ea6\u65b9\u6848",
+    "predicate": "diverts water to",
+    "object": "\u6587\u5b89\u6d3c",
+    "chunk": 3
+  },
+  {
+    "subject": "\u8c03\u5ea6\u65b9\u6848",
+    "predicate": "diverts water to",
+    "object": "\u8d3e\u53e3\u6d3c",
+    "chunk": 3
+  },
+  {
+    "subject": "\u8c03\u5ea6\u65b9\u6848",
+    "predicate": "diverts water to",
+    "object": "\u56e2\u6cca\u6d3c",
+    "chunk": 3
+  },
+  {
+    "subject": "\u8c03\u5ea6\u65b9\u6848",
+    "predicate": "diverts water to",
+    "object": "\u5c0f\u6e05\u6cb3\u5206\u6d2a\u533a",
+    "chunk": 3
+  },
+  {
+    "subject": "\u6f74\u9f99\u6cb3",
+    "predicate": "has limit at",
+    "object": "\u5317\u90ed\u6751",
+    "chunk": 3
+  },
+  {
+    "subject": "\u6f74\u9f99\u6cb3",
+    "predicate": "has limit at",
+    "object": "\u9648\u6751",
+    "chunk": 3
+  },
+  {
+    "subject": "\u6f74\u9f99\u6cb3",
+    "predicate": "has limit at",
+    "object": "\u4e1c\u7eea\u53e3",
+    "chunk": 3
+  },
+  {
+    "subject": "\u8d75\u738b\u65b0\u6cb3",
+    "predicate": "has limit at",
+    "object": "\u67a3\u6797\u5e84\u67a2\u7ebd",
+    "chunk": 3
+  },
+  {
+    "subject": "\u8d75\u738b\u65b0\u6cb3",
+    "predicate": "has limit at",
+    "object": "\u738b\u6751\u95f8",
+    "chunk": 3
+  },
+  {
+    "subject": "\u767d\u6d0b\u6dc0\u5341\u65b9\u9662",
+    "predicate": "controls water level",
+    "object": "\u6c5b\u9650\u6c34\u4f4d",
+    "chunk": 3
+  },
+  {
+    "subject": "\u67a3\u6797\u5e84\u67a2\u7ebd",
+    "predicate": "located on",
+    "object": "\u8d75\u738b\u65b0\u6cb3",
+    "chunk": 3
+  },
+  {
+    "subject": "\u67a3\u6797\u5e84\u67a2\u7ebd",
+    "predicate": "operated when level",
+    "object": "6.50 \u7c73",
+    "chunk": 3
+  },
+  {
+    "subject": "\u67a3\u6797\u5e84\u67a2\u7ebd",
+    "predicate": "diverts to",
+    "object": "\u6587\u5b89\u6d3c",
+    "chunk": 3
+  },
+  {
+    "subject": "\u5343\u91cc\u5824\u5c0f\u5173\u53e3\u95e8",
+    "predicate": "opened to divert",
+    "object": "\u6587\u5b89\u6d3c",
+    "chunk": 3
+  },
+  {
+    "subject": "\u5357\u62d2\u9a6c\u6cb3",
+    "predicate": "has limit at",
+    "object": "\u5317\u6cb3\u5e97",
+    "chunk": 3
+  },
+  {
+    "subject": "\u5357\u62d2\u9a6c\u6cb3",
+    "predicate": "diverts to",
+    "object": "\u5170\u6c9f\u6d3c",
+    "chunk": 3
+  },
+  {
+    "subject": "\u767d\u6c9f\u6cb3",
+    "predicate": "has limit at",
+    "object": "\u4e1c\u8328\u6751",
+    "chunk": 3
+  },
+  {
+    "subject": "\u65b0\u76d6\u623f\u5206\u6d2a\u9053",
+    "predicate": "diverts to",
+    "object": "\u5927\u6e05\u6cb3\u7cfb\u5317\u652f",
+    "chunk": 3
+  },
+  {
+    "subject": "\u725b\u89d2\u6d3c",
+    "predicate": "connected to",
+    "object": "\u5927\u6e05\u6cb3\u7cfb",
+    "chunk": 3
+  },
+  {
+    "subject": "\u65b0\u76d6\u623f\u67a2\u7ebd",
+    "predicate": "controls flow from",
+    "object": "\u767d\u6d0b\u6dc0\u5341\u65b9\u9662",
+    "chunk": 3
+  },
+  {
+    "subject": "\u4e1c\u6dc0",
+    "predicate": "receives water from",
+    "object": "\u8d75\u738b\u65b0\u6e20",
+    "chunk": 3
+  },
+  {
+    "subject": "\u4e1c\u6dc0",
+    "predicate": "connected to",
+    "object": "\u6e05\u5357\u6cb3\u9053",
+    "chunk": 3
+  },
+  {
+    "subject": "\u8d3e\u53e3\u6d3c",
+    "predicate": "receives water from",
+    "object": "\u9505\u5e95\u95f8",
+    "chunk": 3
+  },
+  {
+    "subject": "\u6587\u5b89\u6d3c",
+    "predicate": "receives water from",
+    "object": "\u738b\u6751\u5206\u6d2a\u95f8",
+    "chunk": 3
+  },
+  {
+    "subject": "\u5c0f\u6e05\u6cb3\u5206\u6d2a\u533a",
+    "predicate": "utilizes water from",
+    "object": "\u5317\u62d2\u9a6c\u6cb3",
+    "chunk": 3
+  },
+  {
+    "subject": "\u6d77\u6cb3\u9632\u603b",
+    "predicate": "proposes opinion on",
+    "object": "\u8c03\u5ea6\u8fd0\u7528",
+    "chunk": 3
+  },
+  {
+    "subject": "\u56fd\u5bb6\u9632\u603b",
+    "predicate": "decides on",
+    "object": "\u8c03\u5ea6\u8fd0\u7528",
+    "chunk": 3
+  },
+  {
+    "subject": "\u7701\u9632\u6307",
+    "predicate": "issues instructions based",
+    "object": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "chunk": 3
+  },
+  {
+    "subject": "\u5eca\u574a\u9632\u6307",
+    "predicate": "implements orders from",
+    "object": "\u7701\u9632\u6307",
+    "chunk": 3
+  },
+  {
+    "subject": "\u6ca7\u5dde\u5e02\u9632\u6307",
+    "predicate": "implements orders from",
+    "object": "\u7701\u9632\u6307",
+    "chunk": 3
+  },
+  {
+    "subject": "\u96c4\u5b89\u65b0\u533a\u9632\u6307",
+    "predicate": "organizes implementation of",
+    "object": "\u767d\u6d0b\u6dc0\u5468\u8fb9\u5206\u6d2a",
+    "chunk": 3
+  },
+  {
+    "subject": "\u4fdd\u5b9a\u5e02",
+    "predicate": "decides on",
+    "object": "\u5170\u6c9f\u6d3c\u8fd0\u7528",
+    "chunk": 3
+  },
+  {
+    "subject": "\u4fdd\u5b9a\u5e02",
+    "predicate": "decides on",
+    "object": "\u6f74\u9f99\u6cb3\u5206\u6d2a\u8fd0\u7528",
+    "chunk": 3
+  },
+  {
+    "subject": "\u7701\u6c34\u5229\u5385",
+    "predicate": "submits suggestion for",
+    "object": "\u5927\u6e05\u6cb3\u4efb\u5e84\u5b50\u5206\u6d2a",
+    "chunk": 3
+  },
+  {
+    "subject": "\u5eca\u574a\u5e02",
+    "predicate": "responsible for",
+    "object": "\u7fa4\u4f17\u8f6c\u79fb\u5b89\u7f6e\u5de5\u4f5c",
+    "chunk": 3
+  },
+  {
+    "subject": "\u5730\u9762\u6c89\u964d",
+    "predicate": "\u5bfc\u81f4",
+    "object": "\u8bef\u5dee",
+    "chunk": 5
+  },
+  {
+    "subject": "\u8b66\u6212\u6c34\u4f4d",
+    "predicate": "\u6309\u7167",
+    "object": "\u6f2b\u6ee9\u9ad8\u7a0b\u6216\u5824\u811a\u9ad8\u7a0b\u63a7\u5236",
+    "chunk": 5
+  },
+  {
+    "subject": "\u4e3b\u8981\u884c\u6d2a\u6cb3\u9053\u9632\u6d2a\u4fdd\u8bc1\u6807\u51c6\u8868",
+    "predicate": "\u5305\u542b\u5b57\u6bb5",
+    "object": "\u6cb3\u540d",
+    "chunk": 5
+  },
+  {
+    "subject": "\u4e3b\u8981\u884c\u6d2a\u6cb3\u9053\u9632\u6d2a\u4fdd\u8bc1\u6807\u51c6\u8868",
+    "predicate": "\u5305\u542b\u5b57\u6bb5",
+    "object": "\u7ad9\u540d",
+    "chunk": 5
+  },
+  {
+    "subject": "\u5927\u6e05\u6cb3",
+    "predicate": "\u57fa\u51c6\u4e3a",
+    "object": "\u9ec4\u6d77",
+    "chunk": 5
+  },
+  {
+    "subject": "\u6ee6\u6cb3",
+    "predicate": "\u57fa\u51c6\u4e3a",
+    "object": "\u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "chunk": 5
+  },
+  {
+    "subject": "\u6c38\u5b9a\u6cb3",
+    "predicate": "\u5173\u8054\u5730\u70b9",
+    "object": "\u56fa\u5b89\u5927\u6865",
+    "chunk": 5
+  },
+  {
+    "subject": "\u5317\u8fd0\u6cb3",
+    "predicate": "\u5173\u8054\u7ad9\u70b9",
+    "object": "\u571f\u95e8\u697c\u95f8\u4e0a",
+    "chunk": 5
+  },
+  {
+    "subject": "\u56fd\u5bb6 85",
+    "predicate": "\u5c5e\u4e8e",
+    "object": "\u9ad8\u7a0b\u57fa\u51c6",
+    "chunk": 5
+  },
+  {
+    "subject": "\u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "predicate": "reference for",
+    "object": "\u8b66\u6212\u6c34\u4f4d",
+    "chunk": 6
+  },
+  {
+    "subject": "\u5730\u9762\u6c89\u964d",
+    "predicate": "leads to error",
+    "object": "\u8b66\u6212\u6c34\u4f4d",
+    "chunk": 6
+  },
+  {
+    "subject": "\u8b66\u6212\u6c34\u4f4d",
+    "predicate": "controlled by",
+    "object": "\u6f2b\u6ee9\u9ad8\u7a0b",
+    "chunk": 6
+  },
+  {
+    "subject": "\u8b66\u6212\u6c34\u4f4d",
+    "predicate": "controlled by",
+    "object": "\u5824\u811a\u9ad8\u7a0b",
+    "chunk": 6
+  },
+  {
+    "subject": "\u6cb3\u9053\u7684\u8c03\u5ea6\u8fd0\u7528",
+    "predicate": "managed by",
+    "object": "\u56fd\u5bb6\u9632\u6c5b\u6297\u65f1\u603b\u6307\u6325\u90e8",
+    "chunk": 6
+  },
+  {
+    "subject": "\u6f33\u536b\u5357\u8fd0\u6cb3",
+    "predicate": "contains river",
+    "object": "\u6f33\u6cb3",
+    "chunk": 6
+  },
+  {
+    "subject": "\u8521\u5c0f\u5e84",
+    "predicate": "located on",
+    "object": "\u6f33\u536b\u5357\u8fd0\u6cb3",
+    "chunk": 6
+  },
+  {
+    "subject": "\u5143\u6751",
+    "predicate": "located on",
+    "object": "\u536b\u6cb3",
+    "chunk": 6
+  },
+  {
+    "subject": "\u9f99\u738b\u5e99",
+    "predicate": "located on",
+    "object": "\u536b\u6cb3",
+    "chunk": 6
+  },
+  {
+    "subject": "\u5357\u9676",
+    "predicate": "located on",
+    "object": "\u536b\u8fd0\u6cb3",
+    "chunk": 6
+  },
+  {
+    "subject": "\u5434\u6865\u95f8",
+    "predicate": "located on",
+    "object": "\u6f33\u536b\u65b0\u6cb3",
+    "chunk": 6
+  },
+  {
+    "subject": "\u8881\u6865\u95f8",
+    "predicate": "located on",
+    "object": "\u6f33\u536b\u65b0\u6cb3",
+    "chunk": 6
+  },
+  {
+    "subject": "\u738b\u8425\u76d8",
+    "predicate": "located on",
+    "object": "\u6f33\u536b\u65b0\u6cb3",
+    "chunk": 6
+  },
+  {
+    "subject": "\u9ad8\u7a0b\u57fa\u51c6",
+    "predicate": "uses benchmark",
+    "object": "\u56fd\u5bb6 85",
+    "chunk": 6
+  },
+  {
+    "subject": "\u9ad8\u7a0b\u57fa\u51c6",
+    "predicate": "uses benchmark",
+    "object": "\u9ec4\u6d77",
+    "chunk": 6
+  },
+  {
+    "subject": "\u6d41\u91cf\u5355\u4f4d",
+    "predicate": "is unit of",
+    "object": "\u7acb\u65b9\u7c73\u6bcf\u79d2",
+    "chunk": 6
+  },
+  {
+    "subject": "\u4e2d\u6e38\u6d3c\u5730",
+    "predicate": "\u9002\u7528\u6807\u51c6",
+    "object": "\u539f\u8bbe\u8ba1\u6d2a\u6c34\u6807\u51c6",
+    "chunk": 8
+  },
+  {
+    "subject": "\u6ecf\u9633\u65b0\u6cb3",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u827e\u8f9b\u5e84\u6a61\u80f6\u575d\u4e0b",
+    "chunk": 8
+  },
+  {
+    "subject": "\u6ecf\u9633\u65b0\u6cb3",
+    "predicate": "\u53c2\u8003\u57fa\u51c6",
+    "object": "\u9ec4\u6d77",
+    "chunk": 8
+  },
+  {
+    "subject": "\u4eac\u4e5d\u94c1\u8def",
+    "predicate": "\u90bb\u8fd1",
+    "object": "\u827e\u8f9b\u5e84\u67a2\u7ebd\u81f3\u732e\u53bf\u67a2\u7ebd\u4e24\u5824",
+    "chunk": 8
+  },
+  {
+    "subject": "\u9ec4\u58c1\u5e84\u6c34\u5e93",
+    "predicate": "\u4e0b\u6cc4\u6d41\u91cf",
+    "object": "\u7acb\u65b9\u7c73\u6bcf\u79d2",
+    "chunk": 8
+  },
+  {
+    "subject": "\u9ec4\u58c1\u5e84\u6c34\u5e93",
+    "predicate": "\u7b26\u5408\u6807\u51c6",
+    "object": "5 \u5e74\u4e00\u9047",
+    "chunk": 8
+  },
+  {
+    "subject": "\u7a7f\u8fd0\u67a2\u7ebd",
+    "predicate": "\u8fde\u63a5\u81f3",
+    "object": "\u6d77\u53e3\u67a2\u7ebd",
+    "chunk": 9
+  },
+  {
+    "subject": "\u9648\u6751\u6c34\u4f4d",
+    "predicate": "\u8d85\u8fc7",
+    "object": "19.70 \u7c73",
+    "chunk": 9
+  },
+  {
+    "subject": "\u5206\u6d2a\u884c\u52a8",
+    "predicate": "\u89e6\u53d1\u4e8e",
+    "object": "\u8463\u5e84",
+    "chunk": 9
+  },
+  {
+    "subject": "\u9648\u6751\u5206\u6d2a\u9053",
+    "predicate": "\u4f4d\u4e8e",
+    "object": "\u9648\u6751",
+    "chunk": 9
+  },
+  {
+    "subject": "\u5206\u6d2a\u64cd\u4f5c",
+    "predicate": "\u4fdd\u62a4",
+    "object": "\u5343\u91cc\u5824",
+    "chunk": 9
+  },
+  {
+    "subject": "\u5206\u6d2a\u64cd\u4f5c",
+    "predicate": "\u6d41\u5165",
+    "object": "\u5170\u6c9f\u6d3c",
+    "chunk": 9
+  },
+  {
+    "subject": "\u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "predicate": "\u4f5c\u4e3a",
+    "object": "\u6807\u51c6",
+    "chunk": 9
+  },
+  {
+    "subject": "\u9ec4\u6d77",
+    "predicate": "\u4f5c\u4e3a",
+    "object": "\u6807\u51c6",
+    "chunk": 9
+  },
+  {
+    "subject": "\u56fd\u5bb6 85",
+    "predicate": "\u4f5c\u4e3a",
+    "object": "\u6807\u51c6",
+    "chunk": 9
+  },
+  {
+    "subject": "\u6f74\u9f99\u6cb3",
+    "predicate": "\u6d41\u7ecf",
+    "object": "\u9648\u6751",
+    "chunk": 9
+  },
+  {
+    "subject": "\u5927\u6e05\u6cb3",
+    "predicate": "\u63d0\u53ca\u4e8e",
+    "object": "\u6587\u672c",
+    "chunk": 9
+  },
+  {
+    "subject": "\u8d75\u738b\u65b0\u6cb3",
+    "predicate": "\u63d0\u53ca\u4e8e",
+    "object": "\u6587\u672c",
+    "chunk": 9
+  },
+  {
+    "subject": "\u571f\u95e8\u697c\u5206\u6d2a\u95f8",
+    "predicate": "has elevation",
+    "object": "13.60",
+    "chunk": 11
+  },
+  {
+    "subject": "\u571f\u95e8\u697c\u5206\u6d2a\u95f8",
+    "predicate": "uses datum",
+    "object": "\u56fd\u5bb6 85",
+    "chunk": 11
+  },
+  {
+    "subject": "\u9752\u9f99\u6e7e\u51cf\u6cb3",
+    "predicate": "related to",
+    "object": "\u6f6e\u767d\u6cb3",
+    "chunk": 11
+  },
+  {
+    "subject": "\u72fc\u513f\u7a9d",
+    "predicate": "located above",
+    "object": "\u4e24\u5824",
+    "chunk": 11
+  },
+  {
+    "subject": "\u767d\u5e99",
+    "predicate": "connected to",
+    "object": "\u5434\u6751",
+    "chunk": 11
+  },
+  {
+    "subject": "\u56fd\u5bb6 85",
+    "predicate": "based on",
+    "object": "\u9ec4\u6d77",
+    "chunk": 11
+  },
+  {
+    "subject": "\u767d\u5e99\u81f3\u5434\u6751\u6bb5",
+    "predicate": "has width",
+    "object": "2260-2600",
+    "chunk": 11
+  },
+  {
+    "subject": "\u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "predicate": "involves",
+    "object": "\u6f74\u9f99\u6cb3\u5206\u6d2a\u8fd0\u7528",
+    "inferred": true
+  },
+  {
+    "subject": "\u4e1c\u6dc0",
+    "predicate": "related to",
+    "object": "\u5170\u6c9f\u6d3c\u8fd0\u7528",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "predicate": "protected by",
+    "object": "\u827e\u8f9b\u5e84\u67a2\u7ebd\u81f3\u732e\u53bf\u67a2\u7ebd\u4e24\u5824",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "predicate": "measured in",
+    "object": "\u7acb\u65b9\u7c73\u6bcf\u79d2",
+    "inferred": true
+  },
+  {
+    "subject": "\u4e1c\u6dc0",
+    "predicate": "flood standard",
+    "object": "5 \u5e74\u4e00\u9047",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "predicate": "includes reservoir",
+    "object": "\u9ec4\u58c1\u5e84\u6c34\u5e93",
+    "inferred": true
+  },
+  {
+    "subject": "\u6f74\u9f99\u6cb3",
+    "predicate": "flows into",
+    "object": "\u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "inferred": true
+  },
+  {
+    "subject": "\u9648\u6751\u5206\u6d2a\u9053",
+    "predicate": "diverts to",
+    "object": "\u4e1c\u6dc0",
+    "inferred": true
+  },
+  {
+    "subject": "zulonghe channel",
+    "predicate": "conveys from",
+    "object": "\u6f74\u9f99\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "predicate": "regulated by",
+    "object": "\u5434\u6865\u95f8",
+    "inferred": true
+  },
+  {
+    "subject": "\u6ecf\u9633\u65b0\u6cb3",
+    "predicate": "connected to",
+    "object": "\u6f33\u536b\u65b0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u4e1c\u6dc0",
+    "predicate": "controlled by",
+    "object": "\u8881\u6865\u95f8",
+    "inferred": true
+  },
+  {
+    "subject": "\u6f74\u9f99\u6cb3\u5206\u6d2a\u8fd0\u7528",
+    "predicate": "\u7b26\u5408\u6807\u51c6",
+    "object": "5 \u5e74\u4e00\u9047",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ec4\u58c1\u5e84\u6c34\u5e93",
+    "predicate": "\u5f71\u54cd\u8bbe\u65bd",
+    "object": "\u827e\u8f9b\u5e84\u67a2\u7ebd\u81f3\u732e\u53bf\u67a2\u7ebd\u4e24\u5824",
+    "inferred": true
+  },
+  {
+    "subject": "\u5170\u6c9f\u6d3c\u8fd0\u7528",
+    "predicate": "\u91c7\u7528\u5355\u4f4d",
+    "object": "\u7acb\u65b9\u7c73\u6bcf\u79d2",
+    "inferred": true
+  },
+  {
+    "subject": "\u6d25\u4fdd\u9ad8\u901f",
+    "predicate": "\u8de8\u8d8a",
+    "object": "\u6f74\u9f99\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u6f74\u9f99\u6cb3\u5206\u6d2a\u8fd0\u7528",
+    "predicate": "\u6d89\u53ca",
+    "object": "\u4e1c\u7eea\u53e3",
+    "inferred": true
+  },
+  {
+    "subject": "\u827e\u8f9b\u5e84\u67a2\u7ebd\u81f3\u732e\u53bf\u67a2\u7ebd\u4e24\u5824",
+    "predicate": "\u4fdd\u62a4",
+    "object": "\u5317\u90ed\u6751",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u5e7f\u9ad8\u901f",
+    "predicate": "\u8de8\u8d8a",
+    "object": "\u6f33\u536b\u65b0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u827e\u8f9b\u5e84\u67a2\u7ebd\u81f3\u732e\u53bf\u67a2\u7ebd\u4e24\u5824",
+    "predicate": "\u90bb\u8fd1",
+    "object": "\u5434\u6865\u95f8",
+    "inferred": true
+  },
+  {
+    "subject": "\u5170\u6c9f\u6d3c\u8fd0\u7528",
+    "predicate": "\u6d89\u53ca",
+    "object": "\u738b\u8425\u76d8",
+    "inferred": true
+  },
+  {
+    "subject": "\u6f74\u9f99\u6cb3",
+    "predicate": "\u6d4b\u91cf\u5355\u4f4d",
+    "object": "\u7acb\u65b9\u7c73\u6bcf\u79d2",
+    "inferred": true
+  },
+  {
+    "subject": "\u9648\u6751\u5206\u6d2a\u9053",
+    "predicate": "\u7b26\u5408\u6807\u51c6",
+    "object": "5 \u5e74\u4e00\u9047",
+    "inferred": true
+  },
+  {
+    "subject": "\u6f74\u9f99\u6cb3",
+    "predicate": "flows into",
+    "object": "\u6f33\u536b\u65b0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u9648\u6751\u5206\u6d2a\u9053",
+    "predicate": "connects to",
+    "object": "\u6f33\u536b\u65b0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u4e1c\u7eea\u53e3",
+    "predicate": "located on",
+    "object": "\u6f33\u536b\u65b0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "2020 daqiang river basin flood scheduling scheme",
+    "predicate": "covers area via",
+    "object": "\u6a2a\u5c71\u5cad\u6c34\u5e93",
+    "inferred": true
+  },
+  {
+    "subject": "2020 daqiang river basin flood scheduling scheme",
+    "predicate": "covers area via",
+    "object": "\u8b66\u6212\u6c34\u4f4d",
+    "inferred": true
+  },
+  {
+    "subject": "2020 daqiang river basin flood scheduling scheme",
+    "predicate": "covers area via",
+    "object": "baigouhe channel",
+    "inferred": true
+  },
+  {
+    "subject": "2020 daqiang river basin flood scheduling scheme",
+    "predicate": "covers area via",
+    "object": "\u53e3\u5934\u6c34\u5e93",
+    "inferred": true
+  },
+  {
+    "subject": "2020 daqiang river basin flood scheduling scheme",
+    "predicate": "covers area via",
+    "object": "zulonghe channel",
+    "inferred": true
+  },
+  {
+    "subject": "2020 daqiang river basin flood scheduling scheme",
+    "predicate": "covers area via",
+    "object": "\u897f\u5927\u6d0b\u6c34\u5e93",
+    "inferred": true
+  },
+  {
+    "subject": "2020 daqiang river basin flood scheduling scheme",
+    "predicate": "covers area via",
+    "object": "\u5b89\u683c\u5e84\u6c34\u5e93",
+    "inferred": true
+  },
+  {
+    "subject": "2020 daqiang river basin flood scheduling scheme",
+    "predicate": "covers area via",
+    "object": "xinggafu hub",
+    "inferred": true
+  },
+  {
+    "subject": "2020 daqiang river basin flood scheduling scheme",
+    "predicate": "covers area via",
+    "object": "\u6807\u51c6",
+    "inferred": true
+  },
+  {
+    "subject": "2020 daqiang river basin flood scheduling scheme",
+    "predicate": "covers area via",
+    "object": "\u738b\u5feb\u6c34\u5e93",
+    "inferred": true
+  },
+  {
+    "subject": "2020 daqiang river basin flood scheduling scheme",
+    "predicate": "covers area via",
+    "object": "\u9f99\u95e8\u6c34\u5e93",
+    "inferred": true
+  },
+  {
+    "subject": "2020 daqiang river basin flood scheduling scheme",
+    "predicate": "covers area via",
+    "object": "zhao wangxinhe channel",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "predicate": "formed by via",
+    "object": "100 year",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "predicate": "reference for via",
+    "object": "\u6f2b\u6ee9\u9ad8\u7a0b\u6216\u5824\u811a\u9ad8\u7a0b\u63a7\u5236",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "predicate": "reference for via",
+    "object": "\u6f2b\u6ee9\u9ad8\u7a0b",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "predicate": "reference for via",
+    "object": "\u5824\u811a\u9ad8\u7a0b",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "predicate": "formed by via",
+    "object": "20 year",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "predicate": "formed by via",
+    "object": "\u767d\u6d0b\u6dc0",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "predicate": "formed by via",
+    "object": "10000 year",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "predicate": "formed by via",
+    "object": "not verified for closure",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "predicate": "formed by via",
+    "object": "500 year",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "predicate": "formed by via",
+    "object": "reinforcement ongoing",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "predicate": "formed by via",
+    "object": "2000 year",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "predicate": "formed by via",
+    "object": "flood diversion sluice",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "predicate": "formed by via",
+    "object": "overflow weir",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "predicate": "formed by via",
+    "object": "\u9ec4\u6d77",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "predicate": "formed by via",
+    "object": "13.89 billion cubic meters",
+    "inferred": true
+  },
+  {
+    "subject": "\u6a2a\u5c71\u5cad\u6c34\u5e93",
+    "predicate": "uses benchmark via",
+    "object": "\u8b66\u6212\u6c34\u4f4d",
+    "inferred": true
+  },
+  {
+    "subject": "\u6a2a\u5c71\u5cad\u6c34\u5e93",
+    "predicate": "uses benchmark via",
+    "object": "baigouhe channel",
+    "inferred": true
+  },
+  {
+    "subject": "\u6a2a\u5c71\u5cad\u6c34\u5e93",
+    "predicate": "uses benchmark via",
+    "object": "\u53e3\u5934\u6c34\u5e93",
+    "inferred": true
+  },
+  {
+    "subject": "\u6a2a\u5c71\u5cad\u6c34\u5e93",
+    "predicate": "uses benchmark via",
+    "object": "zulonghe channel",
+    "inferred": true
+  },
+  {
+    "subject": "\u6a2a\u5c71\u5cad\u6c34\u5e93",
+    "predicate": "uses benchmark via",
+    "object": "\u897f\u5927\u6d0b\u6c34\u5e93",
+    "inferred": true
+  },
+  {
+    "subject": "\u6a2a\u5c71\u5cad\u6c34\u5e93",
+    "predicate": "uses benchmark via",
+    "object": "\u5b89\u683c\u5e84\u6c34\u5e93",
+    "inferred": true
+  },
+  {
+    "subject": "\u6a2a\u5c71\u5cad\u6c34\u5e93",
+    "predicate": "uses benchmark via",
+    "object": "xinggafu hub",
+    "inferred": true
+  },
+  {
+    "subject": "\u6a2a\u5c71\u5cad\u6c34\u5e93",
+    "predicate": "uses benchmark via",
+    "object": "\u6807\u51c6",
+    "inferred": true
+  },
+  {
+    "subject": "\u6a2a\u5c71\u5cad\u6c34\u5e93",
+    "predicate": "uses benchmark via",
+    "object": "\u738b\u5feb\u6c34\u5e93",
+    "inferred": true
+  },
+  {
+    "subject": "\u6a2a\u5c71\u5cad\u6c34\u5e93",
+    "predicate": "uses benchmark via",
+    "object": "\u9f99\u95e8\u6c34\u5e93",
+    "inferred": true
+  },
+  {
+    "subject": "\u6a2a\u5c71\u5cad\u6c34\u5e93",
+    "predicate": "uses benchmark via",
+    "object": "zhao wangxinhe channel",
+    "inferred": true
+  },
+  {
+    "subject": "\u738b\u5feb\u6c34\u5e93",
+    "predicate": "uses benchmark via",
+    "object": "\u6807\u51c6",
+    "inferred": true
+  },
+  {
+    "subject": "\u897f\u5927\u6d0b\u6c34\u5e93",
+    "predicate": "uses benchmark via",
+    "object": "\u6a2a\u5c71\u5cad\u6c34\u5e93",
+    "inferred": true
+  },
+  {
+    "subject": "\u897f\u5927\u6d0b\u6c34\u5e93",
+    "predicate": "uses benchmark via",
+    "object": "\u8b66\u6212\u6c34\u4f4d",
+    "inferred": true
+  },
+  {
+    "subject": "\u897f\u5927\u6d0b\u6c34\u5e93",
+    "predicate": "uses benchmark via",
+    "object": "baigouhe channel",
+    "inferred": true
+  },
+  {
+    "subject": "\u897f\u5927\u6d0b\u6c34\u5e93",
+    "predicate": "uses benchmark via",
+    "object": "\u53e3\u5934\u6c34\u5e93",
+    "inferred": true
+  },
+  {
+    "subject": "\u897f\u5927\u6d0b\u6c34\u5e93",
+    "predicate": "uses benchmark via",
+    "object": "zulonghe channel",
+    "inferred": true
+  },
+  {
+    "subject": "\u897f\u5927\u6d0b\u6c34\u5e93",
+    "predicate": "uses benchmark via",
+    "object": "\u5b89\u683c\u5e84\u6c34\u5e93",
+    "inferred": true
+  },
+  {
+    "subject": "\u897f\u5927\u6d0b\u6c34\u5e93",
+    "predicate": "uses benchmark via",
+    "object": "xinggafu hub",
+    "inferred": true
+  },
+  {
+    "subject": "\u897f\u5927\u6d0b\u6c34\u5e93",
+    "predicate": "uses benchmark via",
+    "object": "\u6807\u51c6",
+    "inferred": true
+  },
+  {
+    "subject": "\u897f\u5927\u6d0b\u6c34\u5e93",
+    "predicate": "uses benchmark via",
+    "object": "\u738b\u5feb\u6c34\u5e93",
+    "inferred": true
+  },
+  {
+    "subject": "\u897f\u5927\u6d0b\u6c34\u5e93",
+    "predicate": "uses benchmark via",
+    "object": "\u9f99\u95e8\u6c34\u5e93",
+    "inferred": true
+  },
+  {
+    "subject": "\u897f\u5927\u6d0b\u6c34\u5e93",
+    "predicate": "uses benchmark via",
+    "object": "zhao wangxinhe channel",
+    "inferred": true
+  },
+  {
+    "subject": "\u9f99\u95e8\u6c34\u5e93",
+    "predicate": "uses benchmark via",
+    "object": "\u6807\u51c6",
+    "inferred": true
+  },
+  {
+    "subject": "\u5b89\u683c\u5e84\u6c34\u5e93",
+    "predicate": "uses benchmark via",
+    "object": "\u6a2a\u5c71\u5cad\u6c34\u5e93",
+    "inferred": true
+  },
+  {
+    "subject": "\u5b89\u683c\u5e84\u6c34\u5e93",
+    "predicate": "uses benchmark via",
+    "object": "\u8b66\u6212\u6c34\u4f4d",
+    "inferred": true
+  },
+  {
+    "subject": "\u5b89\u683c\u5e84\u6c34\u5e93",
+    "predicate": "uses benchmark via",
+    "object": "baigouhe channel",
+    "inferred": true
+  },
+  {
+    "subject": "\u5b89\u683c\u5e84\u6c34\u5e93",
+    "predicate": "uses benchmark via",
+    "object": "\u53e3\u5934\u6c34\u5e93",
+    "inferred": true
+  },
+  {
+    "subject": "\u5b89\u683c\u5e84\u6c34\u5e93",
+    "predicate": "uses benchmark via",
+    "object": "zulonghe channel",
+    "inferred": true
+  },
+  {
+    "subject": "\u5b89\u683c\u5e84\u6c34\u5e93",
+    "predicate": "uses benchmark via",
+    "object": "\u897f\u5927\u6d0b\u6c34\u5e93",
+    "inferred": true
+  },
+  {
+    "subject": "\u5b89\u683c\u5e84\u6c34\u5e93",
+    "predicate": "uses benchmark via",
+    "object": "xinggafu hub",
+    "inferred": true
+  },
+  {
+    "subject": "\u5b89\u683c\u5e84\u6c34\u5e93",
+    "predicate": "uses benchmark via",
+    "object": "\u6807\u51c6",
+    "inferred": true
+  },
+  {
+    "subject": "\u5b89\u683c\u5e84\u6c34\u5e93",
+    "predicate": "uses benchmark via",
+    "object": "\u738b\u5feb\u6c34\u5e93",
+    "inferred": true
+  },
+  {
+    "subject": "\u5b89\u683c\u5e84\u6c34\u5e93",
+    "predicate": "uses benchmark via",
+    "object": "\u9f99\u95e8\u6c34\u5e93",
+    "inferred": true
+  },
+  {
+    "subject": "\u5b89\u683c\u5e84\u6c34\u5e93",
+    "predicate": "uses benchmark via",
+    "object": "zhao wangxinhe channel",
+    "inferred": true
+  },
+  {
+    "subject": "\u67a3\u6797\u5e84\u67a2\u7ebd",
+    "predicate": "diverts to via",
+    "object": "\u738b\u6751\u5206\u6d2a\u95f8",
+    "inferred": true
+  },
+  {
+    "subject": "\u67a3\u6797\u5e84\u67a2\u7ebd",
+    "predicate": "located on via",
+    "object": "\u738b\u6751\u95f8",
+    "inferred": true
+  },
+  {
+    "subject": "\u67a3\u6797\u5e84\u67a2\u7ebd",
+    "predicate": "located on via",
+    "object": "\u6587\u672c",
+    "inferred": true
+  },
+  {
+    "subject": "dongdian",
+    "predicate": "is located in",
+    "object": "\u6a2a\u5c71\u5cad\u6c34\u5e93",
+    "inferred": true
+  },
+  {
+    "subject": "dongdian",
+    "predicate": "is located in",
+    "object": "\u8b66\u6212\u6c34\u4f4d",
+    "inferred": true
+  },
+  {
+    "subject": "dongdian",
+    "predicate": "is located in",
+    "object": "baigouhe channel",
+    "inferred": true
+  },
+  {
+    "subject": "dongdian",
+    "predicate": "is located in",
+    "object": "\u53e3\u5934\u6c34\u5e93",
+    "inferred": true
+  },
+  {
+    "subject": "dongdian",
+    "predicate": "is located in",
+    "object": "zulonghe channel",
+    "inferred": true
+  },
+  {
+    "subject": "dongdian",
+    "predicate": "is located in",
+    "object": "\u897f\u5927\u6d0b\u6c34\u5e93",
+    "inferred": true
+  },
+  {
+    "subject": "dongdian",
+    "predicate": "is located in",
+    "object": "\u5b89\u683c\u5e84\u6c34\u5e93",
+    "inferred": true
+  },
+  {
+    "subject": "dongdian",
+    "predicate": "is located in",
+    "object": "xinggafu hub",
+    "inferred": true
+  },
+  {
+    "subject": "dongdian",
+    "predicate": "is located in",
+    "object": "\u6807\u51c6",
+    "inferred": true
+  },
+  {
+    "subject": "dongdian",
+    "predicate": "is located in",
+    "object": "\u738b\u5feb\u6c34\u5e93",
+    "inferred": true
+  },
+  {
+    "subject": "dongdian",
+    "predicate": "is located in",
+    "object": "\u9f99\u95e8\u6c34\u5e93",
+    "inferred": true
+  },
+  {
+    "subject": "dongdian",
+    "predicate": "is located in",
+    "object": "zhao wangxinhe channel",
+    "inferred": true
+  },
+  {
+    "subject": "\u8c03\u5ea6\u539f\u5219",
+    "predicate": "ensures safety for",
+    "object": "\u5170\u6c9f\u6d3c\u8fd0\u7528",
+    "inferred": true
+  },
+  {
+    "subject": "\u8c03\u5ea6\u539f\u5219",
+    "predicate": "ensures safety for",
+    "object": "\u6f74\u9f99\u6cb3\u5206\u6d2a\u8fd0\u7528",
+    "inferred": true
+  },
+  {
+    "subject": "\u8c03\u5ea6\u539f\u5219",
+    "predicate": "ensures safety for",
+    "object": "\u767d\u6d0b\u6dc0\u5468\u8fb9\u5206\u6d2a",
+    "inferred": true
+  },
+  {
+    "subject": "\u8c03\u5ea6\u539f\u5219",
+    "predicate": "involves infrastructure like",
+    "object": "\u827e\u8f9b\u5e84\u67a2\u7ebd\u81f3\u732e\u53bf\u67a2\u7ebd\u4e24\u5824",
+    "inferred": true
+  },
+  {
+    "subject": "\u9632\u6d2a\u5b89\u5168\u5de5\u7a0b",
+    "predicate": "includes reservoirs like",
+    "object": "100 year",
+    "inferred": true
+  },
+  {
+    "subject": "\u9632\u6d2a\u5b89\u5168\u5de5\u7a0b",
+    "predicate": "includes reservoirs like",
+    "object": "\u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "inferred": true
+  },
+  {
+    "subject": "\u9632\u6d2a\u5b89\u5168\u5de5\u7a0b",
+    "predicate": "includes reservoirs like",
+    "object": "10000 year",
+    "inferred": true
+  },
+  {
+    "subject": "\u9632\u6d2a\u5b89\u5168\u5de5\u7a0b",
+    "predicate": "includes reservoirs like",
+    "object": "not verified for closure",
+    "inferred": true
+  },
+  {
+    "subject": "\u9632\u6d2a\u5b89\u5168\u5de5\u7a0b",
+    "predicate": "includes reservoirs like",
+    "object": "500 year",
+    "inferred": true
+  },
+  {
+    "subject": "\u9632\u6d2a\u5b89\u5168\u5de5\u7a0b",
+    "predicate": "includes reservoirs like",
+    "object": "reinforcement ongoing",
+    "inferred": true
+  },
+  {
+    "subject": "\u9632\u6d2a\u5b89\u5168\u5de5\u7a0b",
+    "predicate": "includes reservoirs like",
+    "object": "2000 year",
+    "inferred": true
+  },
+  {
+    "subject": "\u9632\u6d2a\u5b89\u5168\u5de5\u7a0b",
+    "predicate": "includes reservoirs like",
+    "object": "\u9ec4\u6d77",
+    "inferred": true
+  },
+  {
+    "subject": "\u9632\u6d2a\u5b89\u5168\u5de5\u7a0b",
+    "predicate": "includes reservoirs like",
+    "object": "13.89 billion cubic meters",
+    "inferred": true
+  },
+  {
+    "subject": "\u8c03\u5ea6\u65b9\u6848",
+    "predicate": "diverts water to",
+    "object": "\u9505\u5e95\u95f8",
+    "inferred": true
+  },
+  {
+    "subject": "\u8c03\u5ea6\u65b9\u6848",
+    "predicate": "diverts water to",
+    "object": "\u5317\u62d2\u9a6c\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u8c03\u5ea6\u65b9\u6848",
+    "predicate": "diverts water to",
+    "object": "\u6e05\u5357\u6cb3\u9053",
+    "inferred": true
+  },
+  {
+    "subject": "\u8c03\u5ea6\u65b9\u6848",
+    "predicate": "diverts water to",
+    "object": "\u8d75\u738b\u65b0\u6e20",
+    "inferred": true
+  },
+  {
+    "subject": "\u8c03\u5ea6\u65b9\u6848",
+    "predicate": "diverts water to",
+    "object": "\u738b\u6751\u5206\u6d2a\u95f8",
+    "inferred": true
+  },
+  {
+    "subject": "\u8d75\u738b\u65b0\u6cb3",
+    "predicate": "has limit at",
+    "object": "\u6587\u5b89\u6d3c",
+    "inferred": true
+  },
+  {
+    "subject": "\u8d75\u738b\u65b0\u6cb3",
+    "predicate": "has limit at",
+    "object": "flood diversion sluice",
+    "inferred": true
+  },
+  {
+    "subject": "\u8d75\u738b\u65b0\u6cb3",
+    "predicate": "has limit at",
+    "object": "6.50 \u7c73",
+    "inferred": true
+  },
+  {
+    "subject": "\u5343\u91cc\u5824\u5c0f\u5173\u53e3\u95e8",
+    "predicate": "opened to divert",
+    "object": "\u738b\u6751\u5206\u6d2a\u95f8",
+    "inferred": true
+  },
+  {
+    "subject": "\u65b0\u76d6\u623f\u67a2\u7ebd",
+    "predicate": "controls flow from",
+    "object": "\u6c5b\u9650\u6c34\u4f4d",
+    "inferred": true
+  },
+  {
+    "subject": "\u5eca\u574a\u9632\u6307",
+    "predicate": "implements orders from",
+    "object": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "inferred": true
+  },
+  {
+    "subject": "\u6ca7\u5dde\u5e02\u9632\u6307",
+    "predicate": "implements orders from",
+    "object": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "inferred": true
+  },
+  {
+    "subject": "\u5730\u9762\u6c89\u964d",
+    "predicate": "leads to error",
+    "object": "\u6f2b\u6ee9\u9ad8\u7a0b\u6216\u5824\u811a\u9ad8\u7a0b\u63a7\u5236",
+    "inferred": true
+  },
+  {
+    "subject": "\u5730\u9762\u6c89\u964d",
+    "predicate": "leads to error",
+    "object": "\u6f2b\u6ee9\u9ad8\u7a0b",
+    "inferred": true
+  },
+  {
+    "subject": "\u5730\u9762\u6c89\u964d",
+    "predicate": "leads to error",
+    "object": "\u5824\u811a\u9ad8\u7a0b",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6e05\u6cb3",
+    "predicate": "\u57fa\u51c6\u4e3a via \u9ec4\u6d77",
+    "object": "\u6807\u51c6",
+    "inferred": true
+  },
+  {
+    "subject": "\u6ee6\u6cb3",
+    "predicate": "\u57fa\u51c6\u4e3a via \u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "object": "\u6a2a\u5c71\u5cad\u6c34\u5e93",
+    "inferred": true
+  },
+  {
+    "subject": "\u6ee6\u6cb3",
+    "predicate": "\u57fa\u51c6\u4e3a via \u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "object": "\u8b66\u6212\u6c34\u4f4d",
+    "inferred": true
+  },
+  {
+    "subject": "\u6ee6\u6cb3",
+    "predicate": "\u57fa\u51c6\u4e3a via \u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "object": "baigouhe channel",
+    "inferred": true
+  },
+  {
+    "subject": "\u6ee6\u6cb3",
+    "predicate": "\u57fa\u51c6\u4e3a via \u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "object": "\u53e3\u5934\u6c34\u5e93",
+    "inferred": true
+  },
+  {
+    "subject": "\u6ee6\u6cb3",
+    "predicate": "\u57fa\u51c6\u4e3a via \u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "object": "zulonghe channel",
+    "inferred": true
+  },
+  {
+    "subject": "\u6ee6\u6cb3",
+    "predicate": "\u57fa\u51c6\u4e3a via \u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "object": "\u897f\u5927\u6d0b\u6c34\u5e93",
+    "inferred": true
+  },
+  {
+    "subject": "\u6ee6\u6cb3",
+    "predicate": "\u57fa\u51c6\u4e3a via \u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "object": "\u5b89\u683c\u5e84\u6c34\u5e93",
+    "inferred": true
+  },
+  {
+    "subject": "\u6ee6\u6cb3",
+    "predicate": "\u57fa\u51c6\u4e3a via \u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "object": "xinggafu hub",
+    "inferred": true
+  },
+  {
+    "subject": "\u6ee6\u6cb3",
+    "predicate": "\u57fa\u51c6\u4e3a via \u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "object": "\u6807\u51c6",
+    "inferred": true
+  },
+  {
+    "subject": "\u6ee6\u6cb3",
+    "predicate": "\u57fa\u51c6\u4e3a via \u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "object": "\u738b\u5feb\u6c34\u5e93",
+    "inferred": true
+  },
+  {
+    "subject": "\u6ee6\u6cb3",
+    "predicate": "\u57fa\u51c6\u4e3a via \u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "object": "\u9f99\u95e8\u6c34\u5e93",
+    "inferred": true
+  },
+  {
+    "subject": "\u6ee6\u6cb3",
+    "predicate": "\u57fa\u51c6\u4e3a via \u5927\u6cbd\u6cb3\u6c34\u7cfb",
+    "object": "zhao wangxinhe channel",
+    "inferred": true
+  },
+  {
+    "subject": "\u8521\u5c0f\u5e84",
+    "predicate": "located on via",
+    "object": "\u6f33\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u9ad8\u7a0b\u57fa\u51c6",
+    "predicate": "uses benchmark via",
+    "object": "\u6807\u51c6",
+    "inferred": true
+  },
+  {
+    "subject": "\u6ecf\u9633\u65b0\u6cb3",
+    "predicate": "\u53c2\u8003\u57fa\u51c6 via \u9ec4\u6d77",
+    "object": "\u6807\u51c6",
+    "inferred": true
+  },
+  {
+    "subject": "\u571f\u95e8\u697c\u5206\u6d2a\u95f8",
+    "predicate": "uses datum via",
+    "object": "\u9ec4\u6d77",
+    "inferred": true
+  },
+  {
+    "subject": "\u571f\u95e8\u697c\u5206\u6d2a\u95f8",
+    "predicate": "uses datum via",
+    "object": "\u9ad8\u7a0b\u57fa\u51c6",
+    "inferred": true
+  },
+  {
+    "subject": "\u571f\u95e8\u697c\u5206\u6d2a\u95f8",
+    "predicate": "uses datum via",
+    "object": "\u6807\u51c6",
+    "inferred": true
+  },
+  {
+    "subject": "zulonghe channel",
+    "predicate": "related to",
+    "object": "baigouhe channel",
+    "inferred": true
+  },
+  {
+    "subject": "zulonghe channel",
+    "predicate": "related to",
+    "object": "zhao wangxinhe channel",
+    "inferred": true
+  },
+  {
+    "subject": "\u539f\u8bbe\u8ba1\u6d2a\u6c34\u6807\u51c6",
+    "predicate": "is type of",
+    "object": "\u6807\u51c6",
+    "inferred": true
+  },
+  {
+    "subject": "\u5317\u62d2\u9a6c\u6cb3",
+    "predicate": "is type of",
+    "object": "\u62d2\u9a6c\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u767d\u5e99\u81f3\u5434\u6751\u6bb5",
+    "predicate": "is type of",
+    "object": "\u5434\u6751",
+    "inferred": true
+  },
+  {
+    "subject": "\u767d\u5e99\u81f3\u5434\u6751\u6bb5",
+    "predicate": "is type of",
+    "object": "\u767d\u5e99",
+    "inferred": true
+  },
+  {
+    "subject": "2020 daqiang river basin flood scheduling scheme",
+    "predicate": "relates to",
+    "object": "flood diversion sluice",
+    "inferred": true
+  },
+  {
+    "subject": "\u5343\u91cc\u5824\u5c0f\u5173\u53e3\u95e8",
+    "predicate": "is type of",
+    "object": "\u5343\u91cc\u5824",
+    "inferred": true
+  },
+  {
+    "subject": "\u9648\u6751\u6c34\u4f4d",
+    "predicate": "is type of",
+    "object": "\u9648\u6751",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6e05\u6cb3\u7cfb",
+    "predicate": "is type of",
+    "object": "\u5927\u6e05\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6e05\u6cb3\u7cfb\u5317\u652f",
+    "predicate": "is type of",
+    "object": "\u5927\u6e05\u6cb3\u7cfb",
+    "inferred": true
+  },
+  {
+    "subject": "\u767d\u6d0b\u6dc0\u5468\u8fb9\u5206\u6d2a",
+    "predicate": "is type of",
+    "object": "\u767d\u6d0b\u6dc0",
+    "inferred": true
+  },
+  {
+    "subject": "\u5170\u6c9f\u6d3c\u8fd0\u7528",
+    "predicate": "is type of",
+    "object": "\u5170\u6c9f\u6d3c",
+    "inferred": true
+  },
+  {
+    "subject": "\u827e\u8f9b\u5e84\u67a2\u7ebd\u81f3\u732e\u53bf\u67a2\u7ebd\u4e24\u5824",
+    "predicate": "is type of",
+    "object": "\u4e24\u5824",
+    "inferred": true
+  },
+  {
+    "subject": "\u6f74\u9f99\u6cb3\u5206\u6d2a\u8fd0\u7528",
+    "predicate": "is type of",
+    "object": "\u6f74\u9f99\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "baigouhe channel",
+    "predicate": "related to",
+    "object": "zhao wangxinhe channel",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6e05\u6cb3\u4efb\u5e84\u5b50\u5206\u6d2a",
+    "predicate": "is type of",
+    "object": "\u5927\u6e05\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6e05\u6cb3\u7cfb\u5317\u652f",
+    "predicate": "is type of",
+    "object": "\u5927\u6e05\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u6cb3\u9053\u7684\u8c03\u5ea6\u8fd0\u7528",
+    "predicate": "is type of",
+    "object": "\u8c03\u5ea6\u8fd0\u7528",
+    "inferred": true
+  },
+  {
+    "subject": "\u5357\u62d2\u9a6c\u6cb3",
+    "predicate": "is type of",
+    "object": "\u62d2\u9a6c\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u4e3b\u8981\u884c\u6d2a\u6cb3\u9053\u9632\u6d2a\u4fdd\u8bc1\u6807\u51c6\u8868",
+    "predicate": "is type of",
+    "object": "\u6807\u51c6",
+    "inferred": true
+  },
+  {
+    "subject": "\u767d\u6d0b\u6dc0\u5341\u65b9\u9662",
+    "predicate": "is type of",
+    "object": "\u767d\u6d0b\u6dc0",
+    "inferred": true
+  },
+  {
+    "subject": "20 year",
+    "predicate": "related to",
+    "object": "10000 year",
+    "inferred": true
+  },
+  {
+    "subject": "20 year",
+    "predicate": "related to",
+    "object": "2000 year",
+    "inferred": true
+  },
+  {
+    "subject": "20 year",
+    "predicate": "related to",
+    "object": "100 year",
+    "inferred": true
+  },
+  {
+    "subject": "20 year",
+    "predicate": "related to",
+    "object": "500 year",
+    "inferred": true
+  },
+  {
+    "subject": "10000 year",
+    "predicate": "related to",
+    "object": "2000 year",
+    "inferred": true
+  },
+  {
+    "subject": "10000 year",
+    "predicate": "related to",
+    "object": "100 year",
+    "inferred": true
+  },
+  {
+    "subject": "10000 year",
+    "predicate": "related to",
+    "object": "500 year",
+    "inferred": true
+  },
+  {
+    "subject": "\u6f2b\u6ee9\u9ad8\u7a0b\u6216\u5824\u811a\u9ad8\u7a0b\u63a7\u5236",
+    "predicate": "is type of",
+    "object": "\u5824\u811a\u9ad8\u7a0b",
+    "inferred": true
+  },
+  {
+    "subject": "\u6f2b\u6ee9\u9ad8\u7a0b\u6216\u5824\u811a\u9ad8\u7a0b\u63a7\u5236",
+    "predicate": "is type of",
+    "object": "\u6f2b\u6ee9\u9ad8\u7a0b",
+    "inferred": true
+  },
+  {
+    "subject": "2000 year",
+    "predicate": "related to",
+    "object": "100 year",
+    "inferred": true
+  },
+  {
+    "subject": "2000 year",
+    "predicate": "related to",
+    "object": "500 year",
+    "inferred": true
+  },
+  {
+    "subject": "100 year",
+    "predicate": "related to",
+    "object": "500 year",
+    "inferred": true
+  },
+  {
+    "subject": "\u56fd\u5bb6\u9632\u603b\u51b3\u5b9a",
+    "predicate": "is type of",
+    "object": "\u56fd\u5bb6\u9632\u603b",
+    "inferred": true
+  }
+]

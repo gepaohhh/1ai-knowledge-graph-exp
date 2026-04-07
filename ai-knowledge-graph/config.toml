@@ -1,0 +1,28 @@
+[llm]
+model = "qwen3:8b"
+#model = "claude-3.5-sonnet-v2"
+#model = "gpt4o"
+#model = "llama3-2-90b-instruct-v1:0"
+api_key = "ollama"
+base_url = "http://localhost:11434/v1/chat/completions"
+#base_url = "http://localhost:4000/v1/chat/completions"
+max_tokens = 8192
+#max_tokens = 4096
+temperature = 0.2
+
+[chunking]
+chunk_size = 3  # Number of words per chunk每块的单词数
+overlap = 1      # Number of words to overlap between chunks块之间的重叠单词数
+
+[standardization]
+enabled = true             # Whether to enable entity standardization是否启用实体标准化
+use_llm_for_entities = true  # Whether to use LLM for additional entity resolution是否使用LLM进行额外的实体解析
+
+[inference]
+enabled = true             # Whether to enable relationship inference是否启用关系推理
+use_llm_for_inference = true  # Whether to use LLM for relationship inference是否使用LLM进行关系推理
+apply_transitive = true    # Whether to apply transitive inference rules是否应用传递性推理规则
+
+[visualization]
+edge_smooth = false  # Options: false, "dynamic", "continuous", "discrete", "diagonalCross", 
+                         # "straightCross", "horizontal", "vertical", "curvedCW", "curvedCCW", "cubicBezier": true = "continuous"

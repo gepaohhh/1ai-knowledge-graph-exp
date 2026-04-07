@@ -1,0 +1,1166 @@
+[
+  {
+    "subject": "2020 \u5e74\u5927\u6e05\u6cb3\u6d2a\u6c34\u8c03\u5ea6\u65b9\u6848",
+    "predicate": "uses elevation benchmark",
+    "object": "national 85 elevation",
+    "chunk": 1
+  },
+  {
+    "subject": "reservoirs",
+    "predicate": "uses elevation benchmark",
+    "object": "habitual elevation",
+    "chunk": 1
+  },
+  {
+    "subject": "daqing river system",
+    "predicate": "part of system",
+    "object": "flood control engineering system",
+    "chunk": 1
+  },
+  {
+    "subject": "hengshanling reservoir",
+    "predicate": "uses elevation benchmark",
+    "object": "dagou benchmark",
+    "chunk": 1
+  },
+  {
+    "subject": "hekou reservoir",
+    "predicate": "uses elevation benchmark",
+    "object": "huanghai benchmark",
+    "chunk": 1
+  },
+  {
+    "subject": "wangkuai reservoir",
+    "predicate": "uses elevation benchmark",
+    "object": "dagou benchmark",
+    "chunk": 1
+  },
+  {
+    "subject": "xidayang reservoir",
+    "predicate": "uses elevation benchmark",
+    "object": "dagou benchmark",
+    "chunk": 1
+  },
+  {
+    "subject": "longmen reservoir",
+    "predicate": "uses elevation benchmark",
+    "object": "huanghai benchmark",
+    "chunk": 1
+  },
+  {
+    "subject": "angezhuang reservoir",
+    "predicate": "uses elevation benchmark",
+    "object": "dagou benchmark",
+    "chunk": 1
+  },
+  {
+    "subject": "hengshanling reservoir",
+    "predicate": "has design standard",
+    "object": "500 years",
+    "chunk": 1
+  },
+  {
+    "subject": "hekou reservoir",
+    "predicate": "has design standard",
+    "object": "500 years",
+    "chunk": 1
+  },
+  {
+    "subject": "wangkuai reservoir",
+    "predicate": "has design standard",
+    "object": "500 years",
+    "chunk": 1
+  },
+  {
+    "subject": "xidayang reservoir",
+    "predicate": "has design standard",
+    "object": "500 years",
+    "chunk": 1
+  },
+  {
+    "subject": "longmen reservoir",
+    "predicate": "has design standard",
+    "object": "500 years",
+    "chunk": 1
+  },
+  {
+    "subject": "angezhuang reservoir",
+    "predicate": "has design standard",
+    "object": "500 years",
+    "chunk": 1
+  },
+  {
+    "subject": "hengshanling reservoir",
+    "predicate": "has check standard",
+    "object": "100 years",
+    "chunk": 1
+  },
+  {
+    "subject": "hekou reservoir",
+    "predicate": "has check standard",
+    "object": "100 years",
+    "chunk": 1
+  },
+  {
+    "subject": "wangkuai reservoir",
+    "predicate": "has check standard",
+    "object": "10000 years",
+    "chunk": 1
+  },
+  {
+    "subject": "xidayang reservoir",
+    "predicate": "has check standard",
+    "object": "10000 years",
+    "chunk": 1
+  },
+  {
+    "subject": "longmen reservoir",
+    "predicate": "has check standard",
+    "object": "100 years",
+    "chunk": 1
+  },
+  {
+    "subject": "angezhuang reservoir",
+    "predicate": "has check standard",
+    "object": "100 years",
+    "chunk": 1
+  },
+  {
+    "subject": "xidayang reservoir",
+    "predicate": "has flood limit",
+    "object": "130.0 meters",
+    "chunk": 1
+  },
+  {
+    "subject": "\u5317\u90ed\u6751",
+    "predicate": "located on",
+    "object": "\u5927\u6e05\u6cb3",
+    "chunk": 5
+  },
+  {
+    "subject": "\u5317\u90ed\u6751",
+    "predicate": "located on",
+    "object": "\u6ecf\u9f99\u6cb3",
+    "chunk": 5
+  },
+  {
+    "subject": "\u5317\u90ed\u6751",
+    "predicate": "uses benchmark",
+    "object": "\u9ec4\u6d77",
+    "chunk": 5
+  },
+  {
+    "subject": "\u5341\u65b9\u9662",
+    "predicate": "located at",
+    "object": "\u767d\u6d0b\u6dc0",
+    "chunk": 5
+  },
+  {
+    "subject": "\u5341\u65b9\u9662",
+    "predicate": "uses benchmark",
+    "object": "\u9ec4\u6d77",
+    "chunk": 5
+  },
+  {
+    "subject": "\u738b\u6751",
+    "predicate": "located on",
+    "object": "\u8d75\u738b\u65b0\u6cb3",
+    "chunk": 5
+  },
+  {
+    "subject": "\u738b\u6751",
+    "predicate": "uses benchmark",
+    "object": "\u5927\u6cbd",
+    "chunk": 5
+  },
+  {
+    "subject": "\u7b2c\u516d\u57e0",
+    "predicate": "located at",
+    "object": "\u4e1c\u6dc0",
+    "chunk": 5
+  },
+  {
+    "subject": "\u7b2c\u516d\u57e0",
+    "predicate": "uses benchmark",
+    "object": "\u9ec4\u6d77",
+    "chunk": 5
+  },
+  {
+    "subject": "\u4e1c\u8328\u6751",
+    "predicate": "located on",
+    "object": "\u767d\u6c9f\u6cb3",
+    "chunk": 5
+  },
+  {
+    "subject": "\u4e1c\u8328\u6751",
+    "predicate": "uses benchmark",
+    "object": "\u5927\u6cbd",
+    "chunk": 5
+  },
+  {
+    "subject": "\u56fd\u5bb6\u9632\u6c5b\u6297\u65f1\u603b\u6307\u6325\u90e8",
+    "predicate": "dispatches scheduling for",
+    "object": "\u6cb3\u9053\u8c03\u5ea6\u8fd0\u7528",
+    "chunk": 6
+  },
+  {
+    "subject": "\u5730\u9762\u6c89\u964d",
+    "predicate": "causes errors in",
+    "object": "\u8b66\u6212\u6c34\u4f4d",
+    "chunk": 6
+  },
+  {
+    "subject": "\u4e3b\u8981\u884c\u6d2a\u6cb3\u9053\u9632\u6d2a\u4fdd\u8bc1\u6807\u51c6\u8868",
+    "predicate": "contains data for",
+    "object": "\u6f33\u536b\u5357\u8fd0\u6cb3",
+    "chunk": 6
+  },
+  {
+    "subject": "\u6f33\u536b\u5357\u8fd0\u6cb3",
+    "predicate": "includes river",
+    "object": "\u6f33\u6cb3",
+    "chunk": 6
+  },
+  {
+    "subject": "\u8521\u5c0f\u5e84",
+    "predicate": "is located on",
+    "object": "\u6f33\u6cb3",
+    "chunk": 6
+  },
+  {
+    "subject": "\u8521\u5c0f\u5e84",
+    "predicate": "uses datum",
+    "object": "\u56fd\u5bb685",
+    "chunk": 6
+  },
+  {
+    "subject": "\u8521\u5c0f\u5e84",
+    "predicate": "has water level",
+    "object": "54.48 meter",
+    "chunk": 6
+  },
+  {
+    "subject": "\u8521\u5c0f\u5e84",
+    "predicate": "water level datum",
+    "object": "\u9ec4\u6d77",
+    "chunk": 6
+  },
+  {
+    "subject": "\u5143\u6751",
+    "predicate": "is located on",
+    "object": "\u536b\u6cb3",
+    "chunk": 6
+  },
+  {
+    "subject": "\u9f99\u738b\u5e99",
+    "predicate": "is located on",
+    "object": "\u536b\u6cb3",
+    "chunk": 6
+  },
+  {
+    "subject": "\u5357\u9676",
+    "predicate": "is located on",
+    "object": "\u536b\u8fd0\u6cb3",
+    "chunk": 6
+  },
+  {
+    "subject": "\u4e34\u6e05\u6865",
+    "predicate": "is located on",
+    "object": "\u536b\u8fd0\u6cb3",
+    "chunk": 6
+  },
+  {
+    "subject": "\u5434\u6865\u95f8",
+    "predicate": "is located on",
+    "object": "\u6f33\u536b\u65b0\u6cb3\uff08\u51cf\u6cb3\uff09",
+    "chunk": 6
+  },
+  {
+    "subject": "\u8881\u6865\u95f8",
+    "predicate": "is located on",
+    "object": "\u6f33\u536b\u65b0\u6cb3\uff08\u51cf\u6cb3\uff09",
+    "chunk": 6
+  },
+  {
+    "subject": "\u738b\u8425\u76d8",
+    "predicate": "is located on",
+    "object": "\u6f33\u536b\u65b0\u6cb3",
+    "chunk": 6
+  },
+  {
+    "subject": "\u6f33\u536b\u65b0\u6cb3",
+    "predicate": "uses datum",
+    "object": "\u9ec4\u6d77",
+    "chunk": 7
+  },
+  {
+    "subject": "\u57dd\u9ad8\u5e84\u81f3\u7389\u6cc9\u5e84\u4e24\u5824",
+    "predicate": "part of",
+    "object": "\u6f33\u536b\u65b0\u6cb3",
+    "chunk": 7
+  },
+  {
+    "subject": "\u8881\u6865\u95f8",
+    "predicate": "has elevation",
+    "object": "25.50",
+    "chunk": 7
+  },
+  {
+    "subject": "\u56fd\u5bb6 85",
+    "predicate": "is datum",
+    "object": "\u9ec4\u6d77",
+    "chunk": 7
+  },
+  {
+    "subject": "\u5434\u6865\u5c0f\u5929\u7f61\u5f15\u6c34\u95f8\u4ee5\u4e0b\u81f3\u5c94\u6cb3\u6c47\u6d41\u5904\u5de6\u5824",
+    "predicate": "part of",
+    "object": "\u6f33\u536b\u65b0\u6cb3",
+    "chunk": 7
+  },
+  {
+    "subject": "\u738b\u8425\u76d8",
+    "predicate": "has elevation",
+    "object": "21.31",
+    "chunk": 7
+  },
+  {
+    "subject": "\u56db\u5973\u5bfa\u8282\u5236\u95f8",
+    "predicate": "located on",
+    "object": "\u5357\u8fd0\u6cb3",
+    "chunk": 7
+  },
+  {
+    "subject": "\u5927\u738b\u94fa\u81f3\u5927\u9ebb\u6e7e\u5de6\u5824",
+    "predicate": "part of",
+    "object": "\u5357\u8fd0\u6cb3",
+    "chunk": 7
+  },
+  {
+    "subject": "\u56db\u5973\u5bfa\u81f3\u6377\u5730\u4e24\u5824",
+    "predicate": "part of",
+    "object": "\u5357\u8fd0\u6cb3",
+    "chunk": 7
+  },
+  {
+    "subject": "\u5357\u8fd0\u6cb3\u6ca7\u5dde\u5e02\u533a\u6bb5",
+    "predicate": "has capacity limit",
+    "object": "100 \u7acb\u65b9\u7c73\u6bcf\u79d2",
+    "chunk": 7
+  },
+  {
+    "subject": "\u6377\u5730\u95f8",
+    "predicate": "located on",
+    "object": "\u5357\u8fd0\u6cb3",
+    "chunk": 7
+  },
+  {
+    "subject": "\u6377\u5730\u81f3\u4e5d\u5ba3\u95f8\u4e24\u5824",
+    "predicate": "part of",
+    "object": "\u5357\u8fd0\u6cb3",
+    "chunk": 7
+  },
+  {
+    "subject": "\u5b50\u7259\u6cb3",
+    "predicate": "confluent with",
+    "object": "\u6ecf\u9633\u6cb3",
+    "chunk": 7
+  },
+  {
+    "subject": "\u83b2\u82b1\u53e3\u8282\u5236\u95f8",
+    "predicate": "located on",
+    "object": "\u5b50\u7259\u6cb3",
+    "chunk": 7
+  },
+  {
+    "subject": "\u83b2\u82b1\u53e3\u81f3\u827e\u8f9b\u5e84\u67a2\u7ebd\u4e24\u5824",
+    "predicate": "diverts excess to",
+    "object": "\u6c38\u5e74\u6d3c",
+    "chunk": 7
+  },
+  {
+    "subject": "\u827e\u8f9b\u5e84\u8282\u5236\u95f8",
+    "predicate": "located on",
+    "object": "\u5b50\u7259\u6cb3",
+    "chunk": 7
+  },
+  {
+    "subject": "\u5b81\u664b\u6cca",
+    "predicate": "is flood storage",
+    "object": "\u5c0f\u6cb3\u53e3",
+    "chunk": 7
+  },
+  {
+    "subject": "\u4e2d\u6e38\u6d3c\u5730",
+    "predicate": "designed for flood",
+    "object": "50 \u5e74\u4e00\u9047",
+    "chunk": 7
+  },
+  {
+    "subject": "\u827e\u8f9b\u5e84\u6a61\u80f6\u575d",
+    "predicate": "located on",
+    "object": "\u6ecf\u9633\u65b0\u6cb3",
+    "chunk": 7
+  },
+  {
+    "subject": "\u4eac\u4e5d\u94c1\u8def",
+    "predicate": "crosses over",
+    "object": "\u5357\u8fd0\u6cb3",
+    "chunk": 7
+  },
+  {
+    "subject": "25.60",
+    "predicate": "measured from",
+    "object": "\u9ec4\u6d77",
+    "chunk": 7
+  },
+  {
+    "subject": "48.20",
+    "predicate": "measured from",
+    "object": "\u9ec4\u6d77",
+    "chunk": 7
+  },
+  {
+    "subject": "baigou diversion river",
+    "predicate": "diverts flood to",
+    "object": "lang gou depression",
+    "chunk": 10
+  },
+  {
+    "subject": "baigou diversion river",
+    "predicate": "located near",
+    "object": "dongwu village",
+    "chunk": 10
+  },
+  {
+    "subject": "south ju ma river",
+    "predicate": "monitored at",
+    "object": "bei he dian",
+    "chunk": 10
+  },
+  {
+    "subject": "yongding river",
+    "predicate": "flows under",
+    "object": "lugou bridge",
+    "chunk": 10
+  },
+  {
+    "subject": "yongding river",
+    "predicate": "located in",
+    "object": "beijing",
+    "chunk": 10
+  },
+  {
+    "subject": "liang gezhuang embankment",
+    "predicate": "diverts flood to",
+    "object": "xiaoqing river",
+    "chunk": 10
+  },
+  {
+    "subject": "baigou diversion river",
+    "predicate": "connected to",
+    "object": "qinglongwan diversion river",
+    "chunk": 10
+  },
+  {
+    "subject": "north canal",
+    "predicate": "monitored at",
+    "object": "tun men lou gate",
+    "chunk": 10
+  },
+  {
+    "subject": "baigou diversion river",
+    "predicate": "flows under",
+    "object": "tun menlou diversion gate",
+    "chunk": 10
+  },
+  {
+    "subject": "chaobai river",
+    "predicate": "monitored at",
+    "object": "bai miao",
+    "chunk": 10
+  },
+  {
+    "subject": "national 85 standard",
+    "predicate": "defines level for",
+    "object": "yongding river",
+    "chunk": 10
+  },
+  {
+    "subject": "huang hai sea",
+    "predicate": "reference datum for",
+    "object": "tun men lou gate",
+    "chunk": 10
+  },
+  {
+    "subject": "\u9752\u9f99\u6e7e\u51cf\u6cb3",
+    "predicate": "contains",
+    "object": "\u571f\u95e8\u697c\u5206\u6d2a\u95f8",
+    "chunk": 11
+  },
+  {
+    "subject": "\u571f\u95e8\u697c\u5206\u6d2a\u95f8",
+    "predicate": "has elevation",
+    "object": "13.60",
+    "chunk": 11
+  },
+  {
+    "subject": "\u571f\u95e8\u697c\u5206\u6d2a\u95f8",
+    "predicate": "has elevation",
+    "object": "13.80",
+    "chunk": 11
+  },
+  {
+    "subject": "\u56fd\u5bb685",
+    "predicate": "is based on",
+    "object": "\u9ec4\u6d77",
+    "chunk": 11
+  },
+  {
+    "subject": "\u72fc\u513f\u7a9d",
+    "predicate": "near",
+    "object": "\u4e24\u5824",
+    "chunk": 11
+  },
+  {
+    "subject": "\u6f6e\u767d\u6cb3",
+    "predicate": "contains",
+    "object": "\u767d\u5e99",
+    "chunk": 11
+  },
+  {
+    "subject": "\u767d\u5e99",
+    "predicate": "connected to",
+    "object": "\u5434\u6751",
+    "chunk": 11
+  },
+  {
+    "subject": "\u767d\u5e99\u81f3\u5434\u6751\u6bb5\u4e24\u5824",
+    "predicate": "located along",
+    "object": "\u6f6e\u767d\u6cb3",
+    "chunk": 11
+  },
+  {
+    "subject": "\u767d\u5e99",
+    "predicate": "has elevation",
+    "object": "20.12",
+    "chunk": 11
+  },
+  {
+    "subject": "\u767d\u5e99",
+    "predicate": "has elevation",
+    "object": "25.47",
+    "chunk": 11
+  },
+  {
+    "subject": "\u56fd\u5bb685",
+    "predicate": "reference for",
+    "object": "20.12",
+    "chunk": 11
+  },
+  {
+    "subject": "\u767d\u5e99\u81f3\u5434\u6751\u6bb5\u4e24\u5824",
+    "predicate": "measured distance",
+    "object": "2260-2600",
+    "chunk": 11
+  },
+  {
+    "subject": "\u5927\u6e05\u6cb3",
+    "predicate": "connected to",
+    "object": "\u5357\u8fd0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u4eac\u4e5d\u94c1\u8def",
+    "predicate": "crosses over",
+    "object": "\u5927\u6e05\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u5357\u8fd0\u6cb3",
+    "predicate": "has elevation",
+    "object": "25.60",
+    "inferred": true
+  },
+  {
+    "subject": "21.31",
+    "predicate": "uses benchmark",
+    "object": "\u5927\u6cbd",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6e05\u6cb3",
+    "predicate": "in same basin",
+    "object": "\u767d\u6c9f\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6e05\u6cb3",
+    "predicate": "flows towards",
+    "object": "\u5927\u6cbd",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6e05\u6cb3",
+    "predicate": "connected to",
+    "object": "baigou diversion river",
+    "inferred": true
+  },
+  {
+    "subject": "\u57dd\u9ad8\u5e84\u81f3\u7389\u6cc9\u5e84\u4e24\u5824",
+    "predicate": "diverts flood to",
+    "object": "lang gou depression",
+    "inferred": true
+  },
+  {
+    "subject": "25.60",
+    "predicate": "elevation at",
+    "object": "dongwu village",
+    "inferred": true
+  },
+  {
+    "subject": "xidayang reservoir",
+    "predicate": "connected to",
+    "object": "\u5357\u8fd0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u738b\u94fa\u81f3\u5927\u9ebb\u6e7e\u5de6\u5824",
+    "predicate": "has design standard",
+    "object": "500 years",
+    "inferred": true
+  },
+  {
+    "subject": "\u5357\u8fd0\u6cb3",
+    "predicate": "has flood limit",
+    "object": "130.0 meters",
+    "inferred": true
+  },
+  {
+    "subject": "xidayang reservoir",
+    "predicate": "shares benchmark",
+    "object": "\u738b\u6751",
+    "inferred": true
+  },
+  {
+    "subject": "hekou reservoir",
+    "predicate": "controls water for",
+    "object": "\u767d\u6c9f\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "130.0 meters",
+    "predicate": "limits flow of",
+    "object": "\u8d75\u738b\u65b0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "xidayang reservoir",
+    "predicate": "diverts to",
+    "object": "baigou diversion river",
+    "inferred": true
+  },
+  {
+    "subject": "hekou reservoir",
+    "predicate": "connected to",
+    "object": "qinglongwan diversion river",
+    "inferred": true
+  },
+  {
+    "subject": "130.0 meters",
+    "predicate": "triggers",
+    "object": "tun menlou diversion gate",
+    "inferred": true
+  },
+  {
+    "subject": "\u5357\u8fd0\u6cb3",
+    "predicate": "uses benchmark",
+    "object": "\u5927\u6cbd",
+    "inferred": true
+  },
+  {
+    "subject": "\u4eac\u4e5d\u94c1\u8def",
+    "predicate": "crosses over",
+    "object": "\u767d\u6c9f\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u738b\u94fa\u81f3\u5927\u9ebb\u6e7e\u5de6\u5824",
+    "predicate": "uses benchmark",
+    "object": "\u5927\u6cbd",
+    "inferred": true
+  },
+  {
+    "subject": "\u5357\u8fd0\u6cb3",
+    "predicate": "connected to",
+    "object": "baigou diversion river",
+    "inferred": true
+  },
+  {
+    "subject": "\u4eac\u4e5d\u94c1\u8def",
+    "predicate": "crosses over",
+    "object": "baigou diversion river",
+    "inferred": true
+  },
+  {
+    "subject": "\u56db\u5973\u5bfa\u81f3\u6377\u5730\u4e24\u5824",
+    "predicate": "located near",
+    "object": "dongwu village",
+    "inferred": true
+  },
+  {
+    "subject": "\u767d\u6c9f\u6cb3",
+    "predicate": "flows into",
+    "object": "baigou diversion river",
+    "inferred": true
+  },
+  {
+    "subject": "\u4e1c\u8328\u6751",
+    "predicate": "located near",
+    "object": "dongwu village",
+    "inferred": true
+  },
+  {
+    "subject": "\u5927\u6cbd",
+    "predicate": "benchmark for",
+    "object": "dongwu village",
+    "inferred": true
+  },
+  {
+    "subject": "\u767d\u5e99\u81f3\u5434\u6751\u6bb5\u4e24\u5824",
+    "predicate": "starts at",
+    "object": "\u767d\u5e99",
+    "inferred": true
+  },
+  {
+    "subject": "\u767d\u5e99\u81f3\u5434\u6751\u6bb5\u4e24\u5824",
+    "predicate": "ends at",
+    "object": "\u5434\u6751",
+    "inferred": true
+  },
+  {
+    "subject": "\u767d\u5e99",
+    "predicate": "connected to",
+    "object": "\u767d\u5e99\u81f3\u5434\u6751\u6bb5\u4e24\u5824",
+    "inferred": true
+  },
+  {
+    "subject": "\u5434\u6751",
+    "predicate": "connected to",
+    "object": "\u767d\u5e99\u81f3\u5434\u6751\u6bb5\u4e24\u5824",
+    "inferred": true
+  },
+  {
+    "subject": "\u4e3b\u8981\u884c\u6d2a\u6cb3\u9053\u9632\u6d2a\u4fdd\u8bc1\u6807\u51c6\u8868",
+    "predicate": "contains data",
+    "object": "\u6f33\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u8521\u5c0f\u5e84",
+    "predicate": "uses datum via",
+    "object": "20.12",
+    "inferred": true
+  },
+  {
+    "subject": "\u738b\u8425\u76d8",
+    "predicate": "is located",
+    "object": "\u9ec4\u6d77",
+    "inferred": true
+  },
+  {
+    "subject": "\u57dd\u9ad8\u5e84\u81f3\u7389\u6cc9\u5e84\u4e24\u5824",
+    "predicate": "part of via",
+    "object": "\u9ec4\u6d77",
+    "inferred": true
+  },
+  {
+    "subject": "\u5434\u6865\u5c0f\u5929\u7f61\u5f15\u6c34\u95f8\u4ee5\u4e0b\u81f3\u5c94\u6cb3\u6c47\u6d41\u5904\u5de6\u5824",
+    "predicate": "part of via",
+    "object": "\u9ec4\u6d77",
+    "inferred": true
+  },
+  {
+    "subject": "\u83b2\u82b1\u53e3\u8282\u5236\u95f8",
+    "predicate": "located on via",
+    "object": "\u6ecf\u9633\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u827e\u8f9b\u5e84\u8282\u5236\u95f8",
+    "predicate": "located on via",
+    "object": "\u6ecf\u9633\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "national 85 standard",
+    "predicate": "defines level",
+    "object": "lugou bridge",
+    "inferred": true
+  },
+  {
+    "subject": "national 85 standard",
+    "predicate": "defines level",
+    "object": "beijing",
+    "inferred": true
+  },
+  {
+    "subject": "\u9752\u9f99\u6e7e\u51cf\u6cb3",
+    "predicate": "contains via \u571f\u95e8\u697c\u5206\u6d2a\u95f8",
+    "object": "13.80",
+    "inferred": true
+  },
+  {
+    "subject": "\u9752\u9f99\u6e7e\u51cf\u6cb3",
+    "predicate": "contains via \u571f\u95e8\u697c\u5206\u6d2a\u95f8",
+    "object": "13.60",
+    "inferred": true
+  },
+  {
+    "subject": "\u6f6e\u767d\u6cb3",
+    "predicate": "contains via \u767d\u5e99",
+    "object": "\u5434\u6751",
+    "inferred": true
+  },
+  {
+    "subject": "\u6f6e\u767d\u6cb3",
+    "predicate": "contains via \u767d\u5e99",
+    "object": "25.47",
+    "inferred": true
+  },
+  {
+    "subject": "\u6f6e\u767d\u6cb3",
+    "predicate": "contains via \u767d\u5e99",
+    "object": "20.12",
+    "inferred": true
+  },
+  {
+    "subject": "\u767d\u5e99\u81f3\u5434\u6751\u6bb5\u4e24\u5824",
+    "predicate": "located along via",
+    "object": "\u767d\u5e99",
+    "inferred": true
+  },
+  {
+    "subject": "500 years",
+    "predicate": "related to",
+    "object": "10000 years",
+    "inferred": true
+  },
+  {
+    "subject": "500 years",
+    "predicate": "related to",
+    "object": "100 years",
+    "inferred": true
+  },
+  {
+    "subject": "qinglongwan diversion river",
+    "predicate": "related to",
+    "object": "daqing river system",
+    "inferred": true
+  },
+  {
+    "subject": "qinglongwan diversion river",
+    "predicate": "related to",
+    "object": "tun menlou diversion gate",
+    "inferred": true
+  },
+  {
+    "subject": "qinglongwan diversion river",
+    "predicate": "related to",
+    "object": "chaobai river",
+    "inferred": true
+  },
+  {
+    "subject": "qinglongwan diversion river",
+    "predicate": "related to",
+    "object": "xiaoqing river",
+    "inferred": true
+  },
+  {
+    "subject": "qinglongwan diversion river",
+    "predicate": "related to",
+    "object": "south ju ma river",
+    "inferred": true
+  },
+  {
+    "subject": "qinglongwan diversion river",
+    "predicate": "related to",
+    "object": "yongding river",
+    "inferred": true
+  },
+  {
+    "subject": "\u767d\u5e99\u81f3\u5434\u6751\u6bb5\u4e24\u5824",
+    "predicate": "is type of",
+    "object": "\u5434\u6751",
+    "inferred": true
+  },
+  {
+    "subject": "\u767d\u5e99\u81f3\u5434\u6751\u6bb5\u4e24\u5824",
+    "predicate": "is type of",
+    "object": "\u4e24\u5824",
+    "inferred": true
+  },
+  {
+    "subject": "\u767d\u5e99\u81f3\u5434\u6751\u6bb5\u4e24\u5824",
+    "predicate": "is type of",
+    "object": "\u767d\u5e99",
+    "inferred": true
+  },
+  {
+    "subject": "\u5357\u8fd0\u6cb3\u6ca7\u5dde\u5e02\u533a\u6bb5",
+    "predicate": "is type of",
+    "object": "\u5357\u8fd0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "\u6f33\u536b\u5357\u8fd0\u6cb3",
+    "predicate": "is type of",
+    "object": "\u5357\u8fd0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "longmen reservoir",
+    "predicate": "related to",
+    "object": "wangkuai reservoir",
+    "inferred": true
+  },
+  {
+    "subject": "longmen reservoir",
+    "predicate": "related to",
+    "object": "hengshanling reservoir",
+    "inferred": true
+  },
+  {
+    "subject": "longmen reservoir",
+    "predicate": "related to",
+    "object": "hekou reservoir",
+    "inferred": true
+  },
+  {
+    "subject": "longmen reservoir",
+    "predicate": "related to",
+    "object": "xidayang reservoir",
+    "inferred": true
+  },
+  {
+    "subject": "longmen reservoir",
+    "predicate": "related to",
+    "object": "angezhuang reservoir",
+    "inferred": true
+  },
+  {
+    "subject": "tun men lou gate",
+    "predicate": "related to",
+    "object": "tun menlou diversion gate",
+    "inferred": true
+  },
+  {
+    "subject": "10000 years",
+    "predicate": "related to",
+    "object": "100 years",
+    "inferred": true
+  },
+  {
+    "subject": "daqing river system",
+    "predicate": "related to",
+    "object": "chaobai river",
+    "inferred": true
+  },
+  {
+    "subject": "daqing river system",
+    "predicate": "related to",
+    "object": "baigou diversion river",
+    "inferred": true
+  },
+  {
+    "subject": "daqing river system",
+    "predicate": "related to",
+    "object": "xiaoqing river",
+    "inferred": true
+  },
+  {
+    "subject": "daqing river system",
+    "predicate": "related to",
+    "object": "south ju ma river",
+    "inferred": true
+  },
+  {
+    "subject": "daqing river system",
+    "predicate": "related to",
+    "object": "yongding river",
+    "inferred": true
+  },
+  {
+    "subject": "wangkuai reservoir",
+    "predicate": "related to",
+    "object": "hengshanling reservoir",
+    "inferred": true
+  },
+  {
+    "subject": "wangkuai reservoir",
+    "predicate": "related to",
+    "object": "hekou reservoir",
+    "inferred": true
+  },
+  {
+    "subject": "wangkuai reservoir",
+    "predicate": "related to",
+    "object": "xidayang reservoir",
+    "inferred": true
+  },
+  {
+    "subject": "wangkuai reservoir",
+    "predicate": "related to",
+    "object": "angezhuang reservoir",
+    "inferred": true
+  },
+  {
+    "subject": "hengshanling reservoir",
+    "predicate": "related to",
+    "object": "hekou reservoir",
+    "inferred": true
+  },
+  {
+    "subject": "hengshanling reservoir",
+    "predicate": "related to",
+    "object": "xidayang reservoir",
+    "inferred": true
+  },
+  {
+    "subject": "hengshanling reservoir",
+    "predicate": "related to",
+    "object": "angezhuang reservoir",
+    "inferred": true
+  },
+  {
+    "subject": "chaobai river",
+    "predicate": "related to",
+    "object": "baigou diversion river",
+    "inferred": true
+  },
+  {
+    "subject": "chaobai river",
+    "predicate": "related to",
+    "object": "xiaoqing river",
+    "inferred": true
+  },
+  {
+    "subject": "chaobai river",
+    "predicate": "related to",
+    "object": "south ju ma river",
+    "inferred": true
+  },
+  {
+    "subject": "chaobai river",
+    "predicate": "related to",
+    "object": "yongding river",
+    "inferred": true
+  },
+  {
+    "subject": "national 85 elevation",
+    "predicate": "related to",
+    "object": "national 85 standard",
+    "inferred": true
+  },
+  {
+    "subject": "national 85 elevation",
+    "predicate": "related to",
+    "object": "habitual elevation",
+    "inferred": true
+  },
+  {
+    "subject": "\u83b2\u82b1\u53e3\u81f3\u827e\u8f9b\u5e84\u67a2\u7ebd\u4e24\u5824",
+    "predicate": "is type of",
+    "object": "\u4e24\u5824",
+    "inferred": true
+  },
+  {
+    "subject": "\u56db\u5973\u5bfa\u81f3\u6377\u5730\u4e24\u5824",
+    "predicate": "is type of",
+    "object": "\u4e24\u5824",
+    "inferred": true
+  },
+  {
+    "subject": "\u6377\u5730\u81f3\u4e5d\u5ba3\u95f8\u4e24\u5824",
+    "predicate": "is type of",
+    "object": "\u4e24\u5824",
+    "inferred": true
+  },
+  {
+    "subject": "\u57dd\u9ad8\u5e84\u81f3\u7389\u6cc9\u5e84\u4e24\u5824",
+    "predicate": "is type of",
+    "object": "\u4e24\u5824",
+    "inferred": true
+  },
+  {
+    "subject": "dagou benchmark",
+    "predicate": "related to",
+    "object": "huanghai benchmark",
+    "inferred": true
+  },
+  {
+    "subject": "\u6f33\u536b\u65b0\u6cb3\uff08\u51cf\u6cb3\uff09",
+    "predicate": "is type of",
+    "object": "\u6f33\u536b\u65b0\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "baigou diversion river",
+    "predicate": "related to",
+    "object": "xiaoqing river",
+    "inferred": true
+  },
+  {
+    "subject": "baigou diversion river",
+    "predicate": "related to",
+    "object": "south ju ma river",
+    "inferred": true
+  },
+  {
+    "subject": "baigou diversion river",
+    "predicate": "related to",
+    "object": "yongding river",
+    "inferred": true
+  },
+  {
+    "subject": "hekou reservoir",
+    "predicate": "related to",
+    "object": "xidayang reservoir",
+    "inferred": true
+  },
+  {
+    "subject": "hekou reservoir",
+    "predicate": "related to",
+    "object": "angezhuang reservoir",
+    "inferred": true
+  },
+  {
+    "subject": "xidayang reservoir",
+    "predicate": "related to",
+    "object": "angezhuang reservoir",
+    "inferred": true
+  },
+  {
+    "subject": "2020 \u5e74\u5927\u6e05\u6cb3\u6d2a\u6c34\u8c03\u5ea6\u65b9\u6848",
+    "predicate": "is type of",
+    "object": "\u5927\u6e05\u6cb3",
+    "inferred": true
+  },
+  {
+    "subject": "xiaoqing river",
+    "predicate": "related to",
+    "object": "south ju ma river",
+    "inferred": true
+  },
+  {
+    "subject": "xiaoqing river",
+    "predicate": "related to",
+    "object": "yongding river",
+    "inferred": true
+  },
+  {
+    "subject": "south ju ma river",
+    "predicate": "related to",
+    "object": "yongding river",
+    "inferred": true
+  }
+]

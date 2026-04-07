@@ -1,0 +1,1247 @@
+﻿:START_ID,:END_ID,:TYPE,relation
+135,35,长,长
+135,122,是,是
+135,176,是,是
+182,83,由,由
+182,55,由,由
+182,240,由,由
+182,252,由,由
+182,81,设计泄量,设计泄量
+182,34,设计泄量,设计泄量
+182,78,设计泄量,设计泄量
+182,60,总设计泄洪能力,总设计泄洪能力
+182,127,由,由
+182,199,由,由
+182,219,由,由
+182,236,由,由
+182,86,总泄洪量,总泄洪量
+182,9,分洪闸泄洪量,分洪闸泄洪量
+182,76,溢流堰泄洪量,溢流堰泄洪量
+214,169,为,为
+214,173,闸型,闸型
+214,101,设计闸上水位,设计闸上水位
+214,22,相应流量,相应流量
+222,114,北界,北界
+222,135,南界,南界
+222,113,现状启用标准,现状启用标准
+222,87,设计运用标准,设计运用标准
+222,89,设计滞洪水位,设计滞洪水位
+222,18,相应滞洪量,相应滞洪量
+222,74,总面积,总面积
+222,57,我省境内面积,我省境内面积
+179,160,承接,承接
+179,239,西接,西接
+179,135,北靠,北靠
+179,164,东倚,东倚
+179,195,南以,南以
+179,41,现状启用标准,现状启用标准
+179,87,设计运用标准,设计运用标准
+179,185,设计滞洪水位,设计滞洪水位
+179,73,相应滞洪量,相应滞洪量
+179,28,总面积,总面积
+179,26,我省境内面积,我省境内面积
+251,164,位于,位于
+251,185,设计滞洪水位,设计滞洪水位
+251,73,相应滞洪量,相应滞洪量
+251,28,总面积,总面积
+251,26,我省境内面积,我省境内面积
+222,185,设计滞洪水位,设计滞洪水位
+222,73,相应滞洪量,相应滞洪量
+222,28,总面积,总面积
+222,26,我省境内面积,我省境内面积
+159,79,1%设计值,1%设计值
+159,75,2%设计值,2%设计值
+159,52,5%设计值,5%设计值
+159,29,10%设计值,10%设计值
+159,3,20%设计值,20%设计值
+159,84,50%设计值,50%设计值
+159,66,100%设计值,100%设计值
+159,66,设计洪水总量,设计洪水总量
+222,197,由,由
+222,153,报,报
+222,231,由,由
+222,172,由,由
+125,197,由,由
+125,153,报,报
+222,259,由,由
+222,227,经,经
+222,226,报,报
+123,249,由,由
+123,110,报,报
+209,249,由,由
+159,228,由,由
+159,230,报,报
+159,153,由,由
+214,188,由,由
+214,187,由,由
+214,153,报,报
+214,249,由,由
+135,192,由,由
+135,187,由,由
+135,153,报,报
+135,191,由,由
+182,225,由,由
+182,187,报,报
+182,224,由,由
+124,171,由,由
+124,112,报,报
+260,249,由,由
+260,194,由,由
+260,187,报,报
+256,229,由,由
+235,185,达到,达到
+115,47,达到,达到
+115,48,达到,达到
+134,96,达到,达到
+134,105,达到,达到
+214,97,达到,达到
+214,99,达到,达到
+263,200,位于,位于
+200,241,流经,流经
+263,203,位于,位于
+203,129,流经,流经
+263,164,位于,位于
+164,212,流经,流经
+164,233,流经,流经
+263,159,位于,位于
+159,200,流经,流经
+200,133,流经,流经
+263,222,位于,位于
+222,134,流经,流经
+158,253,位于,位于
+253,214,流经,流经
+222,235,流经,流经
+158,220,位于,位于
+220,115,流经,流经
+263,138,位于,位于
+138,131,流经,流经
+263,189,位于,位于
+189,152,流经,流经
+263,128,位于,位于
+128,132,流经,流经
+132,157,流经,流经
+263,261,位于,位于
+261,156,流经,流经
+263,207,位于,位于
+207,144,流经,流经
+263,190,位于,位于
+190,107,流经,流经
+263,174,位于,位于
+174,162,流经,流经
+263,255,位于,位于
+255,166,流经,流经
+263,247,位于,位于
+247,167,流经,流经
+158,202,位于,位于
+202,238,流经,流经
+154,193,调度,调度
+204,206,包含,包含
+206,248,位于,位于
+204,142,包含,包含
+142,121,位于,位于
+142,264,位于,位于
+142,175,位于,位于
+143,140,包含,包含
+143,117,位于,位于
+205,146,位于,位于
+205,250,位于,位于
+205,216,位于,位于
+153,262,作为,作为
+140,80,水位为,水位为
+140,263,位于,位于
+117,263,位于,位于
+150,62,水位为,水位为
+150,153,位于,位于
+205,146,流经,流经
+146,47,水位为,水位为
+146,153,位于,位于
+205,250,流经,流经
+250,50,水位为,水位为
+250,153,位于,位于
+145,205,属于,属于
+216,205,位于,位于
+216,44,水位为,水位为
+161,139,属于,属于
+149,51,水位为,水位为
+149,139,位于,位于
+148,139,属于,属于
+178,18,水位为,水位为
+178,263,位于,位于
+177,139,属于,属于
+147,139,位于,位于
+147,2,水位为,水位为
+164,201,连接,连接
+245,82,水位为,水位为
+245,263,位于,位于
+244,125,用于,用于
+243,56,水位为,水位为
+243,263,位于,位于
+243,27,控制流量为,控制流量为
+165,167,位于,位于
+116,87,按标准运用,按标准运用
+116,64,滞洪水位为,滞洪水位为
+200,243,流经,流经
+243,71,水位为,水位为
+242,118,流经,流经
+118,53,水位为,水位为
+118,263,位于,位于
+212,33,水位为,水位为
+212,263,位于,位于
+129,77,水位为,水位为
+129,263,位于,位于
+125,78,下泄流量为,下泄流量为
+125,103,下泄流量为,下泄流量为
+125,72,下泄流量为,下泄流量为
+163,48,水位为,水位为
+163,263,位于,位于
+212,30,水位为,水位为
+213,164,属于,属于
+212,32,水命为,水命为
+212,109,流经,流经
+234,10,水位为,水位为
+234,263,位于,位于
+234,196,流经,流经
+196,90,水位为,水位为
+196,263,位于,位于
+159,196,流经,流经
+125,78,下泄,下泄
+125,103,下泄,下泄
+125,72,下泄,下泄
+48,263,位于,位于
+45,263,位于,位于
+39,263,位于,位于
+42,263,位于,位于
+69,120,位于,位于
+212,30,位于,位于
+30,263,位于,位于
+24,263,位于,位于
+25,263,位于,位于
+68,213,位于,位于
+212,32,位于,位于
+32,263,位于,位于
+31,263,位于,位于
+85,212,位于,位于
+108,106,不小于,不小于
+183,186,分泄,分泄
+164,185,漫滩行洪,漫滩行洪
+237,185,控制泄量,控制泄量
+234,10,位于,位于
+10,263,位于,位于
+14,263,位于,位于
+5,263,位于,位于
+6,263,位于,位于
+85,234,位于,位于
+196,90,位于,位于
+90,263,位于,位于
+91,263,位于,位于
+85,159,位于,位于
+208,133,流经,流经
+133,70,位于,位于
+70,153,位于,位于
+67,153,位于,位于
+61,153,位于,位于
+65,153,位于,位于
+158,69,位于,位于
+210,258,位于,位于
+257,43,位于,位于
+43,153,位于,位于
+38,153,位于,位于
+36,153,位于,位于
+43,158,位于,位于
+102,126,位于,位于
+125,36,上涨超过,上涨超过
+246,125,发生于,发生于
+222,134,位于,位于
+134,17,位于,位于
+17,158,位于,位于
+104,158,位于,位于
+4,158,位于,位于
+136,222,位于,位于
+254,198,首先扒开,首先扒开
+254,151,依次扒开,依次扒开
+254,180,依次扒开,依次扒开
+232,137,确保,确保
+253,182,流经,流经
+182,7,位于,位于
+7,153,位于,位于
+100,153,位于,位于
+40,159,位于,位于
+214,6,位于,位于
+6,153,位于,位于
+1,153,位于,位于
+40,215,位于,位于
+222,235,位于,位于
+235,158,位于,位于
+88,158,位于,位于
+98,158,位于,位于
+119,222,位于,位于
+115,63,位于,位于
+63,153,位于,位于
+59,153,位于,位于
+58,153,位于,位于
+40,221,位于,位于
+125,222,发生于,发生于
+189,141,流经,流经
+189,168,汇入,汇入
+189,95,水位为,水位为
+189,94,水位为,水位为
+130,92,水位为,水位为
+130,93,水位为,水位为
+189,54,长度为,长度为
+184,189,确保,确保
+189,152,威胁,威胁
+128,157,流经,流经
+128,19,水位为,水位为
+128,23,水位为,水位为
+153,15,水位为,水位为
+153,16,水位为,水位为
+263,8,水位为,水位为
+155,12,长度为,长度为
+261,20,水位为,水位为
+261,21,水位为,水位为
+153,11,水位为,水位为
+153,13,水位为,水位为
+263,12,水位为,水位为
+211,12,长度为,长度为
+207,217,流经,流经
+207,37,水位为,水位为
+207,49,水位为,水位为
+153,37,水位为,水位为
+218,46,长度为,长度为
+237,147,控制水位,控制水位
+252,182,组成,组成
+252,182,构成,构成
+159,75,设计值,设计值
+117,143,位于,位于
+204,139,位于,位于
+149,204,位于,位于
+161,204,位于,位于
+254,2,关联,关联
+254,151,触发,触发
+204,151,连接,连接
+204,180,管理,管理
+254,204,维护,维护
+204,111,报备于,报备于
+248,170,管辖于,管辖于
+264,111,管辖于,管辖于
+252,199,属于,属于
+159,160,分泄,分泄
+223,159,管理,管理
+236,159,位于,位于
+99,98,等于,等于
+135,181,并列,并列
+234,233,位于,位于
+89,88,等于,等于
+243,241,位于,位于
+135,37,报_VIA_国家防总决定,报 via 国家防总决定
+135,13,报_VIA_国家防总决定,报 via 国家防总决定
+135,11,报_VIA_国家防总决定,报 via 国家防总决定
+135,15,报_VIA_国家防总决定,报 via 国家防总决定
+135,16,报_VIA_国家防总决定,报 via 国家防总决定
+135,262,报_VIA_国家防总决定,报 via 国家防总决定
+182,153,INDIRECTLY_位于,indirectly 位于
+214,37,报_VIA_国家防总决定,报 via 国家防总决定
+214,13,报_VIA_国家防总决定,报 via 国家防总决定
+214,11,报_VIA_国家防总决定,报 via 国家防总决定
+214,15,报_VIA_国家防总决定,报 via 国家防总决定
+214,16,报_VIA_国家防总决定,报 via 国家防总决定
+214,262,报_VIA_国家防总决定,报 via 国家防总决定
+214,263,INDIRECTLY_位于,indirectly 位于
+222,105,位于_VIA_十方院,位于 via 十方院
+222,17,INDIRECTLY_位于,indirectly 位于
+222,96,位于_VIA_十方院,位于 via 十方院
+222,158,INDIRECTLY_位于,indirectly 位于
+222,122,南界_VIA_千里堤,南界 via 千里堤
+222,191,南界_VIA_千里堤,南界 via 千里堤
+222,176,南界_VIA_千里堤,南界 via 千里堤
+222,192,南界_VIA_千里堤,南界 via 千里堤
+222,187,南界_VIA_千里堤,南界 via 千里堤
+222,35,南界_VIA_千里堤,南界 via 千里堤
+222,37,报_VIA_国家防总决定,报 via 国家防总决定
+222,13,报_VIA_国家防总决定,报 via 国家防总决定
+222,11,报_VIA_国家防总决定,报 via 国家防总决定
+222,15,报_VIA_国家防总决定,报 via 国家防总决定
+222,16,报_VIA_国家防总决定,报 via 国家防总决定
+222,262,报_VIA_国家防总决定,报 via 国家防总决定
+179,212,东倚_VIA_子牙河,东倚 via 子牙河
+179,233,东倚_VIA_子牙河,东倚 via 子牙河
+179,201,东倚_VIA_子牙河,东倚 via 子牙河
+179,153,北靠_VIA_千里堤,北靠 via 千里堤
+179,122,北靠_VIA_千里堤,北靠 via 千里堤
+179,191,北靠_VIA_千里堤,北靠 via 千里堤
+179,176,北靠_VIA_千里堤,北靠 via 千里堤
+179,192,北靠_VIA_千里堤,北靠 via 千里堤
+179,187,北靠_VIA_千里堤,北靠 via 千里堤
+179,35,北靠_VIA_千里堤,北靠 via 千里堤
+251,212,位于_VIA_子牙河,位于 via 子牙河
+251,233,位于_VIA_子牙河,位于 via 子牙河
+251,201,位于_VIA_子牙河,位于 via 子牙河
+159,37,由_VIA_国家防总决定,由 via 国家防总决定
+159,13,由_VIA_国家防总决定,由 via 国家防总决定
+159,11,由_VIA_国家防总决定,由 via 国家防总决定
+159,15,由_VIA_国家防总决定,由 via 国家防总决定
+159,16,由_VIA_国家防总决定,由 via 国家防总决定
+159,262,由_VIA_国家防总决定,由 via 国家防总决定
+159,90,流经_VIA_海口挡潮闸上,流经 via 海口挡潮闸上
+159,263,流经_VIA_海口挡潮闸上,流经 via 海口挡潮闸上
+159,243,INDIRECTLY_流经,indirectly 流经
+159,133,INDIRECTLY_流经,indirectly 流经
+159,241,INDIRECTLY_流经,indirectly 流经
+125,134,发生于_VIA_白洋淀,发生于 via 白洋淀
+125,73,发生于_VIA_白洋淀,发生于 via 白洋淀
+125,26,发生于_VIA_白洋淀,发生于 via 白洋淀
+125,57,发生于_VIA_白洋淀,发生于 via 白洋淀
+125,114,发生于_VIA_白洋淀,发生于 via 白洋淀
+125,235,发生于_VIA_白洋淀,发生于 via 白洋淀
+125,172,发生于_VIA_白洋淀,发生于 via 白洋淀
+125,226,发生于_VIA_白洋淀,发生于 via 白洋淀
+125,135,发生于_VIA_白洋淀,发生于 via 白洋淀
+125,231,发生于_VIA_白洋淀,发生于 via 白洋淀
+125,18,发生于_VIA_白洋淀,发生于 via 白洋淀
+125,28,发生于_VIA_白洋淀,发生于 via 白洋淀
+125,87,发生于_VIA_白洋淀,发生于 via 白洋淀
+125,89,发生于_VIA_白洋淀,发生于 via 白洋淀
+125,227,发生于_VIA_白洋淀,发生于 via 白洋淀
+125,185,发生于_VIA_白洋淀,发生于 via 白洋淀
+125,74,发生于_VIA_白洋淀,发生于 via 白洋淀
+125,113,发生于_VIA_白洋淀,发生于 via 白洋淀
+125,259,发生于_VIA_白洋淀,发生于 via 白洋淀
+125,37,报_VIA_国家防总决定,报 via 国家防总决定
+125,13,报_VIA_国家防总决定,报 via 国家防总决定
+125,11,报_VIA_国家防总决定,报 via 国家防总决定
+125,15,报_VIA_国家防总决定,报 via 国家防总决定
+125,16,报_VIA_国家防总决定,报 via 国家防总决定
+125,262,报_VIA_国家防总决定,报 via 国家防总决定
+235,202,INDIRECTLY_位于,indirectly 位于
+235,253,INDIRECTLY_位于,indirectly 位于
+235,220,INDIRECTLY_位于,indirectly 位于
+235,69,INDIRECTLY_位于,indirectly 位于
+115,153,INDIRECTLY_位于,indirectly 位于
+115,263,达到_VIA_24_10,达到 via 24.10
+134,158,INDIRECTLY_位于,indirectly 位于
+263,134,INDIRECTLY_位于,indirectly 位于
+263,73,位于_VIA_白洋淀,位于 via 白洋淀
+263,26,位于_VIA_白洋淀,位于 via 白洋淀
+263,57,位于_VIA_白洋淀,位于 via 白洋淀
+263,114,位于_VIA_白洋淀,位于 via 白洋淀
+263,235,INDIRECTLY_位于,indirectly 位于
+263,172,位于_VIA_白洋淀,位于 via 白洋淀
+263,197,位于_VIA_白洋淀,位于 via 白洋淀
+263,226,位于_VIA_白洋淀,位于 via 白洋淀
+263,135,位于_VIA_白洋淀,位于 via 白洋淀
+263,231,位于_VIA_白洋淀,位于 via 白洋淀
+263,18,位于_VIA_白洋淀,位于 via 白洋淀
+263,28,位于_VIA_白洋淀,位于 via 白洋淀
+263,87,位于_VIA_白洋淀,位于 via 白洋淀
+263,89,位于_VIA_白洋淀,位于 via 白洋淀
+263,227,位于_VIA_白洋淀,位于 via 白洋淀
+263,185,位于_VIA_白洋淀,位于 via 白洋淀
+263,74,位于_VIA_白洋淀,位于 via 白洋淀
+263,153,位于_VIA_白洋淀,位于 via 白洋淀
+263,113,位于_VIA_白洋淀,位于 via 白洋淀
+263,259,位于_VIA_白洋淀,位于 via 白洋淀
+263,152,位于_VIA_永定河,位于 via 永定河
+263,95,位于_VIA_永定河,位于 via 永定河
+263,54,位于_VIA_永定河,位于 via 永定河
+263,141,位于_VIA_永定河,位于 via 永定河
+263,94,位于_VIA_永定河,位于 via 永定河
+263,168,位于_VIA_永定河,位于 via 永定河
+263,23,位于_VIA_北三河,位于 via 北三河
+263,132,位于_VIA_北三河,位于 via 北三河
+263,19,位于_VIA_北三河,位于 via 北三河
+263,157,位于_VIA_北三河,位于 via 北三河
+263,167,位于_VIA_蓟运河,位于 via 蓟运河
+263,129,位于_VIA_滹沱河,位于 via 滹沱河
+263,75,位于_VIA_大清河,位于 via 大清河
+263,29,位于_VIA_大清河,位于 via 大清河
+263,66,位于_VIA_大清河,位于 via 大清河
+263,153,位于_VIA_大清河,位于 via 大清河
+263,230,位于_VIA_大清河,位于 via 大清河
+263,79,位于_VIA_大清河,位于 via 大清河
+263,3,位于_VIA_大清河,位于 via 大清河
+263,228,位于_VIA_大清河,位于 via 大清河
+263,84,位于_VIA_大清河,位于 via 大清河
+263,196,位于_VIA_大清河,位于 via 大清河
+263,52,位于_VIA_大清河,位于 via 大清河
+263,212,位于_VIA_子牙河,位于 via 子牙河
+263,185,位于_VIA_子牙河,位于 via 子牙河
+263,233,位于_VIA_子牙河,位于 via 子牙河
+263,201,位于_VIA_子牙河,位于 via 子牙河
+263,162,位于_VIA_引沟入潮,位于 via 引沟入潮
+263,107,位于_VIA_沟河,位于 via 沟河
+263,21,位于_VIA_青龙湾减河,位于 via 青龙湾减河
+263,156,位于_VIA_青龙湾减河,位于 via 青龙湾减河
+263,20,位于_VIA_青龙湾减河,位于 via 青龙湾减河
+263,131,位于_VIA_南拒马河,位于 via 南拒马河
+263,166,位于_VIA_还乡河,位于 via 还乡河
+263,217,位于_VIA_潮白河,位于 via 潮白河
+263,144,位于_VIA_潮白河,位于 via 潮白河
+263,37,位于_VIA_潮白河,位于 via 潮白河
+263,49,位于_VIA_潮白河,位于 via 潮白河
+263,243,位于_VIA_滏阳新河,位于 via 滏阳新河
+263,133,位于_VIA_滏阳新河,位于 via 滏阳新河
+263,241,位于_VIA_滏阳新河,位于 via 滏阳新河
+200,56,流经_VIA_艾辛庄节制闸,流经 via 艾辛庄节制闸
+200,263,流经_VIA_艾辛庄节制闸,流经 via 艾辛庄节制闸
+200,71,流经_VIA_艾辛庄节制闸,流经 via 艾辛庄节制闸
+200,27,流经_VIA_艾辛庄节制闸,流经 via 艾辛庄节制闸
+200,70,流经_VIA_北郭村,流经 via 北郭村
+203,263,流经_VIA_北中山,流经 via 北中山
+203,77,流经_VIA_北中山,流经 via 北中山
+164,263,流经_VIA_献县枢纽闸上,流经 via 献县枢纽闸上
+164,33,流经_VIA_献县枢纽闸上,流经 via 献县枢纽闸上
+164,32,流经_VIA_献县枢纽闸上,流经 via 献县枢纽闸上
+164,109,INDIRECTLY_流经,indirectly 流经
+164,30,流经_VIA_献县枢纽闸上,流经 via 献县枢纽闸上
+158,238,位于_VIA_滦河,位于 via 滦河
+158,214,位于_VIA_赵王新河,位于 via 赵王新河
+158,182,位于_VIA_赵王新河,位于 via 赵王新河
+158,115,位于_VIA_白沟河,位于 via 白沟河
+158,120,INDIRECTLY_位于,indirectly 位于
+253,173,流经_VIA_王村分洪闸,流经 via 王村分洪闸
+253,101,流经_VIA_王村分洪闸,流经 via 王村分洪闸
+253,22,流经_VIA_王村分洪闸,流经 via 王村分洪闸
+253,188,流经_VIA_王村分洪闸,流经 via 王村分洪闸
+253,153,流经_VIA_王村分洪闸,流经 via 王村分洪闸
+253,97,流经_VIA_王村分洪闸,流经 via 王村分洪闸
+253,6,流经_VIA_王村分洪闸,流经 via 王村分洪闸
+253,99,流经_VIA_王村分洪闸,流经 via 王村分洪闸
+253,249,流经_VIA_王村分洪闸,流经 via 王村分洪闸
+253,187,流经_VIA_王村分洪闸,流经 via 王村分洪闸
+253,169,流经_VIA_王村分洪闸,流经 via 王村分洪闸
+253,252,流经_VIA_新盖房枢纽,流经 via 新盖房枢纽
+253,240,流经_VIA_新盖房枢纽,流经 via 新盖房枢纽
+253,83,流经_VIA_新盖房枢纽,流经 via 新盖房枢纽
+253,9,流经_VIA_新盖房枢纽,流经 via 新盖房枢纽
+253,78,流经_VIA_新盖房枢纽,流经 via 新盖房枢纽
+253,7,流经_VIA_新盖房枢纽,流经 via 新盖房枢纽
+253,81,流经_VIA_新盖房枢纽,流经 via 新盖房枢纽
+253,127,流经_VIA_新盖房枢纽,流经 via 新盖房枢纽
+253,225,流经_VIA_新盖房枢纽,流经 via 新盖房枢纽
+253,236,流经_VIA_新盖房枢纽,流经 via 新盖房枢纽
+253,76,流经_VIA_新盖房枢纽,流经 via 新盖房枢纽
+253,219,流经_VIA_新盖房枢纽,流经 via 新盖房枢纽
+253,60,流经_VIA_新盖房枢纽,流经 via 新盖房枢纽
+253,224,流经_VIA_新盖房枢纽,流经 via 新盖房枢纽
+253,187,流经_VIA_新盖房枢纽,流经 via 新盖房枢纽
+253,55,流经_VIA_新盖房枢纽,流经 via 新盖房枢纽
+253,199,流经_VIA_新盖房枢纽,流经 via 新盖房枢纽
+253,34,流经_VIA_新盖房枢纽,流经 via 新盖房枢纽
+253,86,流经_VIA_新盖房枢纽,流经 via 新盖房枢纽
+220,63,流经_VIA_东茨村,流经 via 东茨村
+220,48,流经_VIA_东茨村,流经 via 东茨村
+220,47,流经_VIA_东茨村,流经 via 东茨村
+204,248,包含_VIA_漳河,包含 via 漳河
+204,264,包含_VIA_卫河,包含 via 卫河
+204,121,包含_VIA_卫河,包含 via 卫河
+204,175,包含_VIA_卫河,包含 via 卫河
+143,263,INDIRECTLY_位于,indirectly 位于
+143,80,包含_VIA_南陶,包含 via 南陶
+143,263,包含_VIA_南陶,包含 via 南陶
+205,153,流经_VIA_袁桥闸,流经 via 袁桥闸
+205,50,流经_VIA_袁桥闸,流经 via 袁桥闸
+205,44,位于_VIA_王营盘,位于 via 王营盘
+205,153,流经_VIA_吴桥闸,流经 via 吴桥闸
+205,47,流经_VIA_吴桥闸,流经 via 吴桥闸
+140,12,位于_VIA_黄海,位于 via 黄海
+140,222,INDIRECTLY_位于,indirectly 位于
+140,189,INDIRECTLY_位于,indirectly 位于
+140,128,INDIRECTLY_位于,indirectly 位于
+140,247,INDIRECTLY_位于,indirectly 位于
+140,203,INDIRECTLY_位于,indirectly 位于
+140,159,INDIRECTLY_位于,indirectly 位于
+140,164,INDIRECTLY_位于,indirectly 位于
+140,174,INDIRECTLY_位于,indirectly 位于
+140,8,位于_VIA_黄海,位于 via 黄海
+140,190,INDIRECTLY_位于,indirectly 位于
+140,261,INDIRECTLY_位于,indirectly 位于
+140,138,INDIRECTLY_位于,indirectly 位于
+140,255,INDIRECTLY_位于,indirectly 位于
+140,207,INDIRECTLY_位于,indirectly 位于
+140,200,INDIRECTLY_位于,indirectly 位于
+117,12,位于_VIA_黄海,位于 via 黄海
+117,222,INDIRECTLY_位于,indirectly 位于
+117,189,INDIRECTLY_位于,indirectly 位于
+117,128,INDIRECTLY_位于,indirectly 位于
+117,247,INDIRECTLY_位于,indirectly 位于
+117,203,INDIRECTLY_位于,indirectly 位于
+117,159,INDIRECTLY_位于,indirectly 位于
+117,164,INDIRECTLY_位于,indirectly 位于
+117,174,INDIRECTLY_位于,indirectly 位于
+117,8,位于_VIA_黄海,位于 via 黄海
+117,190,INDIRECTLY_位于,indirectly 位于
+117,261,INDIRECTLY_位于,indirectly 位于
+117,138,INDIRECTLY_位于,indirectly 位于
+117,255,INDIRECTLY_位于,indirectly 位于
+117,207,INDIRECTLY_位于,indirectly 位于
+117,200,INDIRECTLY_位于,indirectly 位于
+150,37,位于_VIA_国家防总决定,位于 via 国家防总决定
+150,13,位于_VIA_国家防总决定,位于 via 国家防总决定
+150,11,位于_VIA_国家防总决定,位于 via 国家防总决定
+150,15,位于_VIA_国家防总决定,位于 via 国家防总决定
+150,16,位于_VIA_国家防总决定,位于 via 国家防总决定
+150,262,位于_VIA_国家防总决定,位于 via 国家防总决定
+146,37,位于_VIA_国家防总决定,位于 via 国家防总决定
+146,13,位于_VIA_国家防总决定,位于 via 国家防总决定
+146,11,位于_VIA_国家防总决定,位于 via 国家防总决定
+146,15,位于_VIA_国家防总决定,位于 via 国家防总决定
+146,16,位于_VIA_国家防总决定,位于 via 国家防总决定
+146,262,位于_VIA_国家防总决定,位于 via 国家防总决定
+250,37,位于_VIA_国家防总决定,位于 via 国家防总决定
+250,13,位于_VIA_国家防总决定,位于 via 国家防总决定
+250,11,位于_VIA_国家防总决定,位于 via 国家防总决定
+250,15,位于_VIA_国家防总决定,位于 via 国家防总决定
+250,16,位于_VIA_国家防总决定,位于 via 国家防总决定
+250,262,位于_VIA_国家防总决定,位于 via 国家防总决定
+145,250,属于_VIA_漳卫新河,属于 via 漳卫新河
+145,216,属于_VIA_漳卫新河,属于 via 漳卫新河
+145,146,属于_VIA_漳卫新河,属于 via 漳卫新河
+216,250,位于_VIA_漳卫新河,位于 via 漳卫新河
+216,146,位于_VIA_漳卫新河,位于 via 漳卫新河
+178,12,位于_VIA_黄海,位于 via 黄海
+178,222,INDIRECTLY_位于,indirectly 位于
+178,189,INDIRECTLY_位于,indirectly 位于
+178,128,INDIRECTLY_位于,indirectly 位于
+178,247,INDIRECTLY_位于,indirectly 位于
+178,203,INDIRECTLY_位于,indirectly 位于
+178,159,INDIRECTLY_位于,indirectly 位于
+178,164,INDIRECTLY_位于,indirectly 位于
+178,174,INDIRECTLY_位于,indirectly 位于
+178,8,位于_VIA_黄海,位于 via 黄海
+178,190,INDIRECTLY_位于,indirectly 位于
+178,261,INDIRECTLY_位于,indirectly 位于
+178,138,INDIRECTLY_位于,indirectly 位于
+178,255,INDIRECTLY_位于,indirectly 位于
+178,207,INDIRECTLY_位于,indirectly 位于
+178,200,INDIRECTLY_位于,indirectly 位于
+245,12,位于_VIA_黄海,位于 via 黄海
+245,222,INDIRECTLY_位于,indirectly 位于
+245,189,INDIRECTLY_位于,indirectly 位于
+245,128,INDIRECTLY_位于,indirectly 位于
+245,247,INDIRECTLY_位于,indirectly 位于
+245,203,INDIRECTLY_位于,indirectly 位于
+245,159,INDIRECTLY_位于,indirectly 位于
+245,164,INDIRECTLY_位于,indirectly 位于
+245,174,INDIRECTLY_位于,indirectly 位于
+245,8,位于_VIA_黄海,位于 via 黄海
+245,190,INDIRECTLY_位于,indirectly 位于
+245,261,INDIRECTLY_位于,indirectly 位于
+245,138,INDIRECTLY_位于,indirectly 位于
+245,255,INDIRECTLY_位于,indirectly 位于
+245,207,INDIRECTLY_位于,indirectly 位于
+245,200,INDIRECTLY_位于,indirectly 位于
+244,222,用于_VIA_分洪,用于 via 分洪
+244,72,用于_VIA_分洪,用于 via 分洪
+244,153,用于_VIA_分洪,用于 via 分洪
+244,78,用于_VIA_分洪,用于 via 分洪
+244,36,用于_VIA_分洪,用于 via 分洪
+244,197,用于_VIA_分洪,用于 via 分洪
+244,103,用于_VIA_分洪,用于 via 分洪
+243,12,位于_VIA_黄海,位于 via 黄海
+243,222,INDIRECTLY_位于,indirectly 位于
+243,189,INDIRECTLY_位于,indirectly 位于
+243,128,INDIRECTLY_位于,indirectly 位于
+243,247,INDIRECTLY_位于,indirectly 位于
+243,203,INDIRECTLY_位于,indirectly 位于
+243,159,INDIRECTLY_位于,indirectly 位于
+243,164,INDIRECTLY_位于,indirectly 位于
+243,174,INDIRECTLY_位于,indirectly 位于
+243,8,位于_VIA_黄海,位于 via 黄海
+243,190,INDIRECTLY_位于,indirectly 位于
+243,261,INDIRECTLY_位于,indirectly 位于
+243,138,INDIRECTLY_位于,indirectly 位于
+243,255,INDIRECTLY_位于,indirectly 位于
+243,207,INDIRECTLY_位于,indirectly 位于
+243,200,INDIRECTLY_位于,indirectly 位于
+242,53,流经_VIA_京九铁路,流经 via 京九铁路
+242,263,流经_VIA_京九铁路,流经 via 京九铁路
+118,12,位于_VIA_黄海,位于 via 黄海
+118,222,INDIRECTLY_位于,indirectly 位于
+118,189,INDIRECTLY_位于,indirectly 位于
+118,128,INDIRECTLY_位于,indirectly 位于
+118,247,INDIRECTLY_位于,indirectly 位于
+118,203,INDIRECTLY_位于,indirectly 位于
+118,159,INDIRECTLY_位于,indirectly 位于
+118,164,INDIRECTLY_位于,indirectly 位于
+118,174,INDIRECTLY_位于,indirectly 位于
+118,8,位于_VIA_黄海,位于 via 黄海
+118,190,INDIRECTLY_位于,indirectly 位于
+118,261,INDIRECTLY_位于,indirectly 位于
+118,138,INDIRECTLY_位于,indirectly 位于
+118,255,INDIRECTLY_位于,indirectly 位于
+118,207,INDIRECTLY_位于,indirectly 位于
+118,200,INDIRECTLY_位于,indirectly 位于
+212,12,位于_VIA_黄海,位于 via 黄海
+212,222,INDIRECTLY_位于,indirectly 位于
+212,189,INDIRECTLY_位于,indirectly 位于
+212,128,INDIRECTLY_位于,indirectly 位于
+212,247,INDIRECTLY_位于,indirectly 位于
+212,203,INDIRECTLY_位于,indirectly 位于
+212,159,INDIRECTLY_位于,indirectly 位于
+212,164,INDIRECTLY_位于,indirectly 位于
+212,174,INDIRECTLY_位于,indirectly 位于
+212,8,位于_VIA_黄海,位于 via 黄海
+212,190,INDIRECTLY_位于,indirectly 位于
+212,261,INDIRECTLY_位于,indirectly 位于
+212,138,INDIRECTLY_位于,indirectly 位于
+212,255,INDIRECTLY_位于,indirectly 位于
+212,207,INDIRECTLY_位于,indirectly 位于
+212,200,INDIRECTLY_位于,indirectly 位于
+129,12,位于_VIA_黄海,位于 via 黄海
+129,222,INDIRECTLY_位于,indirectly 位于
+129,189,INDIRECTLY_位于,indirectly 位于
+129,128,INDIRECTLY_位于,indirectly 位于
+129,247,INDIRECTLY_位于,indirectly 位于
+129,203,INDIRECTLY_位于,indirectly 位于
+129,159,INDIRECTLY_位于,indirectly 位于
+129,164,INDIRECTLY_位于,indirectly 位于
+129,174,INDIRECTLY_位于,indirectly 位于
+129,8,位于_VIA_黄海,位于 via 黄海
+129,190,INDIRECTLY_位于,indirectly 位于
+129,261,INDIRECTLY_位于,indirectly 位于
+129,138,INDIRECTLY_位于,indirectly 位于
+129,255,INDIRECTLY_位于,indirectly 位于
+129,207,INDIRECTLY_位于,indirectly 位于
+129,200,INDIRECTLY_位于,indirectly 位于
+163,12,位于_VIA_黄海,位于 via 黄海
+163,222,INDIRECTLY_位于,indirectly 位于
+163,189,INDIRECTLY_位于,indirectly 位于
+163,128,INDIRECTLY_位于,indirectly 位于
+163,247,INDIRECTLY_位于,indirectly 位于
+163,203,INDIRECTLY_位于,indirectly 位于
+163,159,INDIRECTLY_位于,indirectly 位于
+163,164,INDIRECTLY_位于,indirectly 位于
+163,174,INDIRECTLY_位于,indirectly 位于
+163,8,位于_VIA_黄海,位于 via 黄海
+163,190,INDIRECTLY_位于,indirectly 位于
+163,261,INDIRECTLY_位于,indirectly 位于
+163,138,INDIRECTLY_位于,indirectly 位于
+163,255,INDIRECTLY_位于,indirectly 位于
+163,207,INDIRECTLY_位于,indirectly 位于
+163,200,INDIRECTLY_位于,indirectly 位于
+213,212,属于_VIA_子牙河,属于 via 子牙河
+213,185,属于_VIA_子牙河,属于 via 子牙河
+213,233,属于_VIA_子牙河,属于 via 子牙河
+213,201,属于_VIA_子牙河,属于 via 子牙河
+234,12,位于_VIA_黄海,位于 via 黄海
+234,222,INDIRECTLY_位于,indirectly 位于
+234,189,INDIRECTLY_位于,indirectly 位于
+234,128,INDIRECTLY_位于,indirectly 位于
+234,247,INDIRECTLY_位于,indirectly 位于
+234,203,INDIRECTLY_位于,indirectly 位于
+234,159,INDIRECTLY_位于,indirectly 位于
+234,164,INDIRECTLY_位于,indirectly 位于
+234,174,INDIRECTLY_位于,indirectly 位于
+234,8,位于_VIA_黄海,位于 via 黄海
+234,190,INDIRECTLY_位于,indirectly 位于
+234,261,INDIRECTLY_位于,indirectly 位于
+234,138,INDIRECTLY_位于,indirectly 位于
+234,255,INDIRECTLY_位于,indirectly 位于
+234,207,INDIRECTLY_位于,indirectly 位于
+234,200,INDIRECTLY_位于,indirectly 位于
+234,90,流经_VIA_海口挡潮闸上,流经 via 海口挡潮闸上
+196,12,位于_VIA_黄海,位于 via 黄海
+196,222,INDIRECTLY_位于,indirectly 位于
+196,189,INDIRECTLY_位于,indirectly 位于
+196,128,INDIRECTLY_位于,indirectly 位于
+196,247,INDIRECTLY_位于,indirectly 位于
+196,203,INDIRECTLY_位于,indirectly 位于
+196,159,INDIRECTLY_位于,indirectly 位于
+196,164,INDIRECTLY_位于,indirectly 位于
+196,174,INDIRECTLY_位于,indirectly 位于
+196,8,位于_VIA_黄海,位于 via 黄海
+196,190,INDIRECTLY_位于,indirectly 位于
+196,261,INDIRECTLY_位于,indirectly 位于
+196,138,INDIRECTLY_位于,indirectly 位于
+196,255,INDIRECTLY_位于,indirectly 位于
+196,207,INDIRECTLY_位于,indirectly 位于
+196,200,INDIRECTLY_位于,indirectly 位于
+48,12,位于_VIA_黄海,位于 via 黄海
+48,222,INDIRECTLY_位于,indirectly 位于
+48,189,INDIRECTLY_位于,indirectly 位于
+48,128,INDIRECTLY_位于,indirectly 位于
+48,247,INDIRECTLY_位于,indirectly 位于
+48,203,INDIRECTLY_位于,indirectly 位于
+48,159,INDIRECTLY_位于,indirectly 位于
+48,164,INDIRECTLY_位于,indirectly 位于
+48,174,INDIRECTLY_位于,indirectly 位于
+48,8,位于_VIA_黄海,位于 via 黄海
+48,190,INDIRECTLY_位于,indirectly 位于
+48,261,INDIRECTLY_位于,indirectly 位于
+48,138,INDIRECTLY_位于,indirectly 位于
+48,255,INDIRECTLY_位于,indirectly 位于
+48,207,INDIRECTLY_位于,indirectly 位于
+48,200,INDIRECTLY_位于,indirectly 位于
+45,12,位于_VIA_黄海,位于 via 黄海
+45,222,INDIRECTLY_位于,indirectly 位于
+45,189,INDIRECTLY_位于,indirectly 位于
+45,128,INDIRECTLY_位于,indirectly 位于
+45,247,INDIRECTLY_位于,indirectly 位于
+45,203,INDIRECTLY_位于,indirectly 位于
+45,159,INDIRECTLY_位于,indirectly 位于
+45,164,INDIRECTLY_位于,indirectly 位于
+45,174,INDIRECTLY_位于,indirectly 位于
+45,8,位于_VIA_黄海,位于 via 黄海
+45,190,INDIRECTLY_位于,indirectly 位于
+45,261,INDIRECTLY_位于,indirectly 位于
+45,138,INDIRECTLY_位于,indirectly 位于
+45,255,INDIRECTLY_位于,indirectly 位于
+45,207,INDIRECTLY_位于,indirectly 位于
+45,200,INDIRECTLY_位于,indirectly 位于
+39,12,位于_VIA_黄海,位于 via 黄海
+39,222,INDIRECTLY_位于,indirectly 位于
+39,189,INDIRECTLY_位于,indirectly 位于
+39,128,INDIRECTLY_位于,indirectly 位于
+39,247,INDIRECTLY_位于,indirectly 位于
+39,203,INDIRECTLY_位于,indirectly 位于
+39,159,INDIRECTLY_位于,indirectly 位于
+39,164,INDIRECTLY_位于,indirectly 位于
+39,174,INDIRECTLY_位于,indirectly 位于
+39,8,位于_VIA_黄海,位于 via 黄海
+39,190,INDIRECTLY_位于,indirectly 位于
+39,261,INDIRECTLY_位于,indirectly 位于
+39,138,INDIRECTLY_位于,indirectly 位于
+39,255,INDIRECTLY_位于,indirectly 位于
+39,207,INDIRECTLY_位于,indirectly 位于
+39,200,INDIRECTLY_位于,indirectly 位于
+42,12,位于_VIA_黄海,位于 via 黄海
+42,222,INDIRECTLY_位于,indirectly 位于
+42,189,INDIRECTLY_位于,indirectly 位于
+42,128,INDIRECTLY_位于,indirectly 位于
+42,247,INDIRECTLY_位于,indirectly 位于
+42,203,INDIRECTLY_位于,indirectly 位于
+42,159,INDIRECTLY_位于,indirectly 位于
+42,164,INDIRECTLY_位于,indirectly 位于
+42,174,INDIRECTLY_位于,indirectly 位于
+42,8,位于_VIA_黄海,位于 via 黄海
+42,190,INDIRECTLY_位于,indirectly 位于
+42,261,INDIRECTLY_位于,indirectly 位于
+42,138,INDIRECTLY_位于,indirectly 位于
+42,255,INDIRECTLY_位于,indirectly 位于
+42,207,INDIRECTLY_位于,indirectly 位于
+42,200,INDIRECTLY_位于,indirectly 位于
+30,12,位于_VIA_黄海,位于 via 黄海
+30,222,INDIRECTLY_位于,indirectly 位于
+30,189,INDIRECTLY_位于,indirectly 位于
+30,128,INDIRECTLY_位于,indirectly 位于
+30,247,INDIRECTLY_位于,indirectly 位于
+30,203,INDIRECTLY_位于,indirectly 位于
+30,159,INDIRECTLY_位于,indirectly 位于
+30,164,INDIRECTLY_位于,indirectly 位于
+30,174,INDIRECTLY_位于,indirectly 位于
+30,8,位于_VIA_黄海,位于 via 黄海
+30,190,INDIRECTLY_位于,indirectly 位于
+30,261,INDIRECTLY_位于,indirectly 位于
+30,138,INDIRECTLY_位于,indirectly 位于
+30,255,INDIRECTLY_位于,indirectly 位于
+30,207,INDIRECTLY_位于,indirectly 位于
+30,200,INDIRECTLY_位于,indirectly 位于
+24,12,位于_VIA_黄海,位于 via 黄海
+24,222,INDIRECTLY_位于,indirectly 位于
+24,189,INDIRECTLY_位于,indirectly 位于
+24,128,INDIRECTLY_位于,indirectly 位于
+24,247,INDIRECTLY_位于,indirectly 位于
+24,203,INDIRECTLY_位于,indirectly 位于
+24,159,INDIRECTLY_位于,indirectly 位于
+24,164,INDIRECTLY_位于,indirectly 位于
+24,174,INDIRECTLY_位于,indirectly 位于
+24,8,位于_VIA_黄海,位于 via 黄海
+24,190,INDIRECTLY_位于,indirectly 位于
+24,261,INDIRECTLY_位于,indirectly 位于
+24,138,INDIRECTLY_位于,indirectly 位于
+24,255,INDIRECTLY_位于,indirectly 位于
+24,207,INDIRECTLY_位于,indirectly 位于
+24,200,INDIRECTLY_位于,indirectly 位于
+25,12,位于_VIA_黄海,位于 via 黄海
+25,222,INDIRECTLY_位于,indirectly 位于
+25,189,INDIRECTLY_位于,indirectly 位于
+25,128,INDIRECTLY_位于,indirectly 位于
+25,247,INDIRECTLY_位于,indirectly 位于
+25,203,INDIRECTLY_位于,indirectly 位于
+25,159,INDIRECTLY_位于,indirectly 位于
+25,164,INDIRECTLY_位于,indirectly 位于
+25,174,INDIRECTLY_位于,indirectly 位于
+25,8,位于_VIA_黄海,位于 via 黄海
+25,190,INDIRECTLY_位于,indirectly 位于
+25,261,INDIRECTLY_位于,indirectly 位于
+25,138,INDIRECTLY_位于,indirectly 位于
+25,255,INDIRECTLY_位于,indirectly 位于
+25,207,INDIRECTLY_位于,indirectly 位于
+25,200,INDIRECTLY_位于,indirectly 位于
+68,164,位于_VIA_献县至坝台两堤,位于 via 献县至坝台两堤
+32,12,位于_VIA_黄海,位于 via 黄海
+32,222,INDIRECTLY_位于,indirectly 位于
+32,189,INDIRECTLY_位于,indirectly 位于
+32,128,INDIRECTLY_位于,indirectly 位于
+32,247,INDIRECTLY_位于,indirectly 位于
+32,203,INDIRECTLY_位于,indirectly 位于
+32,159,INDIRECTLY_位于,indirectly 位于
+32,164,INDIRECTLY_位于,indirectly 位于
+32,174,INDIRECTLY_位于,indirectly 位于
+32,8,位于_VIA_黄海,位于 via 黄海
+32,190,INDIRECTLY_位于,indirectly 位于
+32,261,INDIRECTLY_位于,indirectly 位于
+32,138,INDIRECTLY_位于,indirectly 位于
+32,255,INDIRECTLY_位于,indirectly 位于
+32,207,INDIRECTLY_位于,indirectly 位于
+32,200,INDIRECTLY_位于,indirectly 位于
+31,12,位于_VIA_黄海,位于 via 黄海
+31,222,INDIRECTLY_位于,indirectly 位于
+31,189,INDIRECTLY_位于,indirectly 位于
+31,128,INDIRECTLY_位于,indirectly 位于
+31,247,INDIRECTLY_位于,indirectly 位于
+31,203,INDIRECTLY_位于,indirectly 位于
+31,159,INDIRECTLY_位于,indirectly 位于
+31,164,INDIRECTLY_位于,indirectly 位于
+31,174,INDIRECTLY_位于,indirectly 位于
+31,8,位于_VIA_黄海,位于 via 黄海
+31,190,INDIRECTLY_位于,indirectly 位于
+31,261,INDIRECTLY_位于,indirectly 位于
+31,138,INDIRECTLY_位于,indirectly 位于
+31,255,INDIRECTLY_位于,indirectly 位于
+31,207,INDIRECTLY_位于,indirectly 位于
+31,200,INDIRECTLY_位于,indirectly 位于
+85,263,INDIRECTLY_位于,indirectly 位于
+85,33,位于_VIA_献县枢纽闸上,位于 via 献县枢纽闸上
+85,32,INDIRECTLY_位于,indirectly 位于
+85,109,位于_VIA_献县枢纽闸上,位于 via 献县枢纽闸上
+85,30,INDIRECTLY_位于,indirectly 位于
+85,75,位于_VIA_大清河,位于 via 大清河
+85,29,位于_VIA_大清河,位于 via 大清河
+85,66,位于_VIA_大清河,位于 via 大清河
+85,153,位于_VIA_大清河,位于 via 大清河
+85,230,位于_VIA_大清河,位于 via 大清河
+85,79,位于_VIA_大清河,位于 via 大清河
+85,3,位于_VIA_大清河,位于 via 大清河
+85,228,位于_VIA_大清河,位于 via 大清河
+85,84,位于_VIA_大清河,位于 via 大清河
+85,196,位于_VIA_大清河,位于 via 大清河
+85,52,位于_VIA_大清河,位于 via 大清河
+85,200,位于_VIA_大清河,位于 via 大清河
+85,10,INDIRECTLY_位于,indirectly 位于
+85,196,位于_VIA_穿运枢纽下游,位于 via 穿运枢纽下游
+10,12,位于_VIA_黄海,位于 via 黄海
+10,222,INDIRECTLY_位于,indirectly 位于
+10,189,INDIRECTLY_位于,indirectly 位于
+10,128,INDIRECTLY_位于,indirectly 位于
+10,247,INDIRECTLY_位于,indirectly 位于
+10,203,INDIRECTLY_位于,indirectly 位于
+10,159,INDIRECTLY_位于,indirectly 位于
+10,164,INDIRECTLY_位于,indirectly 位于
+10,174,INDIRECTLY_位于,indirectly 位于
+10,8,位于_VIA_黄海,位于 via 黄海
+10,190,INDIRECTLY_位于,indirectly 位于
+10,261,INDIRECTLY_位于,indirectly 位于
+10,138,INDIRECTLY_位于,indirectly 位于
+10,255,INDIRECTLY_位于,indirectly 位于
+10,207,INDIRECTLY_位于,indirectly 位于
+10,200,INDIRECTLY_位于,indirectly 位于
+14,12,位于_VIA_黄海,位于 via 黄海
+14,222,INDIRECTLY_位于,indirectly 位于
+14,189,INDIRECTLY_位于,indirectly 位于
+14,128,INDIRECTLY_位于,indirectly 位于
+14,247,INDIRECTLY_位于,indirectly 位于
+14,203,INDIRECTLY_位于,indirectly 位于
+14,159,INDIRECTLY_位于,indirectly 位于
+14,164,INDIRECTLY_位于,indirectly 位于
+14,174,INDIRECTLY_位于,indirectly 位于
+14,8,位于_VIA_黄海,位于 via 黄海
+14,190,INDIRECTLY_位于,indirectly 位于
+14,261,INDIRECTLY_位于,indirectly 位于
+14,138,INDIRECTLY_位于,indirectly 位于
+14,255,INDIRECTLY_位于,indirectly 位于
+14,207,INDIRECTLY_位于,indirectly 位于
+14,200,INDIRECTLY_位于,indirectly 位于
+5,12,位于_VIA_黄海,位于 via 黄海
+5,222,INDIRECTLY_位于,indirectly 位于
+5,189,INDIRECTLY_位于,indirectly 位于
+5,128,INDIRECTLY_位于,indirectly 位于
+5,247,INDIRECTLY_位于,indirectly 位于
+5,203,INDIRECTLY_位于,indirectly 位于
+5,159,INDIRECTLY_位于,indirectly 位于
+5,164,INDIRECTLY_位于,indirectly 位于
+5,174,INDIRECTLY_位于,indirectly 位于
+5,8,位于_VIA_黄海,位于 via 黄海
+5,190,INDIRECTLY_位于,indirectly 位于
+5,261,INDIRECTLY_位于,indirectly 位于
+5,138,INDIRECTLY_位于,indirectly 位于
+5,255,INDIRECTLY_位于,indirectly 位于
+5,207,INDIRECTLY_位于,indirectly 位于
+5,200,INDIRECTLY_位于,indirectly 位于
+6,37,位于_VIA_国家防总决定,位于 via 国家防总决定
+6,13,位于_VIA_国家防总决定,位于 via 国家防总决定
+6,11,位于_VIA_国家防总决定,位于 via 国家防总决定
+6,15,位于_VIA_国家防总决定,位于 via 国家防总决定
+6,16,位于_VIA_国家防总决定,位于 via 国家防总决定
+6,262,位于_VIA_国家防总决定,位于 via 国家防总决定
+6,12,位于_VIA_黄海,位于 via 黄海
+6,222,INDIRECTLY_位于,indirectly 位于
+6,189,INDIRECTLY_位于,indirectly 位于
+6,128,INDIRECTLY_位于,indirectly 位于
+6,247,INDIRECTLY_位于,indirectly 位于
+6,203,INDIRECTLY_位于,indirectly 位于
+6,159,INDIRECTLY_位于,indirectly 位于
+6,164,INDIRECTLY_位于,indirectly 位于
+6,174,INDIRECTLY_位于,indirectly 位于
+6,8,位于_VIA_黄海,位于 via 黄海
+6,190,INDIRECTLY_位于,indirectly 位于
+6,261,INDIRECTLY_位于,indirectly 位于
+6,138,INDIRECTLY_位于,indirectly 位于
+6,255,INDIRECTLY_位于,indirectly 位于
+6,207,INDIRECTLY_位于,indirectly 位于
+6,200,INDIRECTLY_位于,indirectly 位于
+90,12,位于_VIA_黄海,位于 via 黄海
+90,222,INDIRECTLY_位于,indirectly 位于
+90,189,INDIRECTLY_位于,indirectly 位于
+90,128,INDIRECTLY_位于,indirectly 位于
+90,247,INDIRECTLY_位于,indirectly 位于
+90,203,INDIRECTLY_位于,indirectly 位于
+90,159,INDIRECTLY_位于,indirectly 位于
+90,164,INDIRECTLY_位于,indirectly 位于
+90,174,INDIRECTLY_位于,indirectly 位于
+90,8,位于_VIA_黄海,位于 via 黄海
+90,190,INDIRECTLY_位于,indirectly 位于
+90,261,INDIRECTLY_位于,indirectly 位于
+90,138,INDIRECTLY_位于,indirectly 位于
+90,255,INDIRECTLY_位于,indirectly 位于
+90,207,INDIRECTLY_位于,indirectly 位于
+90,200,INDIRECTLY_位于,indirectly 位于
+91,12,位于_VIA_黄海,位于 via 黄海
+91,222,INDIRECTLY_位于,indirectly 位于
+91,189,INDIRECTLY_位于,indirectly 位于
+91,128,INDIRECTLY_位于,indirectly 位于
+91,247,INDIRECTLY_位于,indirectly 位于
+91,203,INDIRECTLY_位于,indirectly 位于
+91,159,INDIRECTLY_位于,indirectly 位于
+91,164,INDIRECTLY_位于,indirectly 位于
+91,174,INDIRECTLY_位于,indirectly 位于
+91,8,位于_VIA_黄海,位于 via 黄海
+91,190,INDIRECTLY_位于,indirectly 位于
+91,261,INDIRECTLY_位于,indirectly 位于
+91,138,INDIRECTLY_位于,indirectly 位于
+91,255,INDIRECTLY_位于,indirectly 位于
+91,207,INDIRECTLY_位于,indirectly 位于
+91,200,INDIRECTLY_位于,indirectly 位于
+208,70,流经_VIA_北郭村,流经 via 北郭村
+133,153,INDIRECTLY_位于,indirectly 位于
+70,37,位于_VIA_国家防总决定,位于 via 国家防总决定
+70,13,位于_VIA_国家防总决定,位于 via 国家防总决定
+70,11,位于_VIA_国家防总决定,位于 via 国家防总决定
+70,15,位于_VIA_国家防总决定,位于 via 国家防总决定
+70,16,位于_VIA_国家防总决定,位于 via 国家防总决定
+70,262,位于_VIA_国家防总决定,位于 via 国家防总决定
+67,37,位于_VIA_国家防总决定,位于 via 国家防总决定
+67,13,位于_VIA_国家防总决定,位于 via 国家防总决定
+67,11,位于_VIA_国家防总决定,位于 via 国家防总决定
+67,15,位于_VIA_国家防总决定,位于 via 国家防总决定
+67,16,位于_VIA_国家防总决定,位于 via 国家防总决定
+67,262,位于_VIA_国家防总决定,位于 via 国家防总决定
+61,37,位于_VIA_国家防总决定,位于 via 国家防总决定
+61,13,位于_VIA_国家防总决定,位于 via 国家防总决定
+61,11,位于_VIA_国家防总决定,位于 via 国家防总决定
+61,15,位于_VIA_国家防总决定,位于 via 国家防总决定
+61,16,位于_VIA_国家防总决定,位于 via 国家防总决定
+61,262,位于_VIA_国家防总决定,位于 via 国家防总决定
+65,37,位于_VIA_国家防总决定,位于 via 国家防总决定
+65,13,位于_VIA_国家防总决定,位于 via 国家防总决定
+65,11,位于_VIA_国家防总决定,位于 via 国家防总决定
+65,15,位于_VIA_国家防总决定,位于 via 国家防总决定
+65,16,位于_VIA_国家防总决定,位于 via 国家防总决定
+65,262,位于_VIA_国家防总决定,位于 via 国家防总决定
+257,153,INDIRECTLY_位于,indirectly 位于
+257,158,INDIRECTLY_位于,indirectly 位于
+43,37,位于_VIA_国家防总决定,位于 via 国家防总决定
+43,13,位于_VIA_国家防总决定,位于 via 国家防总决定
+43,11,位于_VIA_国家防总决定,位于 via 国家防总决定
+43,15,位于_VIA_国家防总决定,位于 via 国家防总决定
+43,16,位于_VIA_国家防总决定,位于 via 国家防总决定
+43,262,位于_VIA_国家防总决定,位于 via 国家防总决定
+43,202,INDIRECTLY_位于,indirectly 位于
+43,253,INDIRECTLY_位于,indirectly 位于
+43,220,INDIRECTLY_位于,indirectly 位于
+43,69,INDIRECTLY_位于,indirectly 位于
+38,37,位于_VIA_国家防总决定,位于 via 国家防总决定
+38,13,位于_VIA_国家防总决定,位于 via 国家防总决定
+38,11,位于_VIA_国家防总决定,位于 via 国家防总决定
+38,15,位于_VIA_国家防总决定,位于 via 国家防总决定
+38,16,位于_VIA_国家防总决定,位于 via 国家防总决定
+38,262,位于_VIA_国家防总决定,位于 via 国家防总决定
+36,37,位于_VIA_国家防总决定,位于 via 国家防总决定
+36,13,位于_VIA_国家防总决定,位于 via 国家防总决定
+36,11,位于_VIA_国家防总决定,位于 via 国家防总决定
+36,15,位于_VIA_国家防总决定,位于 via 国家防总决定
+36,16,位于_VIA_国家防总决定,位于 via 国家防总决定
+36,262,位于_VIA_国家防总决定,位于 via 国家防总决定
+246,222,INDIRECTLY_发生于,indirectly 发生于
+246,72,发生于_VIA_分洪,发生于 via 分洪
+246,153,发生于_VIA_分洪,发生于 via 分洪
+246,78,发生于_VIA_分洪,发生于 via 分洪
+246,36,发生于_VIA_分洪,发生于 via 分洪
+246,197,发生于_VIA_分洪,发生于 via 分洪
+246,103,发生于_VIA_分洪,发生于 via 分洪
+17,202,INDIRECTLY_位于,indirectly 位于
+17,253,INDIRECTLY_位于,indirectly 位于
+17,220,INDIRECTLY_位于,indirectly 位于
+17,69,INDIRECTLY_位于,indirectly 位于
+104,202,INDIRECTLY_位于,indirectly 位于
+104,253,INDIRECTLY_位于,indirectly 位于
+104,220,INDIRECTLY_位于,indirectly 位于
+104,69,INDIRECTLY_位于,indirectly 位于
+4,202,INDIRECTLY_位于,indirectly 位于
+4,253,INDIRECTLY_位于,indirectly 位于
+4,220,INDIRECTLY_位于,indirectly 位于
+4,69,INDIRECTLY_位于,indirectly 位于
+136,134,INDIRECTLY_位于,indirectly 位于
+136,73,位于_VIA_白洋淀,位于 via 白洋淀
+136,26,位于_VIA_白洋淀,位于 via 白洋淀
+136,57,位于_VIA_白洋淀,位于 via 白洋淀
+136,114,位于_VIA_白洋淀,位于 via 白洋淀
+136,235,INDIRECTLY_位于,indirectly 位于
+136,172,位于_VIA_白洋淀,位于 via 白洋淀
+136,197,位于_VIA_白洋淀,位于 via 白洋淀
+136,226,位于_VIA_白洋淀,位于 via 白洋淀
+136,135,位于_VIA_白洋淀,位于 via 白洋淀
+136,231,位于_VIA_白洋淀,位于 via 白洋淀
+136,18,位于_VIA_白洋淀,位于 via 白洋淀
+136,28,位于_VIA_白洋淀,位于 via 白洋淀
+136,87,位于_VIA_白洋淀,位于 via 白洋淀
+136,89,位于_VIA_白洋淀,位于 via 白洋淀
+136,227,位于_VIA_白洋淀,位于 via 白洋淀
+136,185,位于_VIA_白洋淀,位于 via 白洋淀
+136,74,位于_VIA_白洋淀,位于 via 白洋淀
+136,153,位于_VIA_白洋淀,位于 via 白洋淀
+136,113,位于_VIA_白洋淀,位于 via 白洋淀
+136,259,位于_VIA_白洋淀,位于 via 白洋淀
+7,37,位于_VIA_国家防总决定,位于 via 国家防总决定
+7,13,位于_VIA_国家防总决定,位于 via 国家防总决定
+7,11,位于_VIA_国家防总决定,位于 via 国家防总决定
+7,15,位于_VIA_国家防总决定,位于 via 国家防总决定
+7,16,位于_VIA_国家防总决定,位于 via 国家防总决定
+7,262,位于_VIA_国家防总决定,位于 via 国家防总决定
+100,37,位于_VIA_国家防总决定,位于 via 国家防总决定
+100,13,位于_VIA_国家防总决定,位于 via 国家防总决定
+100,11,位于_VIA_国家防总决定,位于 via 国家防总决定
+100,15,位于_VIA_国家防总决定,位于 via 国家防总决定
+100,16,位于_VIA_国家防总决定,位于 via 国家防总决定
+100,262,位于_VIA_国家防总决定,位于 via 国家防总决定
+40,75,位于_VIA_大清河,位于 via 大清河
+40,29,位于_VIA_大清河,位于 via 大清河
+40,66,位于_VIA_大清河,位于 via 大清河
+40,153,位于_VIA_大清河,位于 via 大清河
+40,230,位于_VIA_大清河,位于 via 大清河
+40,79,位于_VIA_大清河,位于 via 大清河
+40,3,位于_VIA_大清河,位于 via 大清河
+40,228,位于_VIA_大清河,位于 via 大清河
+40,84,位于_VIA_大清河,位于 via 大清河
+40,196,位于_VIA_大清河,位于 via 大清河
+40,52,位于_VIA_大清河,位于 via 大清河
+40,200,位于_VIA_大清河,位于 via 大清河
+1,37,位于_VIA_国家防总决定,位于 via 国家防总决定
+1,13,位于_VIA_国家防总决定,位于 via 国家防总决定
+1,11,位于_VIA_国家防总决定,位于 via 国家防总决定
+1,15,位于_VIA_国家防总决定,位于 via 国家防总决定
+1,16,位于_VIA_国家防总决定,位于 via 国家防总决定
+1,262,位于_VIA_国家防总决定,位于 via 国家防总决定
+88,202,INDIRECTLY_位于,indirectly 位于
+88,253,INDIRECTLY_位于,indirectly 位于
+88,220,INDIRECTLY_位于,indirectly 位于
+88,69,INDIRECTLY_位于,indirectly 位于
+98,202,INDIRECTLY_位于,indirectly 位于
+98,253,INDIRECTLY_位于,indirectly 位于
+98,220,INDIRECTLY_位于,indirectly 位于
+98,69,INDIRECTLY_位于,indirectly 位于
+119,134,INDIRECTLY_位于,indirectly 位于
+119,73,位于_VIA_白洋淀,位于 via 白洋淀
+119,26,位于_VIA_白洋淀,位于 via 白洋淀
+119,57,位于_VIA_白洋淀,位于 via 白洋淀
+119,114,位于_VIA_白洋淀,位于 via 白洋淀
+119,235,INDIRECTLY_位于,indirectly 位于
+119,172,位于_VIA_白洋淀,位于 via 白洋淀
+119,197,位于_VIA_白洋淀,位于 via 白洋淀
+119,226,位于_VIA_白洋淀,位于 via 白洋淀
+119,135,位于_VIA_白洋淀,位于 via 白洋淀
+119,231,位于_VIA_白洋淀,位于 via 白洋淀
+119,18,位于_VIA_白洋淀,位于 via 白洋淀
+119,28,位于_VIA_白洋淀,位于 via 白洋淀
+119,87,位于_VIA_白洋淀,位于 via 白洋淀
+119,89,位于_VIA_白洋淀,位于 via 白洋淀
+119,227,位于_VIA_白洋淀,位于 via 白洋淀
+119,185,位于_VIA_白洋淀,位于 via 白洋淀
+119,74,位于_VIA_白洋淀,位于 via 白洋淀
+119,153,位于_VIA_白洋淀,位于 via 白洋淀
+119,113,位于_VIA_白洋淀,位于 via 白洋淀
+119,259,位于_VIA_白洋淀,位于 via 白洋淀
+63,37,位于_VIA_国家防总决定,位于 via 国家防总决定
+63,13,位于_VIA_国家防总决定,位于 via 国家防总决定
+63,11,位于_VIA_国家防总决定,位于 via 国家防总决定
+63,15,位于_VIA_国家防总决定,位于 via 国家防总决定
+63,16,位于_VIA_国家防总决定,位于 via 国家防总决定
+63,262,位于_VIA_国家防总决定,位于 via 国家防总决定
+59,37,位于_VIA_国家防总决定,位于 via 国家防总决定
+59,13,位于_VIA_国家防总决定,位于 via 国家防总决定
+59,11,位于_VIA_国家防总决定,位于 via 国家防总决定
+59,15,位于_VIA_国家防总决定,位于 via 国家防总决定
+59,16,位于_VIA_国家防总决定,位于 via 国家防总决定
+59,262,位于_VIA_国家防总决定,位于 via 国家防总决定
+58,37,位于_VIA_国家防总决定,位于 via 国家防总决定
+58,13,位于_VIA_国家防总决定,位于 via 国家防总决定
+58,11,位于_VIA_国家防总决定,位于 via 国家防总决定
+58,15,位于_VIA_国家防总决定,位于 via 国家防总决定
+58,16,位于_VIA_国家防总决定,位于 via 国家防总决定
+58,262,位于_VIA_国家防总决定,位于 via 国家防总决定
+184,152,确保_VIA_永定河,确保 via 永定河
+184,95,确保_VIA_永定河,确保 via 永定河
+184,54,确保_VIA_永定河,确保 via 永定河
+184,141,确保_VIA_永定河,确保 via 永定河
+184,94,确保_VIA_永定河,确保 via 永定河
+184,168,确保_VIA_永定河,确保 via 永定河
+252,199,IS_TYPE_OF,is type of
+160,159,IS_TYPE_OF,is type of
+224,159,IS_TYPE_OF,is type of
+225,159,IS_TYPE_OF,is type of
+236,159,IS_TYPE_OF,is type of
+204,139,IS_TYPE_OF,is type of
+176,232,IS_TYPE_OF,is type of
+99,98,IS_TYPE_OF,is type of
+137,135,IS_TYPE_OF,is type of
+210,135,IS_TYPE_OF,is type of
+136,135,IS_TYPE_OF,is type of
+136,180,IS_TYPE_OF,is type of
+234,233,IS_TYPE_OF,is type of
+243,241,IS_TYPE_OF,is type of
+221,220,IS_TYPE_OF,is type of
+220,190,IS_TYPE_OF,is type of
+89,88,IS_TYPE_OF,is type of
+218,217,IS_TYPE_OF,is type of
+128,107,IS_TYPE_OF,is type of
+242,241,IS_TYPE_OF,is type of
+244,241,IS_TYPE_OF,is type of
+192,188,IS_TYPE_OF,is type of
+210,257,IS_TYPE_OF,is type of
+210,208,IS_TYPE_OF,is type of
+160,125,IS_TYPE_OF,is type of
+72,68,IS_TYPE_OF,is type of
+231,230,IS_TYPE_OF,is type of
+258,257,IS_TYPE_OF,is type of
+136,151,IS_TYPE_OF,is type of
+221,190,IS_TYPE_OF,is type of
+209,125,IS_TYPE_OF,is type of
+209,208,IS_TYPE_OF,is type of
+186,185,IS_TYPE_OF,is type of
+256,185,IS_TYPE_OF,is type of
+86,85,IS_TYPE_OF,is type of
+109,106,IS_TYPE_OF,is type of
+105,104,IS_TYPE_OF,is type of
+8,12,IS_TYPE_OF,is type of
+109,108,IS_TYPE_OF,is type of
+127,125,IS_TYPE_OF,is type of
+156,127,IS_TYPE_OF,is type of
+214,127,IS_TYPE_OF,is type of
+156,125,IS_TYPE_OF,is type of
+126,125,IS_TYPE_OF,is type of
+258,125,IS_TYPE_OF,is type of
+214,125,IS_TYPE_OF,is type of
+218,144,IS_TYPE_OF,is type of
+69,68,IS_TYPE_OF,is type of
+136,198,IS_TYPE_OF,is type of
+103,102,IS_TYPE_OF,is type of
