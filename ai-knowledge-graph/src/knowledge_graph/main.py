@@ -292,6 +292,7 @@ def main():
     parser.add_argument('--no-standardize', action='store_true', help='Disable entity standardization')
     # 禁用关系推理
     parser.add_argument('--no-inference', action='store_true', help='Disable relationship inference')
+    parser.add_argument('--validate-alignment', action='store_true', help='Validate triple/text alignment and export a validation report')
     args = parser.parse_args()
     
     # Load configuration

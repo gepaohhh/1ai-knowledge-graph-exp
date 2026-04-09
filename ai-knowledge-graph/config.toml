@@ -1,5 +1,5 @@
 [llm]
-model = "qwen3:8b"
+model = "qwen3.5:35b"
 #model = "claude-3.5-sonnet-v2"
 #model = "gpt4o"
 #model = "llama3-2-90b-instruct-v1:0"
@@ -26,3 +26,8 @@ apply_transitive = true    # Whether to apply transitive inference rules是否�
 [visualization]
 edge_smooth = false  # Options: false, "dynamic", "continuous", "discrete", "diagonalCross", 
                          # "straightCross", "horizontal", "vertical", "curvedCW", "curvedCCW", "cubicBezier": true = "continuous"
+
+[validation]
+enabled = false                 # Enable post-build alignment validation between triples and source text
+support_threshold = 0.6         # Triple support score threshold for considering a triple supported
+min_sentence_length = 20        # Minimum sentence length used as evidence candidate
