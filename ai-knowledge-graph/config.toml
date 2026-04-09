@@ -19,7 +19,7 @@ enabled = true             # Whether to enable entity standardization是否启�
 use_llm_for_entities = true  # Whether to use LLM for additional entity resolution是否使用LLM进行额外的实体解析
 
 [inference]
-enabled = true             # Whether to enable relationship inference是否启用关系推理
+enabled = false             # Whether to enable relationship inference是否启用关系推理
 use_llm_for_inference = true  # Whether to use LLM for relationship inference是否使用LLM进行关系推理
 apply_transitive = true    # Whether to apply transitive inference rules是否应用传递性推理规则
 

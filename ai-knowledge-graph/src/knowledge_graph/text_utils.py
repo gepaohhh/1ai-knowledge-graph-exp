@@ -16,45 +16,56 @@ def chunk_text(text, chunk_size=500, overlap=50):
         1 text存储的是block内容
         2 是对bolck进行重新拼接
     """
-    elements =[]
-    headings = []
-    for _, (i, type, content) in enumerate(text):
-        if type != 'Body Text' and type != 'table':
-            if type == 'Normal':
-                continue
-            headings.append(content)
-        if type == 'Body Text':
-            elements.append(
-                headings[-1] + '\n' + content
-            )
-        if type == 'table':
-            elements.append(
-                headings[-1] + '\n' + str(content)
-            )
-    # Split text into words
-    # words = text.split()
     # If text is smaller than chunk size, return it as a single chunk
-    if len(elements) <= chunk_size:
-        return elements
+    if len(text) <= chunk_size:
+        return text
     
     # Create chunks with overlap
     start = 0
     chunks = []
-    while start < len(elements):
+    while start < len(text):
         # Calculate end position for this chunk
-        end = min(start + chunk_size, len(elements))
+        end = min(start + chunk_size, len(text))
+            
+        chunk = ""
+        coverage = text[start:end]
+        heading_ids = [heading_id for _, heading_id, _, _ in coverage] # 存储heading_id，避免重复添加heading
+        for i, (index, heading_id, style, content) in enumerate(coverage):
+            content = str(content).strip()
+            if i == 0: # 如果是第一个 在heading_ids中没有heading_id，因此直接判断即可
+                if index == heading_id:
+                    chunk += f"##{content}##" + "\n"
+                    continue
+                chunk += f"##{text[heading_id][3]}##" + "\n"
+                chunk += content + "\n"
+                continue
+            if heading_id != heading_ids[i-1]:
+                if index == heading_id:
+                    chunk += f"##{content}##" + "\n"
+                    continue
+                chunk += f"##{text[heading_id][3]}##" + "\n"
+                chunk += content + "\n"
+                continue
+            chunk += content + "\n"
+        chunks.append(chunk) # 将处理后的chunk存入chunks中
         
-        # Join words for this chunk
-        chunk = '\n'.join(elements[start:end])
-        chunks.append(chunk)
-        
-        # Move start position for next chunk, accounting for overlap
+        '''根据overlap和chunksize 计算start位置，实现内容的平移'''
         start = end - overlap
         
-        # If we're near the end and the last chunk would be too small, just exit
-        if start < len(elements) and start + chunk_size - overlap >= len(elements):
-            # Add remaining words as the final chunk
-            final_chunk = ' '.join(elements[start:])
+        ''' 当切块到结束时，将剩余的文字添加到chunks中 '''
+        if start < len(text) and start + chunk_size - overlap >= len(text):
+            final_chunk = ""
+            coverage = text[start:]
+            heading_ids = [heading_id for _, heading_id, _, _ in coverage]
+            for i, (index, heading_id, style, content) in enumerate(coverage):
+                if i == 0:
+                    if index == heading_id:
+                        final_chunk += f"##{content}##" + "\n"
+                        continue
+                    final_chunk += f"##{text[heading_id][3]}##" + "\n" + content + "\n"
+                if heading_id != heading_ids[i-1]:
+                    if index == heading_id:
+                        final_chunk += f"##{content}##" + "\n"
             chunks.append(final_chunk)
             break
     return chunks

@@ -6,7 +6,12 @@ from src.knowledge_graph.llm import call_llm
 from src.knowledge_graph.prompts import prompt_factory
 
 def load_stopwords_to_set():
-    file_path = r"D:\InformationExtraction\Data\hit_stopwords.txt"
+    # 获取项目根目录的 data 文件夹路径，确保跨平台兼容性
+    current_dir = os.path.dirname(__file__)
+    # 从 src/knowledge_graph/ 上升两级到项目根目录
+    project_root = os.path.dirname(os.path.dirname(os.path.dirname(current_dir)))
+    file_path = os.path.join(project_root, "ai-knowledge-graph", "data", "hit_stopwords.txt")
+    
     if not os.path.exists(file_path):
         raise FileNotFoundError(f"文件未找到: {file_path}")
     stopwords = set()

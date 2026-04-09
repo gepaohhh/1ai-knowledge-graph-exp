@@ -1,0 +1,370 @@
+@prefix : <http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology/> .
+
+<http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology> rdf:type owl:Ontology .
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#Aqueduct
+:Aqueduct rdf:type owl:Class ;
+          rdfs:subClassOf :WaterConservancyProject ;
+          rdfs:comment "渡槽" .
+
+
+###  http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#Basin
+:Basin rdf:type owl:Class ;
+       rdfs:subClassOf :RiverAndLakes ;
+       rdfs:comment "流域" .
+
+
+###  http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#CheckDam
+:CheckDam rdf:type owl:Class ;
+          rdfs:subClassOf :WaterConservancyProject ;
+          rdfs:comment "淤地坝" .
+
+
+###  http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#Culvert
+:Culvert rdf:type owl:Class ;
+         rdfs:subClassOf :WaterConservancyProject ;
+         rdfs:comment "涵洞" .
+
+
+###  http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#DischargeOutlet
+:DischargeOutlet rdf:type owl:Class ;
+                 rdfs:subClassOf :OtherManagementObject ;
+                 rdfs:comment "退排水口" .
+
+
+###  http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#FermentationCellar
+:FermentationCellar rdf:type owl:Class ;
+                    rdfs:subClassOf :WaterConservancyProject ;
+                    rdfs:comment "窖池" .
+
+
+###  http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#FloodDetentionArea
+:FloodDetentionArea rdf:type owl:Class ;
+                    rdfs:subClassOf :WaterConservancyProject ;
+                    rdfs:comment "蓄滞洪区" .
+
+
+###  http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#HydrologicalStation
+:HydrologicalStation rdf:type owl:Class ;
+                     rdfs:subClassOf :MonitoringStationPoint ;
+                     rdfs:comment "水文监测站" .
+
+
+###  http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#HydropowerStation
+:HydropowerStation rdf:type owl:Class ;
+                   rdfs:subClassOf :WaterConservancyProject ;
+                   rdfs:comment "水电站" .
+
+
+###  http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#InvertedSiphon
+:InvertedSiphon rdf:type owl:Class ;
+                rdfs:subClassOf :WaterConservancyProject ;
+                rdfs:comment "倒虹吸" .
+
+
+###  http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#IrrigationDistrict
+:IrrigationDistrict rdf:type owl:Class ;
+                    rdfs:subClassOf :WaterConservancyProject ;
+                    rdfs:comment "灌区" .
+
+
+###  http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#Lake
+:Lake rdf:type owl:Class ;
+      rdfs:subClassOf :RiverAndLakes ;
+      rdfs:comment "湖泊" .
+
+
+###  http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#Levee
+:Levee rdf:type owl:Class ;
+       rdfs:subClassOf :WaterConservancyProject ;
+       rdfs:comment "堤防" .
+
+
+###  http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#LeveeSection
+:LeveeSection rdf:type owl:Class ;
+              rdfs:subClassOf :OtherManagementObject ;
+              rdfs:comment "堤段" .
+
+
+###  http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#MonitoringStationPoint
+:MonitoringStationPoint rdf:type owl:Class ;
+                        rdfs:subClassOf :WaterConservancyObject ;
+                        rdfs:comment "监测站（点）" .
+
+
+###  http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#OtherManagementObject
+:OtherManagementObject rdf:type owl:Class ;
+                       rdfs:subClassOf :WaterConservancyObject ;
+                       rdfs:comment "其他管理对象" .
+
+
+###  http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#Polder
+:Polder rdf:type owl:Class ;
+        rdfs:subClassOf :WaterConservancyProject ;
+        rdfs:comment "圩垸" .
+
+
+###  http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#PondDam
+:PondDam rdf:type owl:Class ;
+         rdfs:subClassOf :WaterConservancyProject ;
+         rdfs:comment "塘坝" .
+
+
+###  http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#PumpingStation
+:PumpingStation rdf:type owl:Class ;
+                rdfs:subClassOf :WaterConservancyProject ;
+                rdfs:comment "泵站" .
+
+
+###  http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#Reservoir
+:Reservoir rdf:type owl:Class ;
+           rdfs:subClassOf :WaterConservancyProject ;
+           rdfs:comment "水库" .
+
+
+###  http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#ReservoirDam
+:ReservoirDam rdf:type owl:Class ;
+              rdfs:subClassOf :WaterConservancyProject ;
+              rdfs:comment "水库大坝" .
+
+
+###  http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#River
+:River rdf:type owl:Class ;
+       rdfs:subClassOf :RiverAndLakes ;
+       rdfs:comment "河流" .
+
+
+###  http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#RiverAndLakes
+:RiverAndLakes rdf:type owl:Class ;
+               rdfs:subClassOf :WaterConservancyObject ;
+               rdfs:comment "江河湖泊" .
+
+
+###  http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#RiverLakeManagementScope
+:RiverLakeManagementScope rdf:type owl:Class ;
+                          rdfs:subClassOf :OtherManagementObject ;
+                          rdfs:comment "河湖管理范围" .
+
+
+###  http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#RiverReach
+:RiverReach rdf:type owl:Class ;
+            rdfs:subClassOf :OtherManagementObject ;
+            rdfs:comment "河段" .
+
+
+###  http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#RiverRegulationProject
+:RiverRegulationProject rdf:type owl:Class ;
+                        rdfs:subClassOf :WaterConservancyProject ;
+                        rdfs:comment "治河工程" .
+
+
+###  http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#RubberDam
+:RubberDam rdf:type owl:Class ;
+           rdfs:subClassOf :WaterConservancyProject ;
+           rdfs:comment "橡胶坝" .
+
+
+###  http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#RuralWaterSupplyProject
+:RuralWaterSupplyProject rdf:type owl:Class ;
+                         rdfs:subClassOf :WaterConservancyProject ;
+                         rdfs:comment "农村供水工程" .
+
+
+###  http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#SandMiningZone
+:SandMiningZone rdf:type owl:Class ;
+                rdfs:subClassOf :OtherManagementObject ;
+                rdfs:comment "采砂分区" .
+
+
+###  http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#ShorelineFunctionZone
+:ShorelineFunctionZone rdf:type owl:Class ;
+                       rdfs:subClassOf :OtherManagementObject ;
+                       rdfs:comment "岸线功能分区" .
+
+
+###  http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#Sluice
+:Sluice rdf:type owl:Class ;
+        rdfs:subClassOf :WaterConservancyProject ;
+        rdfs:comment "水闸" .
+
+
+###  http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#SoilConservationStation
+:SoilConservationStation rdf:type owl:Class ;
+                         rdfs:subClassOf :MonitoringStationPoint ;
+                         rdfs:comment "水土保持监测站" .
+
+
+###  http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#SoilConservationZoning
+:SoilConservationZoning rdf:type owl:Class ;
+                        rdfs:subClassOf :OtherManagementObject ;
+                        rdfs:comment "水土保持区划" .
+
+
+###  http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#VulnerableSection
+:VulnerableSection rdf:type owl:Class ;
+                   rdfs:subClassOf :OtherManagementObject ;
+                   rdfs:comment "险工险段" .
+
+
+###  http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#WastewaterDischarger
+:WastewaterDischarger rdf:type owl:Class ;
+                      rdfs:subClassOf :OtherManagementObject ;
+                      rdfs:comment "退排水户" .
+
+
+###  http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#WaterConservancyObject
+:WaterConservancyObject rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#WaterConservancyProject
+:WaterConservancyProject rdf:type owl:Class ;
+                         rdfs:subClassOf :WaterConservancyObject ;
+                         rdfs:comment "水利工程" .
+
+
+###  http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#WaterDiversionProject
+:WaterDiversionProject rdf:type owl:Class ;
+                       rdfs:subClassOf :WaterConservancyProject ;
+                       rdfs:comment "引调水工程" .
+
+
+###  http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#WaterFunctionZone
+:WaterFunctionZone rdf:type owl:Class ;
+                   rdfs:subClassOf :OtherManagementObject ;
+                   rdfs:comment "水功能区" .
+
+
+###  http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#WaterIntake
+:WaterIntake rdf:type owl:Class ;
+             rdfs:subClassOf :OtherManagementObject ;
+             rdfs:comment "取水口" .
+
+
+###  http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#WaterQuantityMonitoringPoint
+:WaterQuantityMonitoringPoint rdf:type owl:Class ;
+                              rdfs:subClassOf :MonitoringStationPoint ;
+                              rdfs:comment "供（取）水量监测点" .
+
+
+###  http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#WaterResourceZone
+:WaterResourceZone rdf:type owl:Class ;
+                   rdfs:subClassOf :OtherManagementObject ;
+                   rdfs:comment "水资源分区" .
+
+
+###  http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#WaterSourceArea
+:WaterSourceArea rdf:type owl:Class ;
+                 rdfs:subClassOf :OtherManagementObject ;
+                 rdfs:comment "水源地" .
+
+
+###  http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#WaterUser
+:WaterUser rdf:type owl:Class ;
+           rdfs:subClassOf :OtherManagementObject ;
+           rdfs:comment "取用水户" .
+
+
+###  http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#WaterVideoSurveillancePoint
+:WaterVideoSurveillancePoint rdf:type owl:Class ;
+                             rdfs:subClassOf :MonitoringStationPoint ;
+                             rdfs:comment "水事影像监视点" .
+
+
+###  http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#WaterWell
+:WaterWell rdf:type owl:Class ;
+           rdfs:subClassOf :WaterConservancyProject ;
+           rdfs:comment "取水井" .
+
+
+###  http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#Canal(Ditch)
+<http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#Canal(Ditch)> rdf:type owl:Class ;
+                                                                                                rdfs:subClassOf :WaterConservancyProject ;
+                                                                                                rdfs:comment "渠（沟）道" .
+
+
+#################################################################
+#    General axioms
+#################################################################
+
+[ rdf:type owl:AllDisjointClasses ;
+  owl:members ( :Aqueduct
+                :CheckDam
+                :Culvert
+                :FermentationCellar
+                :FloodDetentionArea
+                :HydropowerStation
+                :InvertedSiphon
+                :IrrigationDistrict
+                :Levee
+                :Polder
+                :PondDam
+                :PumpingStation
+                :Reservoir
+                :ReservoirDam
+                :RiverRegulationProject
+                :RubberDam
+                :RuralWaterSupplyProject
+                :Sluice
+                :WaterDiversionProject
+                :WaterWell
+                <http://www.semanticweb.org/lenovo/ontologies/2026/3/FloodControlDispatchOntology#Canal(Ditch)>
+              )
+] .
+
+
+[ rdf:type owl:AllDisjointClasses ;
+  owl:members ( :Basin
+                :Lake
+                :River
+              )
+] .
+
+
+[ rdf:type owl:AllDisjointClasses ;
+  owl:members ( :DischargeOutlet
+                :LeveeSection
+                :RiverLakeManagementScope
+                :RiverReach
+                :SandMiningZone
+                :ShorelineFunctionZone
+                :SoilConservationZoning
+                :VulnerableSection
+                :WastewaterDischarger
+                :WaterFunctionZone
+                :WaterIntake
+                :WaterResourceZone
+                :WaterSourceArea
+                :WaterUser
+              )
+] .
+
+
+[ rdf:type owl:AllDisjointClasses ;
+  owl:members ( :HydrologicalStation
+                :SoilConservationStation
+                :WaterQuantityMonitoringPoint
+                :WaterVideoSurveillancePoint
+              )
+] .
+
+
+[ rdf:type owl:AllDisjointClasses ;
+  owl:members ( :MonitoringStationPoint
+                :OtherManagementObject
+                :RiverAndLakes
+                :WaterConservancyProject
+              )
+] .
+
+
+###  Generated by the OWL API (version 4.5.29.2024-05-13T12:11:03Z) https://github.com/owlcs/owlapi

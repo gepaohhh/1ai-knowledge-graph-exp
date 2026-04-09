@@ -23,6 +23,8 @@ from src.knowledge_graph.visualization import visualize_knowledge_graph, sample_
 from src.knowledge_graph.text_utils import chunk_text
 from src.knowledge_graph.entity_standardization import standardize_entities, infer_relationships, limit_predicate_length
 from src.knowledge_graph.prompts import prompt_factory
+from src.knowledge_graph.validatation import flatten_blocks_to_text, validate_triples_against_text
+from src.knowledge_graph.entity_standardization import load_stopwords_to_set
 
 def process_with_llm(config, input_text, debug=False):
     """
@@ -97,7 +99,7 @@ def process_with_llm(config, input_text, debug=False):
 
 
 #############################################
-# doc文档切块处理
+# doc文档切块处理 记录文档的  (id,所属的父级标题,文档格式,内容)
 #############################################
 def docx_table_to_dataframe(table: Table):
     """将表格数据存入panda里，不考虑表头信息"""
@@ -132,17 +134,22 @@ def operate_doc(path):
         raise FileNotFoundError(f"Input file not found: {path}")
 
     block_list = []
+    heading_id = -1
     # 使用生成器按顺序遍历
     for index, block in enumerate(iter_block_items(path)):
-        # 判断当前块的类型
         if isinstance(block, Paragraph):
+            # 如果是标题，更新当前标题ID
+            if block.style.name.startswith('Heading'):
+                heading_id = index
+        if isinstance(block, Paragraph): # 文本
+            # 存入段落内容 标题 文本等
             block_list.append(
-                (index, block.style.name, block.text)
+                (index, heading_id, block.style.name, block.text)
             )
-        elif isinstance(block, Table):
+        if isinstance(block, Table): # 表格
             # 遍历表格的行和单元格
             block_list.append(
-                (index, "table", docx_table_to_dataframe(block))
+                (index, heading_id, "table", docx_table_to_dataframe(block))
             )
     return block_list
 #############################################
@@ -171,7 +178,7 @@ def process_text_in_chunks(config, full_text, debug=False):
 
     # Split text into chunks 将文本块进行前后关联
     text_chunks = chunk_text(full_text, chunk_size, overlap)
-    # 打印文档分块信息
+    # # 打印文档分块信息
     for chunk in text_chunks:
         print(chunk)
         print("*" * 50)
@@ -200,8 +207,6 @@ def process_text_in_chunks(config, full_text, debug=False):
             all_results.extend(chunk_results)
         else:
             print(f"Warning: Failed to extract triples from chunk {i+1}")
-        ################!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-        break
     
     print(f"\nExtracted a total of {len(all_results)} triples from all chunks")
 
@@ -273,6 +278,8 @@ def get_unique_entities(triples):
     return entities
 
 def main():
+    load_stopwords_to_set()
+    aaa
     """Main entry point for the knowledge graph generator."""
     # Parse command line arguments
     parser = argparse.ArgumentParser(description='Knowledge Graph Generator and Visualizer')
@@ -332,6 +339,31 @@ def main():
     
     # Process text in chunks 代码核心位置 按文本块处理所有文本，得到三元组列表 
     result = process_text_in_chunks(config, input_text, args.debug)
+    
+    # Validate triple alignment against source text if requested
+    validation_enabled = args.validate_alignment or config.get("validation", {}).get("enabled", False)
+    if validation_enabled and result:
+        threshold = config.get("validation", {}).get("support_threshold", 0.6)
+        min_sentence_length = config.get("validation", {}).get("min_sentence_length", 20)
+        validation_report = validate_triples_against_text(
+            result,
+            flatten_blocks_to_text(input_text),
+            threshold=threshold,
+            min_sentence_length=min_sentence_length,
+        )
+
+        validation_output = args.output.replace('.html', '.validation.json')
+        try:
+            with open(validation_output, 'w', encoding='utf-8') as f:
+                json.dump(validation_report, f, ensure_ascii=False, indent=2)
+            print(f"Saved validation report to {validation_output}")
+            print(
+                f"Validation summary: supported {validation_report['supported_triples']}/"
+                f"{validation_report['total_triples']} triples "
+                f"(ratio={validation_report['support_ratio']}, avg_score={validation_report['avg_score']})"
+            )
+        except Exception as e:
+            print(f"Warning: Could not save validation report to {validation_output}: {e}")
     
     #######################################################
     # 将抽取结果进行数据保存和可视化展示
