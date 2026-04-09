@@ -278,8 +278,6 @@ def get_unique_entities(triples):
     return entities
 
 def main():
-    load_stopwords_to_set()
-    aaa
     """Main entry point for the knowledge graph generator."""
     # Parse command line arguments
     parser = argparse.ArgumentParser(description='Knowledge Graph Generator and Visualizer')
